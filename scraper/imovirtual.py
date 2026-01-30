@@ -17,6 +17,10 @@ class ImovirtualScraper(BaseScraper):
     BASE_URL = "https://www.imovirtual.com"
     API_URL = "https://www.imovirtual.com/api/query"
 
+    def scrape(self) -> List[RawListing]:
+        """Entry point sem Playwright para Selenium."""
+        return self.run(None)
+
     def run(self, page=None) -> List[RawListing]:
         """Scrape Imovirtual via Selenium (anti-bot)"""
         imovirtual_url = (
@@ -107,6 +111,8 @@ class ImovirtualScraper(BaseScraper):
                     link_el = item.find_elements(By.CSS_SELECTOR, '[data-cy="listing-item-link"]')
                     if link_el:
                         link = link_el[0].get_attribute('href')
+                        if link and link.startswith('/'):
+                            link = f"{self.BASE_URL}{link}"
                     location = None
                     location_el = item.find_elements(By.CSS_SELECTOR, '[data-sentry-component="Address"]')
                     if location_el:

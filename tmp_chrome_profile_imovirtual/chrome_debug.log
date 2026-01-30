@@ -1,0 +1,23 @@
+[4965:4986:0130/061001.698690:ERROR:dbus/bus.cc:406] Failed to connect to the bus: Failed to connect to socket /run/user/0/bus: Permission denied
+[5001:5001:0130/061001.783284:WARNING:sandbox/policy/linux/sandbox_linux.cc:404] InitializeSandbox() called with multiple threads in process gpu-process.
+[4965:4965:0130/061001.861944:INFO:components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc:206] No machine level policy manager exists.
+[4965:4986:0130/061001.925075:ERROR:dbus/bus.cc:406] Failed to connect to the bus: Failed to connect to socket /run/user/0/bus: Permission denied
+[4965:4986:0130/061002.178140:ERROR:dbus/bus.cc:406] Failed to connect to the bus: Failed to connect to socket /run/user/0/bus: Permission denied
+[4965:4965:0130/061002.410803:ERROR:dbus/object_proxy.cc:573] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[4965:4986:0130/061002.410927:ERROR:dbus/bus.cc:406] Failed to connect to the bus: Failed to connect to socket /run/user/0/bus: Permission denied
+[4965:4965:0130/061002.437100:ERROR:dbus/object_proxy.cc:573] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[4965:4965:0130/061002.441972:ERROR:dbus/object_proxy.cc:573] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[4965:4986:0130/061002.442155:ERROR:dbus/bus.cc:406] Failed to connect to the bus: Failed to connect to socket /run/user/0/bus: Permission denied
+[4965:4965:0130/061002.675286:ERROR:dbus/object_proxy.cc:573] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[4965:4965:0130/061002.679135:ERROR:dbus/object_proxy.cc:573] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[4965:4986:0130/061002.679244:ERROR:dbus/bus.cc:406] Failed to connect to the bus: Failed to connect to socket /run/user/0/bus: Permission denied
+[5014:5020:0130/061002.686365:ERROR:net/disk_cache/simple/simple_version_upgrade.cc:119] Disk cache backend fake index file has wrong magic number.
+[4965:4965:0130/061002.687036:ERROR:dbus/object_proxy.cc:573] Failed to call method: org.freedesktop.DBus.Properties.GetAll: object_path= /org/freedesktop/UPower/devices/DisplayDevice: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[4965:4965:0130/061002.687055:WARNING:dbus/property.cc:174] GetAll request failed for: org.freedesktop.UPower.Device
+[5014:5020:0130/061002.688276:ERROR:net/disk_cache/simple/simple_backend_impl.cc:743] Simple Cache Backend: wrong file structure on disk: 3 path: /home/runner/work/Agente/Agente/tmp_chrome_profile_imovirtual/Default/Cache/Cache_Data
+[4965:4965:0130/061002.688755:ERROR:dbus/object_proxy.cc:573] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[4965:4986:0130/061002.688850:ERROR:dbus/bus.cc:406] Failed to connect to the bus: Failed to connect to socket /run/user/0/bus: Permission denied
+[4965:4965:0130/061002.693283:ERROR:dbus/object_proxy.cc:573] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[4965:4986:0130/061002.693572:ERROR:dbus/bus.cc:406] Failed to connect to the bus: Failed to connect to socket /run/user/0/bus: Permission denied
+[4965:4965:0130/061002.703619:ERROR:dbus/object_proxy.cc:573] Failed to call method: org.freedesktop.DBus.NameHasOwner: object_path= /org/freedesktop/DBus: unknown error type: 
+[4965:4965:0130/061002.703640:WARNING:ui/base/idle/idle_linux.cc:98] None of the known D-Bus ScreenSaver services could be used.
