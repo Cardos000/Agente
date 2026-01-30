@@ -1,0 +1,660 @@
+2026-01-28 04:05:58,125 - RealEstateBotMain - INFO - ============================================================
+2026-01-28 04:05:58,126 - RealEstateBotMain - INFO - [BOT] REAL ESTATE BOT - INICIANDO PIPELINE
+2026-01-28 04:05:58,126 - RealEstateBotMain - INFO -    Modo: new
+2026-01-28 04:05:58,126 - RealEstateBotMain - INFO - ============================================================
+2026-01-28 04:05:58,126 - RealEstateBotMain - INFO - 
+[FASE 1] SCRAPING DE PORTAIS
+2026-01-28 04:05:58,126 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-28 04:05:58,126 - ScraperOrchestrator - INFO - INICIANDO ORCHESTRADOR DE SCRAPERS
+2026-01-28 04:05:58,126 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-28 04:05:58,127 - ScraperOrchestrator - INFO - Executando todos os 6 scrapers
+2026-01-28 04:05:58,127 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-28 04:05:58,127 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Imovirtual
+2026-01-28 04:05:58,127 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-28 04:05:59,042 - ImovirtualScraper - INFO - Processando localização: porto
+2026-01-28 04:05:59,042 - ImovirtualScraper - INFO - Página 1: https://www.imovirtual.com/comprar/apartamento/porto/?search%5Bfilter_float_pric...
+2026-01-28 04:06:03,029 - ImovirtualScraper - INFO - Total de articles encontrados: 40
+2026-01-28 04:06:04,767 - ImovirtualScraper - INFO - Encontrados 40 listings na página 1
+2026-01-28 04:06:04,771 - ImovirtualScraper - INFO - Sem próxima página para porto
+2026-01-28 04:06:08,295 - ImovirtualScraper - INFO - Processando localização: gondomar
+2026-01-28 04:06:08,295 - ImovirtualScraper - INFO - Página 1: https://www.imovirtual.com/comprar/apartamento/gondomar/?search%5Bfilter_float_p...
+2026-01-28 04:06:17,041 - ImovirtualScraper - INFO - Total de articles encontrados: 37
+2026-01-28 04:06:17,803 - ImovirtualScraper - INFO - Encontrados 37 listings na página 1
+2026-01-28 04:06:17,806 - ImovirtualScraper - INFO - Sem próxima página para gondomar
+2026-01-28 04:06:20,100 - ImovirtualScraper - INFO - Processando localização: maia
+2026-01-28 04:06:20,100 - ImovirtualScraper - INFO - Página 1: https://www.imovirtual.com/comprar/apartamento/maia/?search%5Bfilter_float_price...
+2026-01-28 04:06:27,819 - ImovirtualScraper - INFO - Total de articles encontrados: 37
+2026-01-28 04:06:28,709 - ImovirtualScraper - INFO - Encontrados 37 listings na página 1
+2026-01-28 04:06:28,712 - ImovirtualScraper - INFO - Sem próxima página para maia
+2026-01-28 04:06:31,631 - ImovirtualScraper - INFO - Processando localização: valongo
+2026-01-28 04:06:31,631 - ImovirtualScraper - INFO - Página 1: https://www.imovirtual.com/comprar/apartamento/valongo/?search%5Bfilter_float_pr...
+2026-01-28 04:06:41,213 - ImovirtualScraper - INFO - Total de articles encontrados: 37
+2026-01-28 04:06:42,028 - ImovirtualScraper - INFO - Encontrados 37 listings na página 1
+2026-01-28 04:06:42,031 - ImovirtualScraper - INFO - Sem próxima página para valongo
+2026-01-28 04:06:44,181 - ImovirtualScraper - INFO - Processando localização: penafiel
+2026-01-28 04:06:44,181 - ImovirtualScraper - INFO - Página 1: https://www.imovirtual.com/comprar/apartamento/penafiel/?search%5Bfilter_float_p...
+2026-01-28 04:06:51,598 - ImovirtualScraper - INFO - Total de articles encontrados: 37
+2026-01-28 04:06:52,503 - ImovirtualScraper - INFO - Encontrados 37 listings na página 1
+2026-01-28 04:06:52,507 - ImovirtualScraper - INFO - Sem próxima página para penafiel
+2026-01-28 04:06:57,374 - ImovirtualScraper - INFO - Processando localização: matosinhos
+2026-01-28 04:06:57,374 - ImovirtualScraper - INFO - Página 1: https://www.imovirtual.com/comprar/apartamento/matosinhos/?search%5Bfilter_float...
+2026-01-28 04:07:05,943 - ImovirtualScraper - INFO - Total de articles encontrados: 40
+2026-01-28 04:07:06,806 - ImovirtualScraper - INFO - Encontrados 40 listings na página 1
+2026-01-28 04:07:06,810 - ImovirtualScraper - INFO - Sem próxima página para matosinhos
+2026-01-28 04:07:10,205 - ImovirtualScraper - INFO - Processando localização: vila-nova-de-gaia
+2026-01-28 04:07:10,205 - ImovirtualScraper - INFO - Página 1: https://www.imovirtual.com/comprar/apartamento/vila-nova-de-gaia/?search%5Bfilte...
+2026-01-28 04:07:17,366 - ImovirtualScraper - INFO - Total de articles encontrados: 40
+2026-01-28 04:07:18,275 - ImovirtualScraper - INFO - Encontrados 40 listings na página 1
+2026-01-28 04:07:18,278 - ImovirtualScraper - INFO - Sem próxima página para vila-nova-de-gaia
+2026-01-28 04:07:22,493 - ImovirtualScraper - INFO - Processando localização: povoa-de-varzim
+2026-01-28 04:07:22,493 - ImovirtualScraper - INFO - Página 1: https://www.imovirtual.com/comprar/apartamento/povoa-de-varzim/?search%5Bfilter_...
+2026-01-28 04:07:30,921 - ImovirtualScraper - INFO - Total de articles encontrados: 37
+2026-01-28 04:07:31,673 - ImovirtualScraper - INFO - Encontrados 37 listings na página 1
+2026-01-28 04:07:31,677 - ImovirtualScraper - INFO - Sem próxima página para povoa-de-varzim
+2026-01-28 04:07:36,429 - ImovirtualScraper - INFO - Processando localização: espinho
+2026-01-28 04:07:36,429 - ImovirtualScraper - INFO - Página 1: https://www.imovirtual.com/comprar/apartamento/espinho/?search%5Bfilter_float_pr...
+2026-01-28 04:07:45,131 - ImovirtualScraper - INFO - Total de articles encontrados: 30
+2026-01-28 04:07:45,646 - ImovirtualScraper - INFO - Encontrados 30 listings na página 1
+2026-01-28 04:07:45,650 - ImovirtualScraper - INFO - Sem próxima página para espinho
+2026-01-28 04:07:48,261 - ImovirtualScraper - INFO - Processando localização: lousada
+2026-01-28 04:07:48,261 - ImovirtualScraper - INFO - Página 1: https://www.imovirtual.com/comprar/apartamento/lousada/?search%5Bfilter_float_pr...
+2026-01-28 04:07:56,590 - ImovirtualScraper - INFO - Total de articles encontrados: 37
+2026-01-28 04:07:57,272 - ImovirtualScraper - INFO - Encontrados 37 listings na página 1
+2026-01-28 04:07:57,275 - ImovirtualScraper - INFO - Sem próxima página para lousada
+2026-01-28 04:08:01,291 - ImovirtualScraper - INFO - [STATS] Pages: 10, Listings: 372, Errors: 0
+2026-01-28 04:08:01,425 - ScraperOrchestrator - INFO - [OK] Imovirtual: 372 listings extraidos
+2026-01-28 04:08:01,425 - ScraperOrchestrator - INFO -    Páginas: 10
+2026-01-28 04:08:01,425 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-28 04:08:01,425 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-28 04:08:01,425 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Idealista
+2026-01-28 04:08:01,425 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-28 04:08:02,298 - IdealistaScraper - INFO - Iniciando scrape Idealista
+2026-01-28 04:08:02,298 - IdealistaScraper - INFO - Página 1: https://www.idealista.pt/comprar/casas/porto-distrito/com-preco-max_250000,t2/?o...
+2026-01-28 04:08:09,340 - IdealistaScraper - INFO - Total de articles encontrados: 0
+2026-01-28 04:08:09,340 - IdealistaScraper - INFO - Nenhum listing encontrado na página 1
+2026-01-28 04:08:09,340 - IdealistaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-28 04:08:09,403 - ScraperOrchestrator - INFO - [OK] Idealista: 0 listings extraidos
+2026-01-28 04:08:09,404 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-28 04:08:09,404 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-28 04:08:09,404 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-28 04:08:09,404 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: OLX
+2026-01-28 04:08:09,404 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-28 04:08:10,344 - OlxScraper - INFO - Iniciando scrape OLX
+2026-01-28 04:08:10,345 - OlxScraper - INFO - Página 1: https://www.olx.pt/imoveis/apartamentos/porto/?priceRange=0,250000...
+2026-01-28 04:08:19,450 - OlxScraper - INFO - Total de items encontrados: 0
+2026-01-28 04:08:19,451 - OlxScraper - INFO - Nenhum listing na página 1
+2026-01-28 04:08:19,451 - OlxScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-28 04:08:19,501 - ScraperOrchestrator - INFO - [OK] OLX: 0 listings extraidos
+2026-01-28 04:08:19,501 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-28 04:08:19,501 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-28 04:08:19,502 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-28 04:08:19,502 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: CasaYes
+2026-01-28 04:08:19,502 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-28 04:08:20,420 - CasaYesScraper - INFO - Iniciando scrape CasaYes
+2026-01-28 04:08:20,420 - CasaYesScraper - INFO - Página 1
+2026-01-28 04:08:26,603 - CasaYesScraper - INFO - Total de items: 0
+2026-01-28 04:08:26,603 - CasaYesScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-28 04:08:26,672 - ScraperOrchestrator - INFO - [OK] CasaYes: 0 listings extraidos
+2026-01-28 04:08:26,672 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-28 04:08:26,672 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-28 04:08:26,672 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-28 04:08:26,672 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: SAPO Casa
+2026-01-28 04:08:26,672 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-28 04:08:27,613 - SapoCasaScraper - INFO - Iniciando scrape SAPO Casa
+2026-01-28 04:08:27,613 - SapoCasaScraper - INFO - Página 1
+2026-01-28 04:08:32,217 - SapoCasaScraper - INFO - Total de items: 0
+2026-01-28 04:08:32,217 - SapoCasaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-28 04:08:32,275 - ScraperOrchestrator - INFO - [OK] SAPO Casa: 0 listings extraidos
+2026-01-28 04:08:32,276 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-28 04:08:32,276 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-28 04:08:32,276 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-28 04:08:32,276 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: SuperCasa
+2026-01-28 04:08:32,276 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-28 04:08:33,170 - SuperCasaScraper - INFO - Iniciando scrape SuperCasa
+2026-01-28 04:08:33,170 - SuperCasaScraper - INFO - Página 1
+2026-01-28 04:08:37,897 - SuperCasaScraper - INFO - Total de items: 0
+2026-01-28 04:08:37,897 - SuperCasaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-28 04:08:37,948 - ScraperOrchestrator - INFO - [OK] SuperCasa: 0 listings extraidos
+2026-01-28 04:08:37,948 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-28 04:08:37,948 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-28 04:08:37,948 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-28 04:08:37,948 - ScraperOrchestrator - INFO - RESUMO FINAL
+2026-01-28 04:08:37,948 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-28 04:08:37,948 - ScraperOrchestrator - INFO - Total de listings extraídos: 372
+2026-01-28 04:08:37,948 - ScraperOrchestrator - INFO - Tempo total: 159.82s
+2026-01-28 04:08:37,948 - ScraperOrchestrator - INFO - Scrapers OK: 6
+2026-01-28 04:08:37,948 - ScraperOrchestrator - INFO - Scrapers FALHADOS: 0
+2026-01-28 04:08:37,948 - ScraperOrchestrator - INFO - ================================================================================
+
+2026-01-28 04:08:37,948 - RealEstateBotMain - INFO - [OK] Scraping concluido: 372 anuncios coletados
+2026-01-28 04:08:37,948 - RealEstateBotMain - INFO - 
+[FASE 2] FILTRAGEM POR MODO (new)
+2026-01-28 04:08:37,949 - RealEstateBotMain - INFO - [OK] 372/372 anuncios a processar
+2026-01-28 04:08:37,949 - RealEstateBotMain - INFO - 
+[FASE 3] PIPELINE MULTI-AGENTE
+2026-01-28 04:08:37,949 - PipelineOrchestrator - INFO - [PIPELINE] Iniciando pipeline para 372 anuncios
+2026-01-28 04:08:37,949 - PipelineOrchestrator - INFO - [STAGE 1] Normalizando dados brutos...
+2026-01-28 04:08:37,949 - NormalizationAgent - WARNING - Área suspeita: 5 m²
+2026-01-28 04:08:37,949 - NormalizationAgent - WARNING - Área suspeita: 5 m²
+2026-01-28 04:08:37,949 - NormalizationAgent - WARNING - Área suspeita: 1 m²
+2026-01-28 04:08:37,949 - NormalizationAgent - WARNING - Área suspeita: 3 m²
+2026-01-28 04:08:37,949 - NormalizationAgent - WARNING - Área suspeita: 6 m²
+2026-01-28 04:08:37,949 - NormalizationAgent - WARNING - Área suspeita: 6 m²
+2026-01-28 04:08:37,950 - NormalizationAgent - WARNING - Área suspeita: 5 m²
+2026-01-28 04:08:37,950 - NormalizationAgent - WARNING - Área suspeita: 0 m²
+2026-01-28 04:08:37,950 - NormalizationAgent - WARNING - Área suspeita: 0 m²
+2026-01-28 04:08:37,950 - NormalizationAgent - WARNING - Área suspeita: 4 m²
+2026-01-28 04:08:37,950 - NormalizationAgent - WARNING - Área suspeita: 5 m²
+2026-01-28 04:08:37,950 - NormalizationAgent - WARNING - Área suspeita: 1 m²
+2026-01-28 04:08:37,950 - NormalizationAgent - WARNING - Área suspeita: 7 m²
+2026-01-28 04:08:37,950 - NormalizationAgent - WARNING - Área suspeita: 5 m²
+2026-01-28 04:08:37,950 - NormalizationAgent - WARNING - Área suspeita: 5 m²
+2026-01-28 04:08:37,950 - NormalizationAgent - WARNING - Área suspeita: 8 m²
+2026-01-28 04:08:37,950 - NormalizationAgent - WARNING - Área suspeita: 4 m²
+2026-01-28 04:08:37,950 - NormalizationAgent - WARNING - Área suspeita: 1 m²
+2026-01-28 04:08:37,950 - NormalizationAgent - WARNING - Área suspeita: 8 m²
+2026-01-28 04:08:37,950 - NormalizationAgent - WARNING - Área suspeita: 9 m²
+2026-01-28 04:08:37,950 - NormalizationAgent - WARNING - Área suspeita: 1 m²
+2026-01-28 04:08:37,950 - NormalizationAgent - WARNING - Área suspeita: 8 m²
+2026-01-28 04:08:37,950 - NormalizationAgent - WARNING - Área suspeita: 0 m²
+2026-01-28 04:08:37,950 - NormalizationAgent - WARNING - Área suspeita: 0 m²
+2026-01-28 04:08:37,950 - NormalizationAgent - WARNING - Área suspeita: 5 m²
+2026-01-28 04:08:37,951 - NormalizationAgent - WARNING - Área suspeita: 6 m²
+2026-01-28 04:08:37,951 - NormalizationAgent - WARNING - Área suspeita: 7 m²
+2026-01-28 04:08:37,951 - NormalizationAgent - WARNING - Área suspeita: 9 m²
+2026-01-28 04:08:37,951 - NormalizationAgent - WARNING - Área suspeita: 7 m²
+2026-01-28 04:08:37,951 - NormalizationAgent - WARNING - Área suspeita: 4 m²
+2026-01-28 04:08:37,951 - NormalizationAgent - WARNING - Área suspeita: 8 m²
+2026-01-28 04:08:37,951 - NormalizationAgent - WARNING - Área suspeita: 5 m²
+2026-01-28 04:08:37,951 - NormalizationAgent - WARNING - Área suspeita: 5 m²
+2026-01-28 04:08:37,951 - NormalizationAgent - WARNING - Área suspeita: 6 m²
+2026-01-28 04:08:37,951 - NormalizationAgent - WARNING - Área suspeita: 6 m²
+2026-01-28 04:08:37,952 - NormalizationAgent - WARNING - Área suspeita: 6 m²
+2026-01-28 04:08:37,952 - NormalizationAgent - WARNING - Área suspeita: 1 m²
+2026-01-28 04:08:37,952 - NormalizationAgent - WARNING - Área suspeita: 5 m²
+2026-01-28 04:08:37,952 - NormalizationAgent - WARNING - Área suspeita: 8 m²
+2026-01-28 04:08:37,952 - NormalizationAgent - WARNING - Área suspeita: 1 m²
+2026-01-28 04:08:37,952 - NormalizationAgent - WARNING - Área suspeita: 8 m²
+2026-01-28 04:08:37,952 - NormalizationAgent - WARNING - Área suspeita: 5 m²
+2026-01-28 04:08:37,952 - NormalizationAgent - WARNING - Área suspeita: 1 m²
+2026-01-28 04:08:37,952 - NormalizationAgent - WARNING - Área suspeita: 6 m²
+2026-01-28 04:08:37,952 - NormalizationAgent - WARNING - Área suspeita: 9 m²
+2026-01-28 04:08:37,953 - NormalizationAgent - WARNING - Área suspeita: 5 m²
+2026-01-28 04:08:37,953 - NormalizationAgent - WARNING - Área suspeita: 9 m²
+2026-01-28 04:08:37,953 - NormalizationAgent - WARNING - Área suspeita: 8 m²
+2026-01-28 04:08:37,953 - NormalizationAgent - WARNING - Área suspeita: 5 m²
+2026-01-28 04:08:37,953 - NormalizationAgent - WARNING - Área suspeita: 8 m²
+2026-01-28 04:08:37,953 - NormalizationAgent - WARNING - Área suspeita: 1 m²
+2026-01-28 04:08:37,953 - NormalizationAgent - WARNING - Área suspeita: 5 m²
+2026-01-28 04:08:37,954 - NormalizationAgent - WARNING - Área suspeita: 4 m²
+2026-01-28 04:08:37,954 - NormalizationAgent - WARNING - Área suspeita: 3 m²
+2026-01-28 04:08:37,954 - NormalizationAgent - WARNING - Área suspeita: 1 m²
+2026-01-28 04:08:37,954 - NormalizationAgent - WARNING - Área suspeita: 3 m²
+2026-01-28 04:08:37,954 - NormalizationAgent - WARNING - Área suspeita: 5 m²
+2026-01-28 04:08:37,954 - NormalizationAgent - WARNING - Área suspeita: 3 m²
+2026-01-28 04:08:37,954 - NormalizationAgent - WARNING - Área suspeita: 6 m²
+2026-01-28 04:08:37,954 - NormalizationAgent - WARNING - Área suspeita: 7 m²
+2026-01-28 04:08:37,954 - NormalizationAgent - WARNING - Área suspeita: 1 m²
+2026-01-28 04:08:37,954 - NormalizationAgent - WARNING - Área suspeita: 4 m²
+2026-01-28 04:08:37,954 - NormalizationAgent - WARNING - Área suspeita: 4 m²
+2026-01-28 04:08:37,954 - NormalizationAgent - WARNING - Área suspeita: 4 m²
+2026-01-28 04:08:37,955 - NormalizationAgent - WARNING - Área suspeita: 5 m²
+2026-01-28 04:08:37,955 - NormalizationAgent - WARNING - Área suspeita: 3 m²
+2026-01-28 04:08:37,955 - NormalizationAgent - WARNING - Área suspeita: 5 m²
+2026-01-28 04:08:37,955 - NormalizationAgent - WARNING - Área suspeita: 5 m²
+2026-01-28 04:08:37,955 - PipelineOrchestrator - INFO -   [OK] 372/372 normalizados
+2026-01-28 04:08:37,955 - PipelineOrchestrator - INFO -     - Taxa extracao preco: 99.7%
+2026-01-28 04:08:37,955 - PipelineOrchestrator - INFO -     - Taxa extração área: 98.1%
+2026-01-28 04:08:37,955 - PipelineOrchestrator - INFO -     - Taxa extração localização: 100.0%
+2026-01-28 04:08:37,955 - PipelineOrchestrator - INFO - [STAGE 2] Verificando localizacao e transporte...
+2026-01-28 04:08:38,037 - PipelineOrchestrator - INFO -   [OK] 372 localizacoes verificadas
+2026-01-28 04:08:38,037 - PipelineOrchestrator - INFO -     - Metro: 89
+2026-01-28 04:08:38,037 - PipelineOrchestrator - INFO -     - Comboio: 267
+2026-01-28 04:08:38,037 - PipelineOrchestrator - INFO -     - Incertos: 16
+2026-01-28 04:08:38,037 - PipelineOrchestrator - INFO - [STAGE 3] Validando perfil...
+2026-01-28 04:08:38,039 - PipelineOrchestrator - INFO -   [OK] Perfil validado
+2026-01-28 04:08:38,039 - PipelineOrchestrator - INFO -     - [OK] Aprovados (pre-score): 0
+2026-01-28 04:08:38,039 - PipelineOrchestrator - INFO -     - [REVISAO] Para revisao: 372
+2026-01-28 04:08:38,039 - PipelineOrchestrator - INFO -     - [REJEITADO] Rejeitados: 0
+2026-01-28 04:08:38,039 - PipelineOrchestrator - INFO - [STAGE 4] Calculando scores...
+2026-01-28 04:08:38,043 - PipelineOrchestrator - INFO -   [OK] Scores calculados
+2026-01-28 04:08:38,043 - PipelineOrchestrator - INFO - [STAGE 5] Categorizando resultados...
+2026-01-28 04:08:38,043 - PipelineOrchestrator - INFO -   [OK] Categorizacao concluida
+2026-01-28 04:08:38,043 - PipelineOrchestrator - INFO -     - [OK] Boas oportunidades: 0
+2026-01-28 04:08:38,043 - PipelineOrchestrator - INFO -     - [INCERTOS] Para revisao: 372
+2026-01-28 04:08:38,043 - PipelineOrchestrator - INFO -     - [REJEITADO] Rejeitados: 0
+2026-01-28 04:08:38,043 - PipelineOrchestrator - INFO -     - [ERROS] Erros: 0
+2026-01-28 04:08:38,043 - PipelineOrchestrator - INFO - [VALIDACAO] VALIDACAO ANTI-OVERFILTERING...
+2026-01-28 04:08:38,043 - RealEstateBotMain - INFO - 
+[FASE 4] GERAÇÃO DE OUTPUTS (C3)
+2026-01-28 04:08:38,044 - OutputGenerator - INFO - [OK] Gerado: output\top_opportunities.md
+2026-01-28 04:08:38,047 - OutputGenerator - INFO - [OK] Gerado: output\needs_review.md
+2026-01-28 04:08:38,047 - OutputGenerator - INFO - [REJEITADO] Gerado: output\rejected.log
+2026-01-28 04:08:38,050 - OutputGenerator - INFO - [OK] Gerado: output\all_scored.csv
+2026-01-28 04:08:38,050 - RealEstateBotMain - INFO - [OK] Gerado: output\top_opportunities.md
+2026-01-28 04:08:38,050 - RealEstateBotMain - INFO - [OK] Gerado: output\needs_review.md
+2026-01-28 04:08:38,050 - RealEstateBotMain - INFO - [OK] Gerado: output\rejected.log
+2026-01-28 04:08:38,050 - RealEstateBotMain - INFO - [OK] Gerado: output\all_scored.csv
+2026-01-28 04:08:38,050 - RealEstateBotMain - INFO - 
+[FASE 5] ATUALIZAR HISTÓRICO
+2026-01-28 04:08:38,055 - RealEstateBotMain - INFO - [OK] Historico atualizado (366 total)
+2026-01-28 04:08:38,055 - RealEstateBotMain - INFO - 
+============================================================
+2026-01-28 04:08:38,055 - RealEstateBotMain - INFO - [RESUMO] FINAL
+2026-01-28 04:08:38,055 - RealEstateBotMain - INFO - ============================================================
+2026-01-28 04:08:38,055 - RealEstateBotMain - INFO - Total processado: 372
+2026-01-28 04:08:38,055 - RealEstateBotMain - INFO - [APROVADO] 0
+2026-01-28 04:08:38,055 - RealEstateBotMain - INFO - [REVISAO] 372
+2026-01-28 04:08:38,055 - RealEstateBotMain - INFO - [REJEITADO] 0
+2026-01-28 04:08:38,055 - RealEstateBotMain - INFO - [ERROS] 0
+2026-01-28 04:08:38,055 - RealEstateBotMain - INFO - ============================================================
+2026-01-28 04:08:38,055 - RealEstateBotMain - INFO - 
+[PROXIMOS] PASSOS:
+2026-01-28 04:08:38,055 - RealEstateBotMain - INFO - 1. Consulte output\top_opportunities.md
+2026-01-28 04:08:38,055 - RealEstateBotMain - INFO - 2. Revise output\needs_review.md
+2026-01-28 04:08:38,055 - RealEstateBotMain - INFO - 3. Analise output\all_scored.csv
+2026-01-28 04:08:38,055 - RealEstateBotMain - INFO - 
+[SUCESSO] PIPELINE CONCLUIDO
+2026-01-28 13:21:18,258 - RealEstateBotMain - INFO - ============================================================
+2026-01-28 13:21:18,259 - RealEstateBotMain - INFO - [BOT] REAL ESTATE BOT - INICIANDO PIPELINE
+2026-01-28 13:21:18,259 - RealEstateBotMain - INFO -    Modo: new
+2026-01-28 13:21:18,259 - RealEstateBotMain - INFO - ============================================================
+2026-01-28 13:21:18,259 - RealEstateBotMain - INFO - 
+[FASE 1] SCRAPING DE PORTAIS
+2026-01-28 13:21:18,259 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-28 13:21:18,260 - ScraperOrchestrator - INFO - INICIANDO ORCHESTRADOR DE SCRAPERS
+2026-01-28 13:21:18,260 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-28 13:21:18,260 - ScraperOrchestrator - INFO - Executando todos os 6 scrapers
+2026-01-28 13:21:18,260 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-28 13:21:18,260 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Imovirtual
+2026-01-28 13:21:18,260 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-28 13:21:40,069 - ImovirtualScraper - INFO - Processando localização: porto
+2026-01-28 13:21:40,069 - ImovirtualScraper - INFO - Página 1: https://www.imovirtual.com/comprar/apartamento/porto/?search%5Bfilter_float_pric...
+2026-01-28 13:21:47,175 - ImovirtualScraper - INFO - Total de articles encontrados: 40
+2026-01-28 13:21:49,224 - ImovirtualScraper - INFO - Encontrados 40 listings na página 1
+2026-01-28 13:21:49,228 - ImovirtualScraper - INFO - Sem próxima página para porto
+2026-01-28 13:21:53,894 - ImovirtualScraper - INFO - Processando localização: gondomar
+2026-01-28 13:21:53,894 - ImovirtualScraper - INFO - Página 1: https://www.imovirtual.com/comprar/apartamento/gondomar/?search%5Bfilter_float_p...
+2026-01-28 13:22:00,902 - ImovirtualScraper - INFO - Total de articles encontrados: 37
+2026-01-28 13:22:01,972 - ImovirtualScraper - INFO - Encontrados 37 listings na página 1
+2026-01-28 13:22:01,976 - ImovirtualScraper - INFO - Sem próxima página para gondomar
+2026-01-28 13:22:04,773 - ImovirtualScraper - INFO - Processando localização: maia
+2026-01-28 13:22:04,773 - ImovirtualScraper - INFO - Página 1: https://www.imovirtual.com/comprar/apartamento/maia/?search%5Bfilter_float_price...
+2026-01-28 13:22:12,145 - ImovirtualScraper - INFO - Total de articles encontrados: 37
+2026-01-28 13:22:12,922 - ImovirtualScraper - INFO - Encontrados 37 listings na página 1
+2026-01-28 13:22:12,925 - ImovirtualScraper - INFO - Sem próxima página para maia
+2026-01-28 13:22:17,912 - ImovirtualScraper - INFO - Processando localização: valongo
+2026-01-28 13:22:17,912 - ImovirtualScraper - INFO - Página 1: https://www.imovirtual.com/comprar/apartamento/valongo/?search%5Bfilter_float_pr...
+2026-01-28 13:22:27,064 - ImovirtualScraper - INFO - Total de articles encontrados: 37
+2026-01-28 13:22:27,985 - ImovirtualScraper - INFO - Encontrados 37 listings na página 1
+2026-01-28 13:22:27,990 - ImovirtualScraper - INFO - Sem próxima página para valongo
+2026-01-28 13:22:32,718 - ImovirtualScraper - INFO - Processando localização: penafiel
+2026-01-28 13:22:32,718 - ImovirtualScraper - INFO - Página 1: https://www.imovirtual.com/comprar/apartamento/penafiel/?search%5Bfilter_float_p...
+2026-01-28 13:22:40,967 - ImovirtualScraper - INFO - Total de articles encontrados: 37
+2026-01-28 13:22:42,104 - ImovirtualScraper - INFO - Encontrados 37 listings na página 1
+2026-01-28 13:22:42,109 - ImovirtualScraper - INFO - Sem próxima página para penafiel
+2026-01-28 13:22:45,835 - ImovirtualScraper - INFO - Processando localização: matosinhos
+2026-01-28 13:22:45,835 - ImovirtualScraper - INFO - Página 1: https://www.imovirtual.com/comprar/apartamento/matosinhos/?search%5Bfilter_float...
+2026-01-28 13:22:54,960 - ImovirtualScraper - INFO - Total de articles encontrados: 39
+2026-01-28 13:22:55,958 - ImovirtualScraper - INFO - Encontrados 39 listings na página 1
+2026-01-28 13:22:55,962 - ImovirtualScraper - INFO - Sem próxima página para matosinhos
+2026-01-28 13:23:00,055 - ImovirtualScraper - INFO - Processando localização: vila-nova-de-gaia
+2026-01-28 13:23:00,055 - ImovirtualScraper - INFO - Página 1: https://www.imovirtual.com/comprar/apartamento/vila-nova-de-gaia/?search%5Bfilte...
+2026-01-28 13:23:08,034 - ImovirtualScraper - INFO - Total de articles encontrados: 40
+2026-01-28 13:23:09,143 - ImovirtualScraper - INFO - Encontrados 40 listings na página 1
+2026-01-28 13:23:09,147 - ImovirtualScraper - INFO - Sem próxima página para vila-nova-de-gaia
+2026-01-28 13:23:12,982 - ImovirtualScraper - INFO - Processando localização: povoa-de-varzim
+2026-01-28 13:23:12,982 - ImovirtualScraper - INFO - Página 1: https://www.imovirtual.com/comprar/apartamento/povoa-de-varzim/?search%5Bfilter_...
+2026-01-28 13:23:22,083 - ImovirtualScraper - INFO - Total de articles encontrados: 37
+2026-01-28 13:23:23,198 - ImovirtualScraper - INFO - Encontrados 37 listings na página 1
+2026-01-28 13:23:23,202 - ImovirtualScraper - INFO - Sem próxima página para povoa-de-varzim
+2026-01-28 13:23:25,312 - ImovirtualScraper - INFO - Processando localização: espinho
+2026-01-28 13:23:25,312 - ImovirtualScraper - INFO - Página 1: https://www.imovirtual.com/comprar/apartamento/espinho/?search%5Bfilter_float_pr...
+2026-01-28 13:23:33,891 - ImovirtualScraper - INFO - Total de articles encontrados: 29
+2026-01-28 13:23:34,397 - ImovirtualScraper - INFO - Encontrados 29 listings na página 1
+2026-01-28 13:23:34,416 - ImovirtualScraper - INFO - Sem próxima página para espinho
+2026-01-28 13:23:38,478 - ImovirtualScraper - INFO - Processando localização: lousada
+2026-01-28 13:23:38,479 - ImovirtualScraper - INFO - Página 1: https://www.imovirtual.com/comprar/apartamento/lousada/?search%5Bfilter_float_pr...
+2026-01-28 13:23:46,353 - ImovirtualScraper - INFO - Total de articles encontrados: 37
+2026-01-28 13:23:47,085 - ImovirtualScraper - INFO - Encontrados 37 listings na página 1
+2026-01-28 13:23:47,088 - ImovirtualScraper - INFO - Sem próxima página para lousada
+2026-01-28 13:23:50,751 - ImovirtualScraper - INFO - [STATS] Pages: 10, Listings: 370, Errors: 0
+2026-01-28 13:23:50,884 - ScraperOrchestrator - INFO - [OK] Imovirtual: 370 listings extraidos
+2026-01-28 13:23:50,885 - ScraperOrchestrator - INFO -    Páginas: 10
+2026-01-28 13:23:50,885 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-28 13:23:50,885 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-28 13:23:50,885 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Idealista
+2026-01-28 13:23:50,886 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-28 13:23:51,772 - IdealistaScraper - ERROR - Erro fatal no Idealista: 'IdealistaScraper' object has no attribute '_handle_authentication'
+2026-01-28 13:23:51,773 - IdealistaScraper - INFO - [STATS] Pages: 0, Listings: 0, Errors: 1
+2026-01-28 13:23:51,810 - ScraperOrchestrator - INFO - [OK] Idealista: 0 listings extraidos
+2026-01-28 13:23:51,810 - ScraperOrchestrator - INFO -    Páginas: 0
+2026-01-28 13:23:51,810 - ScraperOrchestrator - INFO -    Erros: 1
+2026-01-28 13:23:51,811 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-28 13:23:51,811 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: OLX
+2026-01-28 13:23:51,811 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-28 13:23:52,703 - OlxScraper - ERROR - Erro fatal no OLX: 'OlxScraper' object has no attribute '_handle_authentication'
+2026-01-28 13:23:52,703 - OlxScraper - INFO - [STATS] Pages: 0, Listings: 0, Errors: 1
+2026-01-28 13:23:52,739 - ScraperOrchestrator - INFO - [OK] OLX: 0 listings extraidos
+2026-01-28 13:23:52,740 - ScraperOrchestrator - INFO -    Páginas: 0
+2026-01-28 13:23:52,740 - ScraperOrchestrator - INFO -    Erros: 1
+2026-01-28 13:23:52,740 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-28 13:23:52,740 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: CasaYes
+2026-01-28 13:23:52,740 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-28 13:23:53,591 - CasaYesScraper - ERROR - Erro fatal no CasaYes: 'CasaYesScraper' object has no attribute '_handle_authentication'
+2026-01-28 13:23:53,591 - CasaYesScraper - INFO - [STATS] Pages: 0, Listings: 0, Errors: 1
+2026-01-28 13:23:53,627 - ScraperOrchestrator - INFO - [OK] CasaYes: 0 listings extraidos
+2026-01-28 13:23:53,627 - ScraperOrchestrator - INFO -    Páginas: 0
+2026-01-28 13:23:53,627 - ScraperOrchestrator - INFO -    Erros: 1
+2026-01-28 13:23:53,627 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-28 13:23:53,627 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: SAPO Casa
+2026-01-28 13:23:53,628 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-28 13:23:54,497 - SapoCasaScraper - ERROR - Erro fatal no SAPO: 'SapoCasaScraper' object has no attribute '_handle_authentication'
+2026-01-28 13:23:54,497 - SapoCasaScraper - INFO - [STATS] Pages: 0, Listings: 0, Errors: 1
+2026-01-28 13:23:54,534 - ScraperOrchestrator - INFO - [OK] SAPO Casa: 0 listings extraidos
+2026-01-28 13:23:54,535 - ScraperOrchestrator - INFO -    Páginas: 0
+2026-01-28 13:23:54,535 - ScraperOrchestrator - INFO -    Erros: 1
+2026-01-28 13:23:54,535 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-28 13:23:54,535 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: SuperCasa
+2026-01-28 13:23:54,535 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-28 13:23:55,405 - SuperCasaScraper - ERROR - Erro fatal no SuperCasa: 'SuperCasaScraper' object has no attribute '_handle_authentication'
+2026-01-28 13:23:55,405 - SuperCasaScraper - INFO - [STATS] Pages: 0, Listings: 0, Errors: 1
+2026-01-28 13:23:55,441 - ScraperOrchestrator - INFO - [OK] SuperCasa: 0 listings extraidos
+2026-01-28 13:23:55,441 - ScraperOrchestrator - INFO -    Páginas: 0
+2026-01-28 13:23:55,441 - ScraperOrchestrator - INFO -    Erros: 1
+2026-01-28 13:23:55,441 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-28 13:23:55,441 - ScraperOrchestrator - INFO - RESUMO FINAL
+2026-01-28 13:23:55,442 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-28 13:23:55,442 - ScraperOrchestrator - INFO - Total de listings extraídos: 370
+2026-01-28 13:23:55,442 - ScraperOrchestrator - INFO - Tempo total: 157.18s
+2026-01-28 13:23:55,442 - ScraperOrchestrator - INFO - Scrapers OK: 6
+2026-01-28 13:23:55,443 - ScraperOrchestrator - INFO - Scrapers FALHADOS: 0
+2026-01-28 13:23:55,443 - ScraperOrchestrator - INFO - ================================================================================
+
+2026-01-28 13:23:55,443 - RealEstateBotMain - INFO - [OK] Scraping concluido: 370 anuncios coletados
+2026-01-28 13:23:55,443 - RealEstateBotMain - INFO - 
+[FASE 2] FILTRAGEM POR MODO (new)
+2026-01-28 13:23:55,443 - RealEstateBotMain - INFO - [OK] 56/370 anuncios a processar
+2026-01-28 13:23:55,443 - RealEstateBotMain - INFO - 
+[FASE 3] PIPELINE MULTI-AGENTE
+2026-01-28 13:23:55,443 - PipelineOrchestrator - INFO - [PIPELINE] Iniciando pipeline para 56 anuncios
+2026-01-28 13:23:55,444 - PipelineOrchestrator - INFO - [STAGE 1] Normalizando dados brutos...
+2026-01-28 13:23:55,444 - NormalizationAgent - WARNING - Área suspeita: 6 m²
+2026-01-28 13:23:55,444 - NormalizationAgent - WARNING - Área suspeita: 3 m²
+2026-01-28 13:23:55,444 - NormalizationAgent - WARNING - Área suspeita: 5 m²
+2026-01-28 13:23:55,444 - NormalizationAgent - WARNING - Área suspeita: 5 m²
+2026-01-28 13:23:55,445 - NormalizationAgent - WARNING - Área suspeita: 9 m²
+2026-01-28 13:23:55,445 - NormalizationAgent - WARNING - Área suspeita: 7 m²
+2026-01-28 13:23:55,445 - NormalizationAgent - WARNING - Área suspeita: 7 m²
+2026-01-28 13:23:55,445 - NormalizationAgent - WARNING - Área suspeita: 1 m²
+2026-01-28 13:23:55,445 - NormalizationAgent - WARNING - Área suspeita: 1 m²
+2026-01-28 13:23:55,445 - NormalizationAgent - WARNING - Área suspeita: 7 m²
+2026-01-28 13:23:55,445 - NormalizationAgent - WARNING - Área suspeita: 1 m²
+2026-01-28 13:23:55,446 - PipelineOrchestrator - INFO -   [OK] 56/56 normalizados
+2026-01-28 13:23:55,446 - PipelineOrchestrator - INFO -     - Taxa extracao preco: 100.0%
+2026-01-28 13:23:55,446 - PipelineOrchestrator - INFO -     - Taxa extração área: 98.2%
+2026-01-28 13:23:55,446 - PipelineOrchestrator - INFO -     - Taxa extração localização: 100.0%
+2026-01-28 13:23:55,446 - PipelineOrchestrator - INFO - [STAGE 2] Verificando localizacao e transporte...
+2026-01-28 13:23:55,456 - PipelineOrchestrator - INFO -   [OK] 56 localizacoes verificadas
+2026-01-28 13:23:55,456 - PipelineOrchestrator - INFO -     - Metro: 13
+2026-01-28 13:23:55,456 - PipelineOrchestrator - INFO -     - Comboio: 39
+2026-01-28 13:23:55,457 - PipelineOrchestrator - INFO -     - Incertos: 4
+2026-01-28 13:23:55,457 - PipelineOrchestrator - INFO - [STAGE 3] Validando perfil...
+2026-01-28 13:23:55,457 - PipelineOrchestrator - INFO -   [OK] Perfil validado
+2026-01-28 13:23:55,457 - PipelineOrchestrator - INFO -     - [OK] Aprovados (pre-score): 0
+2026-01-28 13:23:55,457 - PipelineOrchestrator - INFO -     - [REVISAO] Para revisao: 56
+2026-01-28 13:23:55,458 - PipelineOrchestrator - INFO -     - [REJEITADO] Rejeitados: 0
+2026-01-28 13:23:55,458 - PipelineOrchestrator - INFO - [STAGE 4] Calculando scores...
+2026-01-28 13:23:55,459 - PipelineOrchestrator - INFO -   [OK] Scores calculados
+2026-01-28 13:23:55,459 - PipelineOrchestrator - INFO - [STAGE 5] Categorizando resultados...
+2026-01-28 13:23:55,459 - PipelineOrchestrator - INFO -   [OK] Categorizacao concluida
+2026-01-28 13:23:55,459 - PipelineOrchestrator - INFO -     - [OK] Boas oportunidades: 0
+2026-01-28 13:23:55,459 - PipelineOrchestrator - INFO -     - [INCERTOS] Para revisao: 56
+2026-01-28 13:23:55,459 - PipelineOrchestrator - INFO -     - [REJEITADO] Rejeitados: 0
+2026-01-28 13:23:55,459 - PipelineOrchestrator - INFO -     - [ERROS] Erros: 0
+2026-01-28 13:23:55,459 - PipelineOrchestrator - INFO - [VALIDACAO] VALIDACAO ANTI-OVERFILTERING...
+2026-01-28 13:23:55,459 - RealEstateBotMain - INFO - 
+[FASE 4] GERAÇÃO DE OUTPUTS (C3)
+2026-01-28 13:23:55,460 - OutputGenerator - INFO - [OK] Gerado: output\top_opportunities.md
+2026-01-28 13:23:55,463 - OutputGenerator - INFO - [OK] Gerado: output\needs_review.md
+2026-01-28 13:23:55,463 - OutputGenerator - INFO - [REJEITADO] Gerado: output\rejected.log
+2026-01-28 13:23:55,465 - OutputGenerator - INFO - [OK] Gerado: output\all_scored.csv
+2026-01-28 13:23:55,465 - RealEstateBotMain - INFO - [OK] Gerado: output\top_opportunities.md
+2026-01-28 13:23:55,465 - RealEstateBotMain - INFO - [OK] Gerado: output\needs_review.md
+2026-01-28 13:23:55,465 - RealEstateBotMain - INFO - [OK] Gerado: output\rejected.log
+2026-01-28 13:23:55,465 - RealEstateBotMain - INFO - [OK] Gerado: output\all_scored.csv
+2026-01-28 13:23:55,465 - RealEstateBotMain - INFO - 
+[FASE 5] ATUALIZAR HISTÓRICO
+2026-01-28 13:23:55,470 - RealEstateBotMain - INFO - [OK] Historico atualizado (420 total)
+2026-01-28 13:23:55,470 - RealEstateBotMain - INFO - 
+============================================================
+2026-01-28 13:23:55,470 - RealEstateBotMain - INFO - [RESUMO] FINAL
+2026-01-28 13:23:55,471 - RealEstateBotMain - INFO - ============================================================
+2026-01-28 13:23:55,471 - RealEstateBotMain - INFO - Total processado: 56
+2026-01-28 13:23:55,471 - RealEstateBotMain - INFO - [APROVADO] 0
+2026-01-28 13:23:55,471 - RealEstateBotMain - INFO - [REVISAO] 56
+2026-01-28 13:23:55,471 - RealEstateBotMain - INFO - [REJEITADO] 0
+2026-01-28 13:23:55,471 - RealEstateBotMain - INFO - [ERROS] 0
+2026-01-28 13:23:55,471 - RealEstateBotMain - INFO - ============================================================
+2026-01-28 13:23:55,471 - RealEstateBotMain - INFO - 
+[PROXIMOS] PASSOS:
+2026-01-28 13:23:55,472 - RealEstateBotMain - INFO - 1. Consulte output\top_opportunities.md
+2026-01-28 13:23:55,472 - RealEstateBotMain - INFO - 2. Revise output\needs_review.md
+2026-01-28 13:23:55,472 - RealEstateBotMain - INFO - 3. Analise output\all_scored.csv
+2026-01-28 13:23:55,472 - RealEstateBotMain - INFO - 
+[SUCESSO] PIPELINE CONCLUIDO
+2026-01-28 13:23:55,778 - RealEstateBotMain - INFO - ============================================================
+2026-01-28 13:23:55,778 - RealEstateBotMain - INFO - [BOT] REAL ESTATE BOT - INICIANDO PIPELINE
+2026-01-28 13:23:55,778 - RealEstateBotMain - INFO -    Modo: new
+2026-01-28 13:23:55,778 - RealEstateBotMain - INFO - ============================================================
+2026-01-28 13:23:55,778 - RealEstateBotMain - INFO - 
+[FASE 1] SCRAPING DE PORTAIS
+2026-01-28 13:23:55,779 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-28 13:23:55,779 - ScraperOrchestrator - INFO - INICIANDO ORCHESTRADOR DE SCRAPERS
+2026-01-28 13:23:55,779 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-28 13:23:55,779 - ScraperOrchestrator - INFO - Executando todos os 6 scrapers
+2026-01-28 13:23:55,779 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-28 13:23:55,779 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Imovirtual
+2026-01-28 13:23:55,779 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-28 13:23:56,703 - ImovirtualScraper - INFO - Processando localização: porto
+2026-01-28 13:23:56,703 - ImovirtualScraper - INFO - Página 1: https://www.imovirtual.com/comprar/apartamento/porto/?search%5Bfilter_float_pric...
+2026-01-28 13:24:03,272 - ImovirtualScraper - INFO - Total de articles encontrados: 40
+2026-01-28 13:24:05,370 - ImovirtualScraper - INFO - Encontrados 40 listings na página 1
+2026-01-28 13:24:05,378 - ImovirtualScraper - INFO - Sem próxima página para porto
+2026-01-28 13:24:08,472 - ImovirtualScraper - INFO - Processando localização: gondomar
+2026-01-28 13:24:08,473 - ImovirtualScraper - INFO - Página 1: https://www.imovirtual.com/comprar/apartamento/gondomar/?search%5Bfilter_float_p...
+2026-01-28 13:24:17,237 - ImovirtualScraper - INFO - Total de articles encontrados: 37
+2026-01-28 13:24:18,010 - ImovirtualScraper - INFO - Encontrados 37 listings na página 1
+2026-01-28 13:24:18,014 - ImovirtualScraper - INFO - Sem próxima página para gondomar
+2026-01-28 13:24:22,556 - ImovirtualScraper - INFO - Processando localização: maia
+2026-01-28 13:24:22,557 - ImovirtualScraper - INFO - Página 1: https://www.imovirtual.com/comprar/apartamento/maia/?search%5Bfilter_float_price...
+2026-01-28 13:24:30,663 - ImovirtualScraper - INFO - Total de articles encontrados: 37
+2026-01-28 13:24:31,468 - ImovirtualScraper - INFO - Encontrados 37 listings na página 1
+2026-01-28 13:24:31,471 - ImovirtualScraper - INFO - Sem próxima página para maia
+2026-01-28 13:24:35,985 - ImovirtualScraper - INFO - Processando localização: valongo
+2026-01-28 13:24:35,985 - ImovirtualScraper - INFO - Página 1: https://www.imovirtual.com/comprar/apartamento/valongo/?search%5Bfilter_float_pr...
+2026-01-28 13:24:42,771 - ImovirtualScraper - INFO - Total de articles encontrados: 37
+2026-01-28 13:24:43,709 - ImovirtualScraper - INFO - Encontrados 37 listings na página 1
+2026-01-28 13:24:43,713 - ImovirtualScraper - INFO - Sem próxima página para valongo
+2026-01-28 13:24:48,555 - ImovirtualScraper - INFO - Processando localização: penafiel
+2026-01-28 13:24:48,556 - ImovirtualScraper - INFO - Página 1: https://www.imovirtual.com/comprar/apartamento/penafiel/?search%5Bfilter_float_p...
+2026-01-28 13:24:56,555 - ImovirtualScraper - INFO - Total de articles encontrados: 37
+2026-01-28 13:24:57,389 - ImovirtualScraper - INFO - Encontrados 37 listings na página 1
+2026-01-28 13:24:57,392 - ImovirtualScraper - INFO - Sem próxima página para penafiel
+2026-01-28 13:25:01,433 - ImovirtualScraper - INFO - Processando localização: matosinhos
+2026-01-28 13:25:01,434 - ImovirtualScraper - INFO - Página 1: https://www.imovirtual.com/comprar/apartamento/matosinhos/?search%5Bfilter_float...
+2026-01-28 13:25:10,948 - ImovirtualScraper - INFO - Total de articles encontrados: 39
+2026-01-28 13:25:11,924 - ImovirtualScraper - INFO - Encontrados 39 listings na página 1
+2026-01-28 13:25:11,929 - ImovirtualScraper - INFO - Sem próxima página para matosinhos
+2026-01-28 13:25:14,366 - ImovirtualScraper - INFO - Processando localização: vila-nova-de-gaia
+2026-01-28 13:25:14,366 - ImovirtualScraper - INFO - Página 1: https://www.imovirtual.com/comprar/apartamento/vila-nova-de-gaia/?search%5Bfilte...
+2026-01-28 13:25:24,392 - ImovirtualScraper - INFO - Total de articles encontrados: 40
+2026-01-28 13:25:25,429 - ImovirtualScraper - INFO - Encontrados 40 listings na página 1
+2026-01-28 13:25:25,434 - ImovirtualScraper - INFO - Sem próxima página para vila-nova-de-gaia
+2026-01-28 13:25:29,841 - ImovirtualScraper - INFO - Processando localização: povoa-de-varzim
+2026-01-28 13:25:29,841 - ImovirtualScraper - INFO - Página 1: https://www.imovirtual.com/comprar/apartamento/povoa-de-varzim/?search%5Bfilter_...
+2026-01-28 13:25:38,867 - ImovirtualScraper - INFO - Total de articles encontrados: 37
+2026-01-28 13:25:39,735 - ImovirtualScraper - INFO - Encontrados 37 listings na página 1
+2026-01-28 13:25:39,739 - ImovirtualScraper - INFO - Sem próxima página para povoa-de-varzim
+2026-01-28 13:25:43,449 - ImovirtualScraper - INFO - Processando localização: espinho
+2026-01-28 13:25:43,449 - ImovirtualScraper - INFO - Página 1: https://www.imovirtual.com/comprar/apartamento/espinho/?search%5Bfilter_float_pr...
+2026-01-28 13:25:52,649 - ImovirtualScraper - INFO - Total de articles encontrados: 29
+2026-01-28 13:25:53,269 - ImovirtualScraper - INFO - Encontrados 29 listings na página 1
+2026-01-28 13:25:53,274 - ImovirtualScraper - INFO - Sem próxima página para espinho
+2026-01-28 13:25:58,116 - ImovirtualScraper - INFO - Processando localização: lousada
+2026-01-28 13:25:58,116 - ImovirtualScraper - INFO - Página 1: https://www.imovirtual.com/comprar/apartamento/lousada/?search%5Bfilter_float_pr...
+2026-01-28 13:26:06,330 - ImovirtualScraper - INFO - Total de articles encontrados: 37
+2026-01-28 13:26:07,064 - ImovirtualScraper - INFO - Encontrados 37 listings na página 1
+2026-01-28 13:26:07,067 - ImovirtualScraper - INFO - Sem próxima página para lousada
+2026-01-28 13:26:10,937 - ImovirtualScraper - INFO - [STATS] Pages: 10, Listings: 370, Errors: 0
+2026-01-28 13:26:11,064 - ScraperOrchestrator - INFO - [OK] Imovirtual: 370 listings extraidos
+2026-01-28 13:26:11,065 - ScraperOrchestrator - INFO -    Páginas: 10
+2026-01-28 13:26:11,065 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-28 13:26:11,065 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-28 13:26:11,065 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Idealista
+2026-01-28 13:26:11,065 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-28 13:26:11,955 - IdealistaScraper - ERROR - Erro fatal no Idealista: 'IdealistaScraper' object has no attribute '_handle_authentication'
+2026-01-28 13:26:11,955 - IdealistaScraper - INFO - [STATS] Pages: 0, Listings: 0, Errors: 1
+2026-01-28 13:26:11,991 - ScraperOrchestrator - INFO - [OK] Idealista: 0 listings extraidos
+2026-01-28 13:26:11,992 - ScraperOrchestrator - INFO -    Páginas: 0
+2026-01-28 13:26:11,992 - ScraperOrchestrator - INFO -    Erros: 1
+2026-01-28 13:26:11,992 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-28 13:26:11,993 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: OLX
+2026-01-28 13:26:11,993 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-28 13:26:12,843 - OlxScraper - ERROR - Erro fatal no OLX: 'OlxScraper' object has no attribute '_handle_authentication'
+2026-01-28 13:26:12,843 - OlxScraper - INFO - [STATS] Pages: 0, Listings: 0, Errors: 1
+2026-01-28 13:26:12,877 - ScraperOrchestrator - INFO - [OK] OLX: 0 listings extraidos
+2026-01-28 13:26:12,878 - ScraperOrchestrator - INFO -    Páginas: 0
+2026-01-28 13:26:12,878 - ScraperOrchestrator - INFO -    Erros: 1
+2026-01-28 13:26:12,878 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-28 13:26:12,878 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: CasaYes
+2026-01-28 13:26:12,878 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-28 13:26:13,726 - CasaYesScraper - ERROR - Erro fatal no CasaYes: 'CasaYesScraper' object has no attribute '_handle_authentication'
+2026-01-28 13:26:13,726 - CasaYesScraper - INFO - [STATS] Pages: 0, Listings: 0, Errors: 1
+2026-01-28 13:26:13,768 - ScraperOrchestrator - INFO - [OK] CasaYes: 0 listings extraidos
+2026-01-28 13:26:13,768 - ScraperOrchestrator - INFO -    Páginas: 0
+2026-01-28 13:26:13,768 - ScraperOrchestrator - INFO -    Erros: 1
+2026-01-28 13:26:13,769 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-28 13:26:13,769 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: SAPO Casa
+2026-01-28 13:26:13,769 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-28 13:26:14,625 - SapoCasaScraper - ERROR - Erro fatal no SAPO: 'SapoCasaScraper' object has no attribute '_handle_authentication'
+2026-01-28 13:26:14,625 - SapoCasaScraper - INFO - [STATS] Pages: 0, Listings: 0, Errors: 1
+2026-01-28 13:26:14,659 - ScraperOrchestrator - INFO - [OK] SAPO Casa: 0 listings extraidos
+2026-01-28 13:26:14,659 - ScraperOrchestrator - INFO -    Páginas: 0
+2026-01-28 13:26:14,659 - ScraperOrchestrator - INFO -    Erros: 1
+2026-01-28 13:26:14,659 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-28 13:26:14,659 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: SuperCasa
+2026-01-28 13:26:14,660 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-28 13:26:15,509 - SuperCasaScraper - ERROR - Erro fatal no SuperCasa: 'SuperCasaScraper' object has no attribute '_handle_authentication'
+2026-01-28 13:26:15,509 - SuperCasaScraper - INFO - [STATS] Pages: 0, Listings: 0, Errors: 1
+2026-01-28 13:26:15,544 - ScraperOrchestrator - INFO - [OK] SuperCasa: 0 listings extraidos
+2026-01-28 13:26:15,544 - ScraperOrchestrator - INFO -    Páginas: 0
+2026-01-28 13:26:15,545 - ScraperOrchestrator - INFO -    Erros: 1
+2026-01-28 13:26:15,545 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-28 13:26:15,545 - ScraperOrchestrator - INFO - RESUMO FINAL
+2026-01-28 13:26:15,545 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-28 13:26:15,545 - ScraperOrchestrator - INFO - Total de listings extraídos: 370
+2026-01-28 13:26:15,545 - ScraperOrchestrator - INFO - Tempo total: 139.77s
+2026-01-28 13:26:15,545 - ScraperOrchestrator - INFO - Scrapers OK: 6
+2026-01-28 13:26:15,546 - ScraperOrchestrator - INFO - Scrapers FALHADOS: 0
+2026-01-28 13:26:15,546 - ScraperOrchestrator - INFO - ================================================================================
+
+2026-01-28 13:26:15,546 - RealEstateBotMain - INFO - [OK] Scraping concluido: 370 anuncios coletados
+2026-01-28 13:26:15,546 - RealEstateBotMain - INFO - 
+[FASE 2] FILTRAGEM POR MODO (new)
+2026-01-28 13:26:15,546 - RealEstateBotMain - INFO - [OK] 1/370 anuncios a processar
+2026-01-28 13:26:15,546 - RealEstateBotMain - INFO - 
+[FASE 3] PIPELINE MULTI-AGENTE
+2026-01-28 13:26:15,546 - PipelineOrchestrator - INFO - [PIPELINE] Iniciando pipeline para 1 anuncios
+2026-01-28 13:26:15,546 - PipelineOrchestrator - INFO - [STAGE 1] Normalizando dados brutos...
+2026-01-28 13:26:15,547 - PipelineOrchestrator - INFO -   [OK] 1/1 normalizados
+2026-01-28 13:26:15,547 - PipelineOrchestrator - INFO -     - Taxa extracao preco: 100.0%
+2026-01-28 13:26:15,547 - PipelineOrchestrator - INFO -     - Taxa extração área: 100.0%
+2026-01-28 13:26:15,547 - PipelineOrchestrator - INFO -     - Taxa extração localização: 100.0%
+2026-01-28 13:26:15,547 - PipelineOrchestrator - INFO - [STAGE 2] Verificando localizacao e transporte...
+2026-01-28 13:26:15,548 - PipelineOrchestrator - INFO -   [OK] 1 localizacoes verificadas
+2026-01-28 13:26:15,548 - PipelineOrchestrator - INFO -     - Metro: 0
+2026-01-28 13:26:15,548 - PipelineOrchestrator - INFO -     - Comboio: 1
+2026-01-28 13:26:15,548 - PipelineOrchestrator - INFO -     - Incertos: 0
+2026-01-28 13:26:15,548 - PipelineOrchestrator - INFO - [STAGE 3] Validando perfil...
+2026-01-28 13:26:15,549 - PipelineOrchestrator - INFO -   [OK] Perfil validado
+2026-01-28 13:26:15,549 - PipelineOrchestrator - INFO -     - [OK] Aprovados (pre-score): 0
+2026-01-28 13:26:15,549 - PipelineOrchestrator - INFO -     - [REVISAO] Para revisao: 1
+2026-01-28 13:26:15,549 - PipelineOrchestrator - INFO -     - [REJEITADO] Rejeitados: 0
+2026-01-28 13:26:15,549 - PipelineOrchestrator - INFO - [STAGE 4] Calculando scores...
+2026-01-28 13:26:15,549 - PipelineOrchestrator - INFO -   [OK] Scores calculados
+2026-01-28 13:26:15,549 - PipelineOrchestrator - INFO - [STAGE 5] Categorizando resultados...
+2026-01-28 13:26:15,549 - PipelineOrchestrator - INFO -   [OK] Categorizacao concluida
+2026-01-28 13:26:15,549 - PipelineOrchestrator - INFO -     - [OK] Boas oportunidades: 0
+2026-01-28 13:26:15,549 - PipelineOrchestrator - INFO -     - [INCERTOS] Para revisao: 1
+2026-01-28 13:26:15,550 - PipelineOrchestrator - INFO -     - [REJEITADO] Rejeitados: 0
+2026-01-28 13:26:15,550 - PipelineOrchestrator - INFO -     - [ERROS] Erros: 0
+2026-01-28 13:26:15,550 - PipelineOrchestrator - INFO - [VALIDACAO] VALIDACAO ANTI-OVERFILTERING...
+2026-01-28 13:26:15,550 - RealEstateBotMain - INFO - 
+[FASE 4] GERAÇÃO DE OUTPUTS (C3)
+2026-01-28 13:26:15,551 - OutputGenerator - INFO - [OK] Gerado: output\top_opportunities.md
+2026-01-28 13:26:15,551 - OutputGenerator - INFO - [OK] Gerado: output\needs_review.md
+2026-01-28 13:26:15,552 - OutputGenerator - INFO - [REJEITADO] Gerado: output\rejected.log
+2026-01-28 13:26:15,552 - OutputGenerator - INFO - [OK] Gerado: output\all_scored.csv
+2026-01-28 13:26:15,552 - RealEstateBotMain - INFO - [OK] Gerado: output\top_opportunities.md
+2026-01-28 13:26:15,552 - RealEstateBotMain - INFO - [OK] Gerado: output\needs_review.md
+2026-01-28 13:26:15,552 - RealEstateBotMain - INFO - [OK] Gerado: output\rejected.log
+2026-01-28 13:26:15,552 - RealEstateBotMain - INFO - [OK] Gerado: output\all_scored.csv
+2026-01-28 13:26:15,552 - RealEstateBotMain - INFO - 
+[FASE 5] ATUALIZAR HISTÓRICO
+2026-01-28 13:26:15,556 - RealEstateBotMain - INFO - [OK] Historico atualizado (421 total)
+2026-01-28 13:26:15,557 - RealEstateBotMain - INFO - 
+============================================================
+2026-01-28 13:26:15,557 - RealEstateBotMain - INFO - [RESUMO] FINAL
+2026-01-28 13:26:15,557 - RealEstateBotMain - INFO - ============================================================
+2026-01-28 13:26:15,557 - RealEstateBotMain - INFO - Total processado: 1
+2026-01-28 13:26:15,557 - RealEstateBotMain - INFO - [APROVADO] 0
+2026-01-28 13:26:15,557 - RealEstateBotMain - INFO - [REVISAO] 1
+2026-01-28 13:26:15,557 - RealEstateBotMain - INFO - [REJEITADO] 0
+2026-01-28 13:26:15,557 - RealEstateBotMain - INFO - [ERROS] 0
+2026-01-28 13:26:15,557 - RealEstateBotMain - INFO - ============================================================
+2026-01-28 13:26:15,557 - RealEstateBotMain - INFO - 
+[PROXIMOS] PASSOS:
+2026-01-28 13:26:15,558 - RealEstateBotMain - INFO - 1. Consulte output\top_opportunities.md
+2026-01-28 13:26:15,558 - RealEstateBotMain - INFO - 2. Revise output\needs_review.md
+2026-01-28 13:26:15,558 - RealEstateBotMain - INFO - 3. Analise output\all_scored.csv
+2026-01-28 13:26:15,558 - RealEstateBotMain - INFO - 
+[SUCESSO] PIPELINE CONCLUIDO
+2026-01-28 13:49:07,182 - RealEstateBotMain - INFO - ============================================================
+2026-01-28 13:49:07,182 - RealEstateBotMain - INFO - [BOT] REAL ESTATE BOT - INICIANDO PIPELINE
+2026-01-28 13:49:07,182 - RealEstateBotMain - INFO -    Modo: new
+2026-01-28 13:49:07,182 - RealEstateBotMain - INFO - ============================================================
+2026-01-28 13:49:07,182 - RealEstateBotMain - INFO - 
+[FASE 1] SCRAPING DE PORTAIS
+2026-01-28 13:49:07,183 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-28 13:49:07,183 - ScraperOrchestrator - INFO - INICIANDO ORCHESTRADOR DE SCRAPERS
+2026-01-28 13:49:07,183 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-28 13:49:07,183 - ScraperOrchestrator - INFO - Executando todos os 6 scrapers
+2026-01-28 13:49:07,183 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-28 13:49:07,184 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Imovirtual
+2026-01-28 13:49:07,184 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-28 13:49:08,146 - ImovirtualScraper - INFO - Processando localização: porto
+2026-01-28 13:49:08,146 - ImovirtualScraper - INFO - Página 1: https://www.imovirtual.com/comprar/apartamento/porto/?search%5Bfilter_float_pric...
+2026-01-28 13:49:16,946 - ImovirtualScraper - INFO - Total de articles encontrados: 40

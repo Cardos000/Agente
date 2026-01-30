@@ -1,0 +1,1666 @@
+2026-01-29 11:50:05,999 - RealEstateBotMain - INFO - ============================================================
+2026-01-29 11:50:06,000 - RealEstateBotMain - INFO - [BOT] REAL ESTATE BOT - INICIANDO PIPELINE
+2026-01-29 11:50:06,000 - RealEstateBotMain - INFO -    Modo: new
+2026-01-29 11:50:06,000 - RealEstateBotMain - INFO - ============================================================
+2026-01-29 11:50:06,000 - RealEstateBotMain - INFO - 
+[FASE 1] SCRAPING DE PORTAIS
+2026-01-29 11:50:06,000 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-29 11:50:06,000 - ScraperOrchestrator - INFO - INICIANDO ORCHESTRADOR DE SCRAPERS
+2026-01-29 11:50:06,001 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-29 11:50:06,001 - ScraperOrchestrator - INFO - Executando todos os 6 scrapers
+2026-01-29 11:50:06,001 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-29 11:50:06,001 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Imovirtual
+2026-01-29 11:50:06,001 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-29 11:50:12,407 - ImovirtualScraper - INFO - Processando localização: porto
+2026-01-29 11:50:12,407 - ImovirtualScraper - INFO - Página 1: https://www.imovirtual.com/comprar/apartamento/porto/?search%5Bfilter_float_pric...
+2026-01-29 11:50:21,913 - ImovirtualScraper - INFO - Total de articles encontrados: 40
+2026-01-30 02:13:36,790 - RealEstateBotMain - INFO - ============================================================
+2026-01-30 02:13:36,791 - RealEstateBotMain - INFO - [BOT] REAL ESTATE BOT - INICIANDO PIPELINE
+2026-01-30 02:13:36,791 - RealEstateBotMain - INFO -    Modo: new
+2026-01-30 02:13:36,791 - RealEstateBotMain - INFO - ============================================================
+2026-01-30 02:13:36,791 - RealEstateBotMain - INFO - 
+[FASE 1] SCRAPING DE PORTAIS
+2026-01-30 02:13:36,791 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 02:13:36,791 - ScraperOrchestrator - INFO - INICIANDO ORCHESTRADOR DE SCRAPERS
+2026-01-30 02:13:36,791 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 02:13:36,792 - ScraperOrchestrator - INFO - Executando todos os 6 scrapers
+2026-01-30 02:13:36,792 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 02:13:36,792 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Imovirtual
+2026-01-30 02:13:36,792 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 02:14:01,230 - ImovirtualScraper - INFO - Processando localização: porto
+2026-01-30 02:14:01,230 - ImovirtualScraper - INFO - Página 1: https://www.imovirtual.com/comprar/apartamento/porto/?search%5Bfilter_float_pric...
+2026-01-30 02:14:12,650 - ImovirtualScraper - INFO - Total de articles encontrados: 38
+2026-01-30 02:32:37,921 - RealEstateBotMain - INFO - ============================================================
+2026-01-30 02:32:37,922 - RealEstateBotMain - INFO - [BOT] REAL ESTATE BOT - INICIANDO PIPELINE
+2026-01-30 02:32:37,922 - RealEstateBotMain - INFO -    Modo: new
+2026-01-30 02:32:37,922 - RealEstateBotMain - INFO - ============================================================
+2026-01-30 02:32:37,922 - RealEstateBotMain - INFO - 
+[FASE 1] SCRAPING DE PORTAIS
+2026-01-30 02:32:37,922 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 02:32:37,922 - ScraperOrchestrator - INFO - INICIANDO ORCHESTRADOR DE SCRAPERS
+2026-01-30 02:32:37,922 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 02:32:37,923 - ScraperOrchestrator - INFO - Executando todos os 6 scrapers
+2026-01-30 02:32:37,923 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 02:32:37,923 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Imovirtual
+2026-01-30 02:32:37,923 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 02:32:39,515 - ImovirtualScraper - WARNING - Nenhum anúncio encontrado na resposta da API.
+2026-01-30 02:32:39,517 - ImovirtualScraper - INFO - [STATS] Pages: 0, Listings: 0, Errors: 0
+2026-01-30 02:32:39,567 - ScraperOrchestrator - INFO - [OK] Imovirtual: 0 listings extraidos
+2026-01-30 02:32:39,567 - ScraperOrchestrator - INFO -    Páginas: 0
+2026-01-30 02:32:39,568 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 02:32:39,568 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 02:32:39,568 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Idealista
+2026-01-30 02:32:39,568 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 02:32:40,428 - IdealistaScraper - INFO - Iniciando scrape Idealista
+2026-01-30 02:32:40,429 - IdealistaScraper - INFO - Página 1: https://www.idealista.pt/comprar/casas/porto-distrito/com-preco-max_250000,t2/?o...
+2026-01-30 02:32:52,731 - IdealistaScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 02:32:52,731 - IdealistaScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 02:32:52,732 - IdealistaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 02:32:52,788 - ScraperOrchestrator - INFO - [OK] Idealista: 0 listings extraidos
+2026-01-30 02:32:52,788 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 02:32:52,788 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 02:32:52,788 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 02:32:52,788 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: OLX
+2026-01-30 02:32:52,788 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 02:32:53,670 - OlxScraper - INFO - [DEBUG] Conteúdo cookies_olx.json: [{'domain': '.olx.pt', 'expirationDate': 1784509812, 'hostOnly': False, 'httpOnly': False, 'name': '__eoi', 'path': '/', 'sameSite': 'no_restriction', 'secure': True, 'session': False, 'storeId': '0', 'value': 'ID=ab777ed66bfb6fe4:T=1768957812:RT=1769611227:S=AA-AfjbQhSZB591rkvKXFBIMSjC5', 'id': 1}, {'domain': '.olx.pt', 'expirationDate': 1785624891, 'hostOnly': False, 'httpOnly': False, 'name': '__gads', 'path': '/', 'sameSite': 'no_restriction', 'secure': True, 'session': False, 'storeId': '0', 'value': 'ID=9d51b0cfd7891ab8:T=1751928891:RT=1769611227:S=ALNI_MZ3tl1dryoAnAhFGmALqW31PQVurw', 'id': 2}, {'domain': '.olx.pt', 'expirationDate': 1803738675, 'hostOnly': False, 'httpOnly': False, 'name': '__gfp_64b', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'RlMlMBwCX7RIcJZXIr06DLu7tXI_rT1YYxdkv4.VTX7.P7|1751928870|2|||8:1:80', 'id': 3}, {'domain': '.olx.pt', 'expirationDate': 1787785118, 'hostOnly': False, 'httpOnly': False, 'name': '__gfp_cap', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'KlxUsRGGGM5mMe2XoiDfU8sKSaGGKSm7MMZMms8GhaS1R5nG', 'id': 4}, {'domain': '.olx.pt', 'expirationDate': 1785624891, 'hostOnly': False, 'httpOnly': False, 'name': '__gpi', 'path': '/', 'sameSite': 'no_restriction', 'secure': True, 'session': False, 'storeId': '0', 'value': 'UID=00001175d39991da:T=1751928891:RT=1769611227:S=ALNI_MYjZzcONePV3_b-JrMHaYQdlz96Rg', 'id': 5}, {'domain': '.olx.pt', 'expirationDate': 1785624876, 'hostOnly': False, 'httpOnly': False, 'name': '__gsas', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'ID=5d968f91a37e8c55:T=1751928876:RT=1751928876:S=ALNI_MbaxnayThbUiuSsT6sTpfPSDLk0Qg', 'id': 6}, {'domain': '.olx.pt', 'expirationDate': 1804170680.219898, 'hostOnly': False, 'httpOnly': False, 'name': '__user_id_P&S', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': '391297488', 'id': 7}, {'domain': '.olx.pt', 'expirationDate': 1804170682.391122, 'hostOnly': False, 'httpOnly': False, 'name': '_ga', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'GA1.1.1591814767.1751928878', 'id': 8}, {'domain': '.olx.pt', 'expirationDate': 1804170682.36378, 'hostOnly': False, 'httpOnly': False, 'name': '_ga_2GM5QEJ1H6', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'GS2.1.s1769610677$o3$g1$t1769610682$j55$l0$h0', 'id': 9}, {'domain': '.olx.pt', 'expirationDate': 1804171303.232022, 'hostOnly': False, 'httpOnly': False, 'name': '_ga_JLRQS2B4H1', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'GS2.1.s1769610677$o4$g1$t1769611303$j59$l0$h0', 'id': 10}, {'domain': '.olx.pt', 'expirationDate': 1804170682.390769, 'hostOnly': False, 'httpOnly': False, 'name': '_ga_L97YMGPQ5R', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'GS2.1.s1769610677$o3$g1$t1769610682$j55$l0$h0', 'id': 11}, {'domain': '.olx.pt', 'expirationDate': 1776733802, 'hostOnly': False, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': '1.1.924902992.1768957802', 'id': 12}, {'domain': '.olx.pt', 'expirationDate': 1769613096, 'hostOnly': False, 'httpOnly': False, 'name': '_hjSession_2218927', 'path': '/', 'sameSite': 'no_restriction', 'secure': True, 'session': False, 'storeId': '0', 'value': 'eyJpZCI6IjEzMzM3ZjBjLTA5ZGEtNDQ2ZS1hZWY4LTEzYjQyYWJmYTIwZiIsImMiOjE3Njk2MTA2NzUzMjQsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjowLCJzcCI6MH0=', 'id': 13}, {'domain': '.olx.pt', 'expirationDate': 1801146679, 'hostOnly': False, 'httpOnly': False, 'name': '_hjSessionUser_2218927', 'path': '/', 'sameSite': 'no_restriction', 'secure': True, 'session': False, 'storeId': '0', 'value': 'eyJpZCI6IjAxOTk2Njg4LTYxZGYtNWUxZS04NjNhLWY3ODA4MDUxYmRlMCIsImNyZWF0ZWQiOjE3NTE5Mjg4NzcyNjMsImV4aXN0aW5nIjp0cnVlfQ==', 'id': 14}, {'domain': '.olx.pt', 'expirationDate': 1769697076, 'hostOnly': False, 'httpOnly': False, 'name': '_legacy_auth0.3q2gr1va98i7rvd0l3kef2b6qg.is.authenticated', 'path': '/', 'sameSite': 'unspecified', 'secure': True, 'session': False, 'storeId': '0', 'value': 'true', 'id': 15}, {'domain': '.olx.pt', 'expirationDate': 1776733800, 'hostOnly': False, 'httpOnly': False, 'name': '_sharedid', 'path': '/', 'sameSite': 'lax', 'secure': False, 'session': False, 'storeId': '0', 'value': '54a05557-f102-45a3-af7e-d1accb31d39e', 'id': 16}, {'domain': '.olx.pt', 'expirationDate': 1776733800, 'hostOnly': False, 'httpOnly': False, 'name': '_sharedid_cst', 'path': '/', 'sameSite': 'lax', 'secure': False, 'session': False, 'storeId': '0', 'value': 'sCxkLE4sMg%3D%3D', 'id': 17}, {'domain': '.olx.pt', 'expirationDate': 1804170682, 'hostOnly': False, 'httpOnly': False, 'name': 'ab.storage.deviceId.481d704d-9677-458e-91bd-0214d596f06b', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'g%3A5e6ace12-ddde-5402-c0b6-3c86c130f3b8%7Ce%3Aundefined%7Cc%3A1751928877240%7Cl%3A1769610677841', 'id': 18}, {'domain': '.olx.pt', 'expirationDate': 1804171295, 'hostOnly': False, 'httpOnly': False, 'name': 'ab.storage.sessionId.481d704d-9677-458e-91bd-0214d596f06b', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'g%3Abdc24102-b4be-168e-a4d2-ff9ceafb9be6%7Ce%3A1769613095105%7Cc%3A1769610677841%7Cl%3A1769611295105', 'id': 19}, {'domain': '.olx.pt', 'expirationDate': 1804170682, 'hostOnly': False, 'httpOnly': False, 'name': 'ab.storage.userId.481d704d-9677-458e-91bd-0214d596f06b', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'g%3A02a5b1ae-c4f4-4afd-9308-b82c8eee2c1c%7Ce%3Aundefined%7Cc%3A1755822285531%7Cl%3A1769610677842', 'id': 20}, {'domain': '.olx.pt', 'expirationDate': 1769697076, 'hostOnly': False, 'httpOnly': False, 'name': 'access_token', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'eyJraWQiOiJoZlJmeXcxWmlMbkRyZkk3QTBYKyt4SUNxa2JTNExhQVFPazl3djZ5aDhNPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIwMmE1YjFhZS1jNGY0LTRhZmQtOTMwOC1iODJjOGVlZTJjMWMiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tXC9ldS13ZXN0LTFfWHpDMGphUDNGIiwiY29nbml0bzp1c2VybmFtZSI6ImJlYjcxMjRiLWVkYTAtNGZlYy1hMTEzLTZhNjZjNmU4MmExZSIsIm9yaWdpbl9qdGkiOiIxNDgxMTU0YS03ZTI5LTQ3MGMtOWVjNC0zNzI1MjFhOWQwMDgiLCJhdWQiOiIzcTJncjF2YTk4aTdydmQwbDNrZWYyYjZxZyIsImlkZW50aXRpZXMiOlt7InVzZXJJZCI6IjEwMzc0OTI3MzUzODE0MDYxMzU5NyIsInByb3ZpZGVyTmFtZSI6Ikdvb2dsZSIsInByb3ZpZGVyVHlwZSI6Ikdvb2dsZSIsImlzc3VlciI6bnVsbCwicHJpbWFyeSI6ImZhbHNlIiwiZGF0ZUNyZWF0ZWQiOiIxNzEzNDc1NTM3NDY1In1dLCJldmVudF9pZCI6IjI0MGVhNzIzLWU0YzQtNGJiMS04Njk0LTY3MjI3MWE4NmY0OCIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzY5NjEwNjg2LCJjdXN0b206aWRwX2xhc3RfZW1haWwiOiJqb2FvY2FyZG9zbzAwMjBAZ21haWwuY29tIiwiZXhwIjoxNzY5NjExNTg2LCJpYXQiOjE3Njk2MTA2ODYsImp0aSI6IjVlNmM4OWZmLTkwZGUtNDk5My1hNmM2LTkzZDZhYTVlODY5ZCIsImVtYWlsIjoiam9hb2NhcmRvc28wMDIwQGdtYWlsLmNvbSJ9.IpaySKK9PJ80jTgkKD9gOxnp-CJnBImgW9xt85g-mvHPGWL9Gy3PTcrzWI9al5Q8D08oFZU4y6r0zk7in2pXMDq9wo3dcBfa3c0eQ542YBibyzLerKQXBCfl_PHe59N-Cn2N_YokF0E8mgkw6EOFSbaFkKlUq2dzhXiIIGcqBfKeK0AOPbd6WOXETSArFDA1cIH4ipENPa4zKs5k2t9lOMBsB-lTid83Uk9JUaFBstWmPdt-H2-DMLnEu6G9S9vwt-FaRKEF-oM2QT3sOV4wFHCNEIix-9fP1VjEmDLwfxcxAkDCNtSDXA3-WGhjjwO9cQlmYM-nAburaeBGQ7xQWg', 'id': 21}, {'domain': '.olx.pt', 'expirationDate': 1770168114, 'hostOnly': False, 'httpOnly': False, 'name': 'auth_state', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'eyJzdWIiOiIwMmE1YjFhZS1jNGY0LTRhZmQtOTMwOC1iODJjOGVlZTJjMWMifQ==', 'id': 22}, {'domain': '.olx.pt', 'expirationDate': 1769697076, 'hostOnly': False, 'httpOnly': False, 'name': 'auth0.3q2gr1va98i7rvd0l3kef2b6qg.is.authenticated', 'path': '/', 'sameSite': 'no_restriction', 'secure': True, 'session': False, 'storeId': '0', 'value': 'true', 'id': 23}, {'domain': '.olx.pt', 'expirationDate': 1803306679, 'hostOnly': False, 'httpOnly': False, 'name': 'cto_bidid', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'mRCA-F9POG1KRE1RenB2JTJCa3hEaEpzaWphOEcyN2RpYk9tYURwd0t5clpmZGk1clglMkJrNWY0MW1QWlV4ZmNJb1ZmbFBIWkV4Qkp5SE9nOXhNQUJ6UzJaNkVwbG9GNSUyRlF3TTNFWSUyQkJOOWxWY3JXVXcwJTNE', 'id': 24}, {'domain': '.olx.pt', 'expirationDate': 1803306680, 'hostOnly': False, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'io_Bc19TSHN0MTBWdXZ1Y2ZRUDdLaFFxQVpNWndRbVRTdW1QeE5RbU9WeGlETmJUMmdwcDRXVlFDeE9pQ0ZiWFBoekh5UFlpUmVOSXl3N05mbGJpRnJDT3NkelJ2JTJCVVNVbG8wcjl1MGVranQyYkElMkZZbWhOVUtHVFJYTW5iU2V2MWVKd2VJVVRrYU9tMWZhMWxNc2hBa2w5SGh3JTNEJTNE', 'id': 25}, {'domain': '.olx.pt', 'expirationDate': 1803306679, 'hostOnly': False, 'httpOnly': False, 'name': 'cto_dna_bundle', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'hBC0hV9TSHN0MTBWdXZ1Y2ZRUDdLaFFxQVpBckc3SHp3ZnFvekpSM0VWSWNvUEE1QUQ2OWV5a0ozNm1Ea2l2RElTMVl2VGh1T1NSbnglMkZydDhUVUlhZm1LS0tRJTNEJTNE', 'id': 26}, {'domain': '.olx.pt', 'expirationDate': 1800494511.034824, 'hostOnly': False, 'httpOnly': False, 'name': 'datadome', 'path': '/', 'sameSite': 'lax', 'secure': True, 'session': False, 'storeId': '0', 'value': 'CfZSDKzx3NRmjzeckjrrFtiPF3yHj8bOu3pivI5J7~EkYrE5G9lHS6RzwpwcqqcvdJcOSx2aigy6vjsbdWQMhtH4WGfd_BDGyf3wNq1lPclT6akbUz1IpYDhX0J94trg', 'id': 27}, {'domain': '.olx.pt', 'expirationDate': 1786488874.233025, 'hostOnly': False, 'httpOnly': False, 'name': 'deviceGUID', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': '292dd00a-7e04-4d85-ab8b-b6b35d16d122', 'id': 28}, {'domain': '.olx.pt', 'expirationDate': 1783464876, 'hostOnly': False, 'httpOnly': False, 'name': 'eupubconsent-v2', 'path': '/', 'sameSite': 'lax', 'secure': False, 'session': False, 'storeId': '0', 'value': 'CQULf9gQULf9gAcABBENByF8AP_gAAAAAAYgJwtT3G_fbXlj-T51afpkeYxf99hqrsQxBgbJk24FyLvW_JwS32E7NAxapqYKmRIAu3TBIQFlHIDUBUCgKogVrTDMaEyEoTNKJ6BEiBMRY2JYCFxvm4FDeQCY5trtd1d5mR-t7dr83dzyy4hnn3Kp_2S1WJCdAYcgAAAAAAAAAAAAAAAQAAAAFAAAAQAIAAAAAAAAAAAAAAAAAAAAF_YAAACgkD8ABcAFAAVAA4AB4AEEALwA1AB4AEwAKoAbwA_ACEgEMARIAjgBWgDAAGHAMoAywBsgDngHcAd8A9gD4gH2AfoBAACKQEXARgAjQBJYCfgKDAVABVwC5gF6AMUAaIA2gBuADiAHtAQ7Aj0CRAE7AKHAUeApEBTYC2AFyALsAXeAvMBhsDIwMkAZOAy4BmYDOYGrgayA2MBt4DdQHJgOXAhcEALAAOABIAEcAg4BHACaAJWATKAm0BSACwgFiALyAX-AxABiwDIQGjANTAbQA24Bug6CKAAuACgAKgAcABBAC4ANQAeABMACrAFwAXQA3gB-gEMARIAowBWgDAAGGAMoAaIA2QBzwDuAO8Ae0A-wD9gIoAjEBHQElgJ-AoMBUQFXALEAXOAvIC9AGKANoAbgA4gB7QD7AIdARfAj0CRAEyAJ2AUPAo8CkIFNAU2AqwBYoC2AFugLgAXJAuwC7QF3gLzAX0Aw0Bj0DIwMkAZOAyqBlgGXAMzAZyA02Bq4GsANvAbqA4sByYDlxwCaABwAHgAXABIAEcAKAAaABHADkAIBAQcBCACOAE0AKgAdIBCACVgExAJlATaApMBXYCxAFqAL_AYgAxYBkIDJgGjANTAa8A2gBtgDbgG6AOPActA50DnyEBwABYAFAAXAA1ACqAFwAN4AwABzwDuAO8AigBKQCgwFRAVcAuYBigDaAI9AU0AqwBYoC0QFwALkAXYAyMBk4DOSABEAB4AaAByAEcALEAm0BSYCxAF5AM8AaMA1MBtgDbgG6AOWAc-SgPgALAAoABwAHgATAAqgBcgEMARIAjgBRgCtAGAANkAd4A_ICogKuAXMAxQCHQEXwI9AkQBR4CxQFsALsAXnAyMDJAGTgM5AawA28kASAAuAEcAdwBAACDgEcAKgAlYBMQCbQFJgL_AYsAywBngDcgG6AOWKQNwAFwAUABUADgAIAAaAA8ACYAFUAP0AhgCJAFGAK0AYAAygBogDZAHOAO-AfgB-gEWAIxAR0BJQCgwFRAVcAuYBeQDFAG0ANwAe0A-wCHQEXwI9AkQBOwChwFIAKbAVYAsUBbAC4AFyALtAXmAvoBhsDIwMkAZPAywDLgGcwNYA1kBt4DdQHJlADgAFwASAAuABkAEcARwA5AB3AD7AIAAQcAsQBrwDtgH_ATEAm0BUgCuwF5AMWAZMAzwBowDUwGvAN0AcsAAA.f_wAAAAAAAAA', 'id': 29}, {'domain': '.olx.pt', 'expirationDate': 1801146677, 'hostOnly': False, 'httpOnly': False, 'name': 'laquesis', 'path': '/', 'sameSite': 'lax', 'secure': True, 'session': False, 'storeId': '0', 'value': 'ema-249@b#eupp-3842@a#jobs-10436@a#jobs-10612@a#oec-1478@a#oesx-5284@b#oesx-5296@b#olxeu-42958@b#olxmd-1641@b#platf-22095@a#ream-1628@b#ream-1701@b#ream-820@b#search-2392@b', 'id': 30}, {'domain': '.olx.pt', 'expirationDate': 1801146677, 'hostOnly': False, 'httpOnly': False, 'name': 'laquesisff', 'path': '/', 'sameSite': 'lax', 'secure': True, 'session': False, 'storeId': '0', 'value': 'aut-1425#aut-388#buy-2279#buy-2489#carparts-312#de-2724#decision-657#ema-54#euonb-114#eus-1773#f8nrp-1779#kuna-307#mart-1341#oec-1238#oesx-2798#olxeu-32943#pos-1043#pos-2021#posting-1159#posting-1419#posting-1638#srt-1289#srt-1346#srt-1348#srt-1434#srt-1593#srt-1758#srt-651#uacc-529#udp-1535', 'id': 31}, {'domain': '.olx.pt', 'expirationDate': 1801146682, 'hostOnly': False, 'httpOnly': False, 'name': 'lqstatus', 'path': '/', 'sameSite': 'lax', 'secure': True, 'session': False, 'storeId': '0', 'value': '1769611877319|19bde19f57fxa3276ede|platf-22095|||1|1769610677319|0', 'id': 32}, {'domain': '.olx.pt', 'expirationDate': 1801147315, 'hostOnly': False, 'httpOnly': False, 'name': 'onap', 'path': '/', 'sameSite': 'lax', 'secure': True, 'session': False, 'storeId': '0', 'value': '197e7192893x41eda9be-5-19c05040c48xd1295c83-125-1769613115176', 'id': 33}, {'domain': '.olx.pt', 'expirationDate': 1783464876, 'hostOnly': False, 'httpOnly': False, 'name': 'OptanonAlertBoxClosed', 'path': '/', 'sameSite': 'lax', 'secure': False, 'session': False, 'storeId': '0', 'value': '2025-07-07T22:54:36.972Z', 'id': 34}, {'domain': '.olx.pt', 'expirationDate': 1801146679, 'hostOnly': False, 'httpOnly': False, 'name': 'OptanonConsent', 'path': '/', 'sameSite': 'lax', 'secure': False, 'session': False, 'storeId': '0', 'value': 'isGpcEnabled=0&datestamp=Wed+Jan+28+2026+14%3A31%3A19+GMT%2B0000+(Hora+de+Greenwich)&version=202507.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=V10%3A0%2C&consentId=208914ca-f508-44c1-a10c-634da5f7dcfc&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1%2Cgad%3A1&geolocation=PT%3B13&AwaitingReconsent=false&isAnonUser=1', 'id': 35}, {'domain': '.olx.pt', 'expirationDate': 1783464876, 'hostOnly': False, 'httpOnly': False, 'name': 'OTAdditionalConsentString', 'path': '/', 'sameSite': 'lax', 'secure': False, 'session': False, 'storeId': '0', 'value': '1~89.318.320.959.1109.1421.1423.1659.1985.1987.2008.2072.2135.2275.2322.2465.2501.2627.2833.2958.2999.3028.3225.3226.3231.3234.3235.3236.3237.3238.3240.3244.3245.3250.3251.3253.3257.3260.3270.3272.3281.3288.3290.3292.3293.3296.3299.3300.3306.3307.3309.3314.3315.3316.3318.3324.3328.3330.3331.3531.3731.3831.4131.4531.4631.4731.4831.5231.6931.7235.7831.7931.8931.9731.10231.10631.10831.11031.11531.12831.13632.13731.14034.14133.14237.14332.15731.16831.16931.21233.23031.25131.25731.25931.26031.26831.27731.27831.28031.28731.28831.29631.32531.34231.34631.36831.39131.39531.40632.41531.43631.43731.43831.45931', 'id': 36}, {'domain': '.olx.pt', 'expirationDate': 1769614892.655509, 'hostOnly': False, 'httpOnly': True, 'name': 'PHPSESSID', 'path': '/', 'sameSite': 'unspecified', 'secure': True, 'session': False, 'storeId': '0', 'value': 'rhl4cdavhp942r8bi7qn4gdttd', 'id': 37}, {'domain': '.olx.pt', 'expirationDate': 1804170680.220039, 'hostOnly': False, 'httpOnly': False, 'name': 'user_business_status', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'private', 'id': 38}, {'domain': '.olx.pt', 'expirationDate': 1804170680.219494, 'hostOnly': False, 'httpOnly': False, 'name': 'user_id', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': '391297488', 'id': 39}, {'domain': '.olx.pt', 'expirationDate': 1804170680.219971, 'hostOnly': False, 'httpOnly': False, 'name': 'user_id_recs', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': '391297488', 'id': 40}, {'domain': '.olx.pt', 'expirationDate': 1804170680.219806, 'hostOnly': False, 'httpOnly': False, 'name': 'user_uuid', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': '02a5b1ae-c4f4-4afd-9308-b82c8eee2c1c', 'id': 41}, {'domain': 'www.olx.pt', 'expirationDate': 1801146682, 'hostOnly': True, 'httpOnly': False, 'name': '__rtbh.lid', 'path': '/', 'sameSite': 'no_restriction', 'secure': True, 'session': False, 'storeId': '0', 'value': '%7B%22eventType%22%3A%22lid%22%2C%22id%22%3A%22jEthXW5KW7RtzZimC3El%22%2C%22expiryDate%22%3A%222027-01-28T14%3A31%3A22.261Z%22%7D', 'id': 42}, {'domain': 'www.olx.pt', 'expirationDate': 1801147300, 'hostOnly': True, 'httpOnly': False, 'name': '__rtbh.uid', 'path': '/', 'sameSite': 'no_restriction', 'secure': True, 'session': False, 'storeId': '0', 'value': '%7B%22eventType%22%3A%22uid%22%2C%22id%22%3A%22391297488%22%2C%22hash%22%3A%220AyiUKg8zE91QKwPL364%22%2C%22expiryDate%22%3A%222027-01-28T14%3A41%3A40.794Z%22%7D', 'id': 43}, {'domain': 'www.olx.pt', 'expirationDate': 1804170674.783667, 'hostOnly': True, 'httpOnly': False, 'name': 'session_start_date', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': '1769612474783', 'id': 44}]
+2026-01-30 02:32:53,677 - OlxScraper - INFO - Importados 44 cookies do browser real.
+2026-01-30 02:33:28,448 - OlxScraper - INFO - Iniciando scrape OLX
+2026-01-30 02:33:42,099 - OlxScraper - INFO - Página 1: https://www.olx.pt/imoveis/apartamentos/porto/?priceRange=0,250000...
+2026-01-30 02:33:51,437 - OlxScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 02:33:51,438 - OlxScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 02:33:51,438 - OlxScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 02:33:51,500 - ScraperOrchestrator - INFO - [OK] OLX: 0 listings extraidos
+2026-01-30 02:33:51,501 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 02:33:51,501 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 02:33:51,501 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 02:33:51,502 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: CasaYes
+2026-01-30 02:33:51,502 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 02:33:52,359 - CasaYesScraper - INFO - Iniciando scrape CasaYes
+2026-01-30 02:33:52,360 - CasaYesScraper - INFO - Página 1
+2026-01-30 02:33:59,551 - CasaYesScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 02:33:59,551 - CasaYesScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 02:33:59,551 - CasaYesScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 02:33:59,616 - ScraperOrchestrator - INFO - [OK] CasaYes: 0 listings extraidos
+2026-01-30 02:33:59,616 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 02:33:59,616 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 02:33:59,617 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 02:33:59,617 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: SAPO Casa
+2026-01-30 02:33:59,617 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 02:34:00,474 - SapoCasaScraper - INFO - Iniciando scrape SAPO Casa
+2026-01-30 02:34:00,474 - SapoCasaScraper - INFO - Página 1
+2026-01-30 02:34:07,770 - SapoCasaScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 02:34:07,770 - SapoCasaScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 02:34:07,770 - SapoCasaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 02:34:07,845 - ScraperOrchestrator - INFO - [OK] SAPO Casa: 0 listings extraidos
+2026-01-30 02:34:07,846 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 02:34:07,846 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 02:34:07,846 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 02:34:07,846 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: SuperCasa
+2026-01-30 02:34:07,846 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 02:34:08,709 - SuperCasaScraper - INFO - Iniciando scrape SuperCasa
+2026-01-30 02:34:08,709 - SuperCasaScraper - INFO - Página 1
+2026-01-30 02:34:16,619 - SuperCasaScraper - INFO - Total de items: 0
+2026-01-30 02:34:16,620 - SuperCasaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 02:34:16,680 - ScraperOrchestrator - INFO - [OK] SuperCasa: 0 listings extraidos
+2026-01-30 02:34:16,681 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 02:34:16,681 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 02:34:16,681 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 02:34:16,681 - ScraperOrchestrator - INFO - RESUMO FINAL
+2026-01-30 02:34:16,681 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 02:34:16,682 - ScraperOrchestrator - INFO - Total de listings extraídos: 0
+2026-01-30 02:34:16,682 - ScraperOrchestrator - INFO - Tempo total: 98.76s
+2026-01-30 02:34:16,682 - ScraperOrchestrator - INFO - Scrapers OK: 6
+2026-01-30 02:34:16,682 - ScraperOrchestrator - INFO - Scrapers FALHADOS: 0
+2026-01-30 02:34:16,682 - ScraperOrchestrator - INFO - ================================================================================
+
+2026-01-30 02:34:16,682 - RealEstateBotMain - INFO - [OK] Scraping concluido: 0 anuncios coletados
+2026-01-30 02:34:16,683 - RealEstateBotMain - WARNING - [AVISO] Nenhum dado coletado. Abortando.
+2026-01-30 02:35:30,598 - RealEstateBotMain - INFO - ============================================================
+2026-01-30 02:35:30,598 - RealEstateBotMain - INFO - [BOT] REAL ESTATE BOT - INICIANDO PIPELINE
+2026-01-30 02:35:30,598 - RealEstateBotMain - INFO -    Modo: new
+2026-01-30 02:35:30,598 - RealEstateBotMain - INFO - ============================================================
+2026-01-30 02:35:30,598 - RealEstateBotMain - INFO - 
+[FASE 1] SCRAPING DE PORTAIS
+2026-01-30 02:35:30,599 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 02:35:30,599 - ScraperOrchestrator - INFO - INICIANDO ORCHESTRADOR DE SCRAPERS
+2026-01-30 02:35:30,599 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 02:35:30,599 - ScraperOrchestrator - INFO - Executando todos os 6 scrapers
+2026-01-30 02:35:30,599 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 02:35:30,599 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Imovirtual
+2026-01-30 02:35:30,599 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 02:35:32,149 - ImovirtualScraper - WARNING - Nenhum anúncio encontrado na resposta da API.
+2026-01-30 02:35:32,150 - ImovirtualScraper - INFO - [STATS] Pages: 0, Listings: 0, Errors: 0
+2026-01-30 02:35:32,193 - ScraperOrchestrator - INFO - [OK] Imovirtual: 0 listings extraidos
+2026-01-30 02:35:32,193 - ScraperOrchestrator - INFO -    Páginas: 0
+2026-01-30 02:35:32,193 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 02:35:32,193 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 02:35:32,194 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Idealista
+2026-01-30 02:35:32,194 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 02:35:33,049 - IdealistaScraper - INFO - Iniciando scrape Idealista
+2026-01-30 02:35:33,050 - IdealistaScraper - INFO - Página 1: https://www.idealista.pt/comprar/casas/porto-distrito/com-preco-max_250000,t2/?o...
+2026-01-30 02:35:35,387 - ScraperOrchestrator - ERROR - [ERRO] Idealista falhou: Browser.close: Connection closed while reading from the driver
+Traceback (most recent call last):
+  File "c:\Users\Joaop\AGENTEV2\real_estate_bot\scraper\orchestrator.py", line 91, in run
+    listings = scraper.scrape()
+  File "c:\Users\Joaop\AGENTEV2\real_estate_bot\scraper\base.py", line 147, in scrape
+    browser.close()
+    ~~~~~~~~~~~~~^^
+  File "C:\Users\Joaop\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\playwright\sync_api\_generated.py", line 14335, in close
+    return mapping.from_maybe_impl(self._sync(self._impl_obj.close(reason=reason)))
+                                   ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joaop\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "C:\Users\Joaop\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\playwright\_impl\_browser.py", line 241, in close
+    raise e
+  File "C:\Users\Joaop\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\playwright\_impl\_browser.py", line 238, in close
+    await self._channel.send("close", None, {"reason": reason})
+  File "C:\Users\Joaop\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\Joaop\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+Exception: Browser.close: Connection closed while reading from the driver
+2026-01-30 02:35:35,390 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 02:35:35,390 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: OLX
+2026-01-30 02:35:35,390 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 02:35:36,268 - OlxScraper - INFO - [DEBUG] Conteúdo cookies_olx.json: [{'domain': '.olx.pt', 'expirationDate': 1784509812, 'hostOnly': False, 'httpOnly': False, 'name': '__eoi', 'path': '/', 'sameSite': 'no_restriction', 'secure': True, 'session': False, 'storeId': '0', 'value': 'ID=ab777ed66bfb6fe4:T=1768957812:RT=1769611227:S=AA-AfjbQhSZB591rkvKXFBIMSjC5', 'id': 1}, {'domain': '.olx.pt', 'expirationDate': 1785624891, 'hostOnly': False, 'httpOnly': False, 'name': '__gads', 'path': '/', 'sameSite': 'no_restriction', 'secure': True, 'session': False, 'storeId': '0', 'value': 'ID=9d51b0cfd7891ab8:T=1751928891:RT=1769611227:S=ALNI_MZ3tl1dryoAnAhFGmALqW31PQVurw', 'id': 2}, {'domain': '.olx.pt', 'expirationDate': 1803738675, 'hostOnly': False, 'httpOnly': False, 'name': '__gfp_64b', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'RlMlMBwCX7RIcJZXIr06DLu7tXI_rT1YYxdkv4.VTX7.P7|1751928870|2|||8:1:80', 'id': 3}, {'domain': '.olx.pt', 'expirationDate': 1787785118, 'hostOnly': False, 'httpOnly': False, 'name': '__gfp_cap', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'KlxUsRGGGM5mMe2XoiDfU8sKSaGGKSm7MMZMms8GhaS1R5nG', 'id': 4}, {'domain': '.olx.pt', 'expirationDate': 1785624891, 'hostOnly': False, 'httpOnly': False, 'name': '__gpi', 'path': '/', 'sameSite': 'no_restriction', 'secure': True, 'session': False, 'storeId': '0', 'value': 'UID=00001175d39991da:T=1751928891:RT=1769611227:S=ALNI_MYjZzcONePV3_b-JrMHaYQdlz96Rg', 'id': 5}, {'domain': '.olx.pt', 'expirationDate': 1785624876, 'hostOnly': False, 'httpOnly': False, 'name': '__gsas', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'ID=5d968f91a37e8c55:T=1751928876:RT=1751928876:S=ALNI_MbaxnayThbUiuSsT6sTpfPSDLk0Qg', 'id': 6}, {'domain': '.olx.pt', 'expirationDate': 1804170680.219898, 'hostOnly': False, 'httpOnly': False, 'name': '__user_id_P&S', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': '391297488', 'id': 7}, {'domain': '.olx.pt', 'expirationDate': 1804170682.391122, 'hostOnly': False, 'httpOnly': False, 'name': '_ga', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'GA1.1.1591814767.1751928878', 'id': 8}, {'domain': '.olx.pt', 'expirationDate': 1804170682.36378, 'hostOnly': False, 'httpOnly': False, 'name': '_ga_2GM5QEJ1H6', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'GS2.1.s1769610677$o3$g1$t1769610682$j55$l0$h0', 'id': 9}, {'domain': '.olx.pt', 'expirationDate': 1804171303.232022, 'hostOnly': False, 'httpOnly': False, 'name': '_ga_JLRQS2B4H1', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'GS2.1.s1769610677$o4$g1$t1769611303$j59$l0$h0', 'id': 10}, {'domain': '.olx.pt', 'expirationDate': 1804170682.390769, 'hostOnly': False, 'httpOnly': False, 'name': '_ga_L97YMGPQ5R', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'GS2.1.s1769610677$o3$g1$t1769610682$j55$l0$h0', 'id': 11}, {'domain': '.olx.pt', 'expirationDate': 1776733802, 'hostOnly': False, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': '1.1.924902992.1768957802', 'id': 12}, {'domain': '.olx.pt', 'expirationDate': 1769613096, 'hostOnly': False, 'httpOnly': False, 'name': '_hjSession_2218927', 'path': '/', 'sameSite': 'no_restriction', 'secure': True, 'session': False, 'storeId': '0', 'value': 'eyJpZCI6IjEzMzM3ZjBjLTA5ZGEtNDQ2ZS1hZWY4LTEzYjQyYWJmYTIwZiIsImMiOjE3Njk2MTA2NzUzMjQsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjowLCJzcCI6MH0=', 'id': 13}, {'domain': '.olx.pt', 'expirationDate': 1801146679, 'hostOnly': False, 'httpOnly': False, 'name': '_hjSessionUser_2218927', 'path': '/', 'sameSite': 'no_restriction', 'secure': True, 'session': False, 'storeId': '0', 'value': 'eyJpZCI6IjAxOTk2Njg4LTYxZGYtNWUxZS04NjNhLWY3ODA4MDUxYmRlMCIsImNyZWF0ZWQiOjE3NTE5Mjg4NzcyNjMsImV4aXN0aW5nIjp0cnVlfQ==', 'id': 14}, {'domain': '.olx.pt', 'expirationDate': 1769697076, 'hostOnly': False, 'httpOnly': False, 'name': '_legacy_auth0.3q2gr1va98i7rvd0l3kef2b6qg.is.authenticated', 'path': '/', 'sameSite': 'unspecified', 'secure': True, 'session': False, 'storeId': '0', 'value': 'true', 'id': 15}, {'domain': '.olx.pt', 'expirationDate': 1776733800, 'hostOnly': False, 'httpOnly': False, 'name': '_sharedid', 'path': '/', 'sameSite': 'lax', 'secure': False, 'session': False, 'storeId': '0', 'value': '54a05557-f102-45a3-af7e-d1accb31d39e', 'id': 16}, {'domain': '.olx.pt', 'expirationDate': 1776733800, 'hostOnly': False, 'httpOnly': False, 'name': '_sharedid_cst', 'path': '/', 'sameSite': 'lax', 'secure': False, 'session': False, 'storeId': '0', 'value': 'sCxkLE4sMg%3D%3D', 'id': 17}, {'domain': '.olx.pt', 'expirationDate': 1804170682, 'hostOnly': False, 'httpOnly': False, 'name': 'ab.storage.deviceId.481d704d-9677-458e-91bd-0214d596f06b', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'g%3A5e6ace12-ddde-5402-c0b6-3c86c130f3b8%7Ce%3Aundefined%7Cc%3A1751928877240%7Cl%3A1769610677841', 'id': 18}, {'domain': '.olx.pt', 'expirationDate': 1804171295, 'hostOnly': False, 'httpOnly': False, 'name': 'ab.storage.sessionId.481d704d-9677-458e-91bd-0214d596f06b', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'g%3Abdc24102-b4be-168e-a4d2-ff9ceafb9be6%7Ce%3A1769613095105%7Cc%3A1769610677841%7Cl%3A1769611295105', 'id': 19}, {'domain': '.olx.pt', 'expirationDate': 1804170682, 'hostOnly': False, 'httpOnly': False, 'name': 'ab.storage.userId.481d704d-9677-458e-91bd-0214d596f06b', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'g%3A02a5b1ae-c4f4-4afd-9308-b82c8eee2c1c%7Ce%3Aundefined%7Cc%3A1755822285531%7Cl%3A1769610677842', 'id': 20}, {'domain': '.olx.pt', 'expirationDate': 1769697076, 'hostOnly': False, 'httpOnly': False, 'name': 'access_token', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'eyJraWQiOiJoZlJmeXcxWmlMbkRyZkk3QTBYKyt4SUNxa2JTNExhQVFPazl3djZ5aDhNPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIwMmE1YjFhZS1jNGY0LTRhZmQtOTMwOC1iODJjOGVlZTJjMWMiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tXC9ldS13ZXN0LTFfWHpDMGphUDNGIiwiY29nbml0bzp1c2VybmFtZSI6ImJlYjcxMjRiLWVkYTAtNGZlYy1hMTEzLTZhNjZjNmU4MmExZSIsIm9yaWdpbl9qdGkiOiIxNDgxMTU0YS03ZTI5LTQ3MGMtOWVjNC0zNzI1MjFhOWQwMDgiLCJhdWQiOiIzcTJncjF2YTk4aTdydmQwbDNrZWYyYjZxZyIsImlkZW50aXRpZXMiOlt7InVzZXJJZCI6IjEwMzc0OTI3MzUzODE0MDYxMzU5NyIsInByb3ZpZGVyTmFtZSI6Ikdvb2dsZSIsInByb3ZpZGVyVHlwZSI6Ikdvb2dsZSIsImlzc3VlciI6bnVsbCwicHJpbWFyeSI6ImZhbHNlIiwiZGF0ZUNyZWF0ZWQiOiIxNzEzNDc1NTM3NDY1In1dLCJldmVudF9pZCI6IjI0MGVhNzIzLWU0YzQtNGJiMS04Njk0LTY3MjI3MWE4NmY0OCIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzY5NjEwNjg2LCJjdXN0b206aWRwX2xhc3RfZW1haWwiOiJqb2FvY2FyZG9zbzAwMjBAZ21haWwuY29tIiwiZXhwIjoxNzY5NjExNTg2LCJpYXQiOjE3Njk2MTA2ODYsImp0aSI6IjVlNmM4OWZmLTkwZGUtNDk5My1hNmM2LTkzZDZhYTVlODY5ZCIsImVtYWlsIjoiam9hb2NhcmRvc28wMDIwQGdtYWlsLmNvbSJ9.IpaySKK9PJ80jTgkKD9gOxnp-CJnBImgW9xt85g-mvHPGWL9Gy3PTcrzWI9al5Q8D08oFZU4y6r0zk7in2pXMDq9wo3dcBfa3c0eQ542YBibyzLerKQXBCfl_PHe59N-Cn2N_YokF0E8mgkw6EOFSbaFkKlUq2dzhXiIIGcqBfKeK0AOPbd6WOXETSArFDA1cIH4ipENPa4zKs5k2t9lOMBsB-lTid83Uk9JUaFBstWmPdt-H2-DMLnEu6G9S9vwt-FaRKEF-oM2QT3sOV4wFHCNEIix-9fP1VjEmDLwfxcxAkDCNtSDXA3-WGhjjwO9cQlmYM-nAburaeBGQ7xQWg', 'id': 21}, {'domain': '.olx.pt', 'expirationDate': 1770168114, 'hostOnly': False, 'httpOnly': False, 'name': 'auth_state', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'eyJzdWIiOiIwMmE1YjFhZS1jNGY0LTRhZmQtOTMwOC1iODJjOGVlZTJjMWMifQ==', 'id': 22}, {'domain': '.olx.pt', 'expirationDate': 1769697076, 'hostOnly': False, 'httpOnly': False, 'name': 'auth0.3q2gr1va98i7rvd0l3kef2b6qg.is.authenticated', 'path': '/', 'sameSite': 'no_restriction', 'secure': True, 'session': False, 'storeId': '0', 'value': 'true', 'id': 23}, {'domain': '.olx.pt', 'expirationDate': 1803306679, 'hostOnly': False, 'httpOnly': False, 'name': 'cto_bidid', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'mRCA-F9POG1KRE1RenB2JTJCa3hEaEpzaWphOEcyN2RpYk9tYURwd0t5clpmZGk1clglMkJrNWY0MW1QWlV4ZmNJb1ZmbFBIWkV4Qkp5SE9nOXhNQUJ6UzJaNkVwbG9GNSUyRlF3TTNFWSUyQkJOOWxWY3JXVXcwJTNE', 'id': 24}, {'domain': '.olx.pt', 'expirationDate': 1803306680, 'hostOnly': False, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'io_Bc19TSHN0MTBWdXZ1Y2ZRUDdLaFFxQVpNWndRbVRTdW1QeE5RbU9WeGlETmJUMmdwcDRXVlFDeE9pQ0ZiWFBoekh5UFlpUmVOSXl3N05mbGJpRnJDT3NkelJ2JTJCVVNVbG8wcjl1MGVranQyYkElMkZZbWhOVUtHVFJYTW5iU2V2MWVKd2VJVVRrYU9tMWZhMWxNc2hBa2w5SGh3JTNEJTNE', 'id': 25}, {'domain': '.olx.pt', 'expirationDate': 1803306679, 'hostOnly': False, 'httpOnly': False, 'name': 'cto_dna_bundle', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'hBC0hV9TSHN0MTBWdXZ1Y2ZRUDdLaFFxQVpBckc3SHp3ZnFvekpSM0VWSWNvUEE1QUQ2OWV5a0ozNm1Ea2l2RElTMVl2VGh1T1NSbnglMkZydDhUVUlhZm1LS0tRJTNEJTNE', 'id': 26}, {'domain': '.olx.pt', 'expirationDate': 1800494511.034824, 'hostOnly': False, 'httpOnly': False, 'name': 'datadome', 'path': '/', 'sameSite': 'lax', 'secure': True, 'session': False, 'storeId': '0', 'value': 'CfZSDKzx3NRmjzeckjrrFtiPF3yHj8bOu3pivI5J7~EkYrE5G9lHS6RzwpwcqqcvdJcOSx2aigy6vjsbdWQMhtH4WGfd_BDGyf3wNq1lPclT6akbUz1IpYDhX0J94trg', 'id': 27}, {'domain': '.olx.pt', 'expirationDate': 1786488874.233025, 'hostOnly': False, 'httpOnly': False, 'name': 'deviceGUID', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': '292dd00a-7e04-4d85-ab8b-b6b35d16d122', 'id': 28}, {'domain': '.olx.pt', 'expirationDate': 1783464876, 'hostOnly': False, 'httpOnly': False, 'name': 'eupubconsent-v2', 'path': '/', 'sameSite': 'lax', 'secure': False, 'session': False, 'storeId': '0', 'value': 'CQULf9gQULf9gAcABBENByF8AP_gAAAAAAYgJwtT3G_fbXlj-T51afpkeYxf99hqrsQxBgbJk24FyLvW_JwS32E7NAxapqYKmRIAu3TBIQFlHIDUBUCgKogVrTDMaEyEoTNKJ6BEiBMRY2JYCFxvm4FDeQCY5trtd1d5mR-t7dr83dzyy4hnn3Kp_2S1WJCdAYcgAAAAAAAAAAAAAAAQAAAAFAAAAQAIAAAAAAAAAAAAAAAAAAAAF_YAAACgkD8ABcAFAAVAA4AB4AEEALwA1AB4AEwAKoAbwA_ACEgEMARIAjgBWgDAAGHAMoAywBsgDngHcAd8A9gD4gH2AfoBAACKQEXARgAjQBJYCfgKDAVABVwC5gF6AMUAaIA2gBuADiAHtAQ7Aj0CRAE7AKHAUeApEBTYC2AFyALsAXeAvMBhsDIwMkAZOAy4BmYDOYGrgayA2MBt4DdQHJgOXAhcEALAAOABIAEcAg4BHACaAJWATKAm0BSACwgFiALyAX-AxABiwDIQGjANTAbQA24Bug6CKAAuACgAKgAcABBAC4ANQAeABMACrAFwAXQA3gB-gEMARIAowBWgDAAGGAMoAaIA2QBzwDuAO8Ae0A-wD9gIoAjEBHQElgJ-AoMBUQFXALEAXOAvIC9AGKANoAbgA4gB7QD7AIdARfAj0CRAEyAJ2AUPAo8CkIFNAU2AqwBYoC2AFugLgAXJAuwC7QF3gLzAX0Aw0Bj0DIwMkAZOAyqBlgGXAMzAZyA02Bq4GsANvAbqA4sByYDlxwCaABwAHgAXABIAEcAKAAaABHADkAIBAQcBCACOAE0AKgAdIBCACVgExAJlATaApMBXYCxAFqAL_AYgAxYBkIDJgGjANTAa8A2gBtgDbgG6AOPActA50DnyEBwABYAFAAXAA1ACqAFwAN4AwABzwDuAO8AigBKQCgwFRAVcAuYBigDaAI9AU0AqwBYoC0QFwALkAXYAyMBk4DOSABEAB4AaAByAEcALEAm0BSYCxAF5AM8AaMA1MBtgDbgG6AOWAc-SgPgALAAoABwAHgATAAqgBcgEMARIAjgBRgCtAGAANkAd4A_ICogKuAXMAxQCHQEXwI9AkQBR4CxQFsALsAXnAyMDJAGTgM5AawA28kASAAuAEcAdwBAACDgEcAKgAlYBMQCbQFJgL_AYsAywBngDcgG6AOWKQNwAFwAUABUADgAIAAaAA8ACYAFUAP0AhgCJAFGAK0AYAAygBogDZAHOAO-AfgB-gEWAIxAR0BJQCgwFRAVcAuYBeQDFAG0ANwAe0A-wCHQEXwI9AkQBOwChwFIAKbAVYAsUBbAC4AFyALtAXmAvoBhsDIwMkAZPAywDLgGcwNYA1kBt4DdQHJlADgAFwASAAuABkAEcARwA5AB3AD7AIAAQcAsQBrwDtgH_ATEAm0BUgCuwF5AMWAZMAzwBowDUwGvAN0AcsAAA.f_wAAAAAAAAA', 'id': 29}, {'domain': '.olx.pt', 'expirationDate': 1801146677, 'hostOnly': False, 'httpOnly': False, 'name': 'laquesis', 'path': '/', 'sameSite': 'lax', 'secure': True, 'session': False, 'storeId': '0', 'value': 'ema-249@b#eupp-3842@a#jobs-10436@a#jobs-10612@a#oec-1478@a#oesx-5284@b#oesx-5296@b#olxeu-42958@b#olxmd-1641@b#platf-22095@a#ream-1628@b#ream-1701@b#ream-820@b#search-2392@b', 'id': 30}, {'domain': '.olx.pt', 'expirationDate': 1801146677, 'hostOnly': False, 'httpOnly': False, 'name': 'laquesisff', 'path': '/', 'sameSite': 'lax', 'secure': True, 'session': False, 'storeId': '0', 'value': 'aut-1425#aut-388#buy-2279#buy-2489#carparts-312#de-2724#decision-657#ema-54#euonb-114#eus-1773#f8nrp-1779#kuna-307#mart-1341#oec-1238#oesx-2798#olxeu-32943#pos-1043#pos-2021#posting-1159#posting-1419#posting-1638#srt-1289#srt-1346#srt-1348#srt-1434#srt-1593#srt-1758#srt-651#uacc-529#udp-1535', 'id': 31}, {'domain': '.olx.pt', 'expirationDate': 1801146682, 'hostOnly': False, 'httpOnly': False, 'name': 'lqstatus', 'path': '/', 'sameSite': 'lax', 'secure': True, 'session': False, 'storeId': '0', 'value': '1769611877319|19bde19f57fxa3276ede|platf-22095|||1|1769610677319|0', 'id': 32}, {'domain': '.olx.pt', 'expirationDate': 1801147315, 'hostOnly': False, 'httpOnly': False, 'name': 'onap', 'path': '/', 'sameSite': 'lax', 'secure': True, 'session': False, 'storeId': '0', 'value': '197e7192893x41eda9be-5-19c05040c48xd1295c83-125-1769613115176', 'id': 33}, {'domain': '.olx.pt', 'expirationDate': 1783464876, 'hostOnly': False, 'httpOnly': False, 'name': 'OptanonAlertBoxClosed', 'path': '/', 'sameSite': 'lax', 'secure': False, 'session': False, 'storeId': '0', 'value': '2025-07-07T22:54:36.972Z', 'id': 34}, {'domain': '.olx.pt', 'expirationDate': 1801146679, 'hostOnly': False, 'httpOnly': False, 'name': 'OptanonConsent', 'path': '/', 'sameSite': 'lax', 'secure': False, 'session': False, 'storeId': '0', 'value': 'isGpcEnabled=0&datestamp=Wed+Jan+28+2026+14%3A31%3A19+GMT%2B0000+(Hora+de+Greenwich)&version=202507.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=V10%3A0%2C&consentId=208914ca-f508-44c1-a10c-634da5f7dcfc&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1%2Cgad%3A1&geolocation=PT%3B13&AwaitingReconsent=false&isAnonUser=1', 'id': 35}, {'domain': '.olx.pt', 'expirationDate': 1783464876, 'hostOnly': False, 'httpOnly': False, 'name': 'OTAdditionalConsentString', 'path': '/', 'sameSite': 'lax', 'secure': False, 'session': False, 'storeId': '0', 'value': '1~89.318.320.959.1109.1421.1423.1659.1985.1987.2008.2072.2135.2275.2322.2465.2501.2627.2833.2958.2999.3028.3225.3226.3231.3234.3235.3236.3237.3238.3240.3244.3245.3250.3251.3253.3257.3260.3270.3272.3281.3288.3290.3292.3293.3296.3299.3300.3306.3307.3309.3314.3315.3316.3318.3324.3328.3330.3331.3531.3731.3831.4131.4531.4631.4731.4831.5231.6931.7235.7831.7931.8931.9731.10231.10631.10831.11031.11531.12831.13632.13731.14034.14133.14237.14332.15731.16831.16931.21233.23031.25131.25731.25931.26031.26831.27731.27831.28031.28731.28831.29631.32531.34231.34631.36831.39131.39531.40632.41531.43631.43731.43831.45931', 'id': 36}, {'domain': '.olx.pt', 'expirationDate': 1769614892.655509, 'hostOnly': False, 'httpOnly': True, 'name': 'PHPSESSID', 'path': '/', 'sameSite': 'unspecified', 'secure': True, 'session': False, 'storeId': '0', 'value': 'rhl4cdavhp942r8bi7qn4gdttd', 'id': 37}, {'domain': '.olx.pt', 'expirationDate': 1804170680.220039, 'hostOnly': False, 'httpOnly': False, 'name': 'user_business_status', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'private', 'id': 38}, {'domain': '.olx.pt', 'expirationDate': 1804170680.219494, 'hostOnly': False, 'httpOnly': False, 'name': 'user_id', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': '391297488', 'id': 39}, {'domain': '.olx.pt', 'expirationDate': 1804170680.219971, 'hostOnly': False, 'httpOnly': False, 'name': 'user_id_recs', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': '391297488', 'id': 40}, {'domain': '.olx.pt', 'expirationDate': 1804170680.219806, 'hostOnly': False, 'httpOnly': False, 'name': 'user_uuid', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': '02a5b1ae-c4f4-4afd-9308-b82c8eee2c1c', 'id': 41}, {'domain': 'www.olx.pt', 'expirationDate': 1801146682, 'hostOnly': True, 'httpOnly': False, 'name': '__rtbh.lid', 'path': '/', 'sameSite': 'no_restriction', 'secure': True, 'session': False, 'storeId': '0', 'value': '%7B%22eventType%22%3A%22lid%22%2C%22id%22%3A%22jEthXW5KW7RtzZimC3El%22%2C%22expiryDate%22%3A%222027-01-28T14%3A31%3A22.261Z%22%7D', 'id': 42}, {'domain': 'www.olx.pt', 'expirationDate': 1801147300, 'hostOnly': True, 'httpOnly': False, 'name': '__rtbh.uid', 'path': '/', 'sameSite': 'no_restriction', 'secure': True, 'session': False, 'storeId': '0', 'value': '%7B%22eventType%22%3A%22uid%22%2C%22id%22%3A%22391297488%22%2C%22hash%22%3A%220AyiUKg8zE91QKwPL364%22%2C%22expiryDate%22%3A%222027-01-28T14%3A41%3A40.794Z%22%7D', 'id': 43}, {'domain': 'www.olx.pt', 'expirationDate': 1804170674.783667, 'hostOnly': True, 'httpOnly': False, 'name': 'session_start_date', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': '1769612474783', 'id': 44}]
+2026-01-30 02:35:36,274 - OlxScraper - INFO - Importados 44 cookies do browser real.
+2026-01-30 02:45:14,971 - RealEstateBotMain - INFO - ============================================================
+2026-01-30 02:45:14,971 - RealEstateBotMain - INFO - [BOT] REAL ESTATE BOT - INICIANDO PIPELINE
+2026-01-30 02:45:14,972 - RealEstateBotMain - INFO -    Modo: new
+2026-01-30 02:45:14,972 - RealEstateBotMain - INFO - ============================================================
+2026-01-30 02:45:14,972 - RealEstateBotMain - INFO - 
+[FASE 1] SCRAPING DE PORTAIS
+2026-01-30 02:45:14,972 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 02:45:14,972 - ScraperOrchestrator - INFO - INICIANDO ORCHESTRADOR DE SCRAPERS
+2026-01-30 02:45:14,972 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 02:45:14,973 - ScraperOrchestrator - INFO - Executando todos os 6 scrapers
+2026-01-30 02:45:14,973 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 02:45:14,973 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Imovirtual
+2026-01-30 02:45:14,973 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 02:45:15,543 - ImovirtualScraper - WARNING - Nenhum anúncio encontrado na resposta da API.
+2026-01-30 02:45:15,544 - ScraperOrchestrator - INFO - [OK] Imovirtual: 0 listings extraidos
+2026-01-30 02:45:15,545 - ScraperOrchestrator - INFO -    Páginas: 0
+2026-01-30 02:45:15,545 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 02:45:15,545 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 02:45:15,545 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Idealista
+2026-01-30 02:45:15,545 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 02:45:16,449 - IdealistaScraper - INFO - Iniciando scrape Idealista
+2026-01-30 02:45:16,449 - IdealistaScraper - INFO - Página 1: https://www.idealista.pt/comprar/casas/porto-distrito/com-preco-max_250000,t2/?o...
+2026-01-30 02:45:30,145 - IdealistaScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 02:45:30,145 - IdealistaScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 02:45:30,145 - IdealistaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 02:45:30,201 - ScraperOrchestrator - INFO - [OK] Idealista: 0 listings extraidos
+2026-01-30 02:45:30,202 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 02:45:30,202 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 02:45:30,202 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 02:45:30,202 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: OLX
+2026-01-30 02:45:30,203 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 02:45:31,095 - OlxScraper - INFO - [DEBUG] Conteúdo cookies_olx.json: [{'domain': '.olx.pt', 'expirationDate': 1784509812, 'hostOnly': False, 'httpOnly': False, 'name': '__eoi', 'path': '/', 'sameSite': 'no_restriction', 'secure': True, 'session': False, 'storeId': '0', 'value': 'ID=ab777ed66bfb6fe4:T=1768957812:RT=1769611227:S=AA-AfjbQhSZB591rkvKXFBIMSjC5', 'id': 1}, {'domain': '.olx.pt', 'expirationDate': 1785624891, 'hostOnly': False, 'httpOnly': False, 'name': '__gads', 'path': '/', 'sameSite': 'no_restriction', 'secure': True, 'session': False, 'storeId': '0', 'value': 'ID=9d51b0cfd7891ab8:T=1751928891:RT=1769611227:S=ALNI_MZ3tl1dryoAnAhFGmALqW31PQVurw', 'id': 2}, {'domain': '.olx.pt', 'expirationDate': 1803738675, 'hostOnly': False, 'httpOnly': False, 'name': '__gfp_64b', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'RlMlMBwCX7RIcJZXIr06DLu7tXI_rT1YYxdkv4.VTX7.P7|1751928870|2|||8:1:80', 'id': 3}, {'domain': '.olx.pt', 'expirationDate': 1787785118, 'hostOnly': False, 'httpOnly': False, 'name': '__gfp_cap', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'KlxUsRGGGM5mMe2XoiDfU8sKSaGGKSm7MMZMms8GhaS1R5nG', 'id': 4}, {'domain': '.olx.pt', 'expirationDate': 1785624891, 'hostOnly': False, 'httpOnly': False, 'name': '__gpi', 'path': '/', 'sameSite': 'no_restriction', 'secure': True, 'session': False, 'storeId': '0', 'value': 'UID=00001175d39991da:T=1751928891:RT=1769611227:S=ALNI_MYjZzcONePV3_b-JrMHaYQdlz96Rg', 'id': 5}, {'domain': '.olx.pt', 'expirationDate': 1785624876, 'hostOnly': False, 'httpOnly': False, 'name': '__gsas', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'ID=5d968f91a37e8c55:T=1751928876:RT=1751928876:S=ALNI_MbaxnayThbUiuSsT6sTpfPSDLk0Qg', 'id': 6}, {'domain': '.olx.pt', 'expirationDate': 1804170680.219898, 'hostOnly': False, 'httpOnly': False, 'name': '__user_id_P&S', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': '391297488', 'id': 7}, {'domain': '.olx.pt', 'expirationDate': 1804170682.391122, 'hostOnly': False, 'httpOnly': False, 'name': '_ga', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'GA1.1.1591814767.1751928878', 'id': 8}, {'domain': '.olx.pt', 'expirationDate': 1804170682.36378, 'hostOnly': False, 'httpOnly': False, 'name': '_ga_2GM5QEJ1H6', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'GS2.1.s1769610677$o3$g1$t1769610682$j55$l0$h0', 'id': 9}, {'domain': '.olx.pt', 'expirationDate': 1804171303.232022, 'hostOnly': False, 'httpOnly': False, 'name': '_ga_JLRQS2B4H1', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'GS2.1.s1769610677$o4$g1$t1769611303$j59$l0$h0', 'id': 10}, {'domain': '.olx.pt', 'expirationDate': 1804170682.390769, 'hostOnly': False, 'httpOnly': False, 'name': '_ga_L97YMGPQ5R', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'GS2.1.s1769610677$o3$g1$t1769610682$j55$l0$h0', 'id': 11}, {'domain': '.olx.pt', 'expirationDate': 1776733802, 'hostOnly': False, 'httpOnly': False, 'name': '_gcl_au', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': '1.1.924902992.1768957802', 'id': 12}, {'domain': '.olx.pt', 'expirationDate': 1769613096, 'hostOnly': False, 'httpOnly': False, 'name': '_hjSession_2218927', 'path': '/', 'sameSite': 'no_restriction', 'secure': True, 'session': False, 'storeId': '0', 'value': 'eyJpZCI6IjEzMzM3ZjBjLTA5ZGEtNDQ2ZS1hZWY4LTEzYjQyYWJmYTIwZiIsImMiOjE3Njk2MTA2NzUzMjQsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjowLCJzcCI6MH0=', 'id': 13}, {'domain': '.olx.pt', 'expirationDate': 1801146679, 'hostOnly': False, 'httpOnly': False, 'name': '_hjSessionUser_2218927', 'path': '/', 'sameSite': 'no_restriction', 'secure': True, 'session': False, 'storeId': '0', 'value': 'eyJpZCI6IjAxOTk2Njg4LTYxZGYtNWUxZS04NjNhLWY3ODA4MDUxYmRlMCIsImNyZWF0ZWQiOjE3NTE5Mjg4NzcyNjMsImV4aXN0aW5nIjp0cnVlfQ==', 'id': 14}, {'domain': '.olx.pt', 'expirationDate': 1769697076, 'hostOnly': False, 'httpOnly': False, 'name': '_legacy_auth0.3q2gr1va98i7rvd0l3kef2b6qg.is.authenticated', 'path': '/', 'sameSite': 'unspecified', 'secure': True, 'session': False, 'storeId': '0', 'value': 'true', 'id': 15}, {'domain': '.olx.pt', 'expirationDate': 1776733800, 'hostOnly': False, 'httpOnly': False, 'name': '_sharedid', 'path': '/', 'sameSite': 'lax', 'secure': False, 'session': False, 'storeId': '0', 'value': '54a05557-f102-45a3-af7e-d1accb31d39e', 'id': 16}, {'domain': '.olx.pt', 'expirationDate': 1776733800, 'hostOnly': False, 'httpOnly': False, 'name': '_sharedid_cst', 'path': '/', 'sameSite': 'lax', 'secure': False, 'session': False, 'storeId': '0', 'value': 'sCxkLE4sMg%3D%3D', 'id': 17}, {'domain': '.olx.pt', 'expirationDate': 1804170682, 'hostOnly': False, 'httpOnly': False, 'name': 'ab.storage.deviceId.481d704d-9677-458e-91bd-0214d596f06b', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'g%3A5e6ace12-ddde-5402-c0b6-3c86c130f3b8%7Ce%3Aundefined%7Cc%3A1751928877240%7Cl%3A1769610677841', 'id': 18}, {'domain': '.olx.pt', 'expirationDate': 1804171295, 'hostOnly': False, 'httpOnly': False, 'name': 'ab.storage.sessionId.481d704d-9677-458e-91bd-0214d596f06b', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'g%3Abdc24102-b4be-168e-a4d2-ff9ceafb9be6%7Ce%3A1769613095105%7Cc%3A1769610677841%7Cl%3A1769611295105', 'id': 19}, {'domain': '.olx.pt', 'expirationDate': 1804170682, 'hostOnly': False, 'httpOnly': False, 'name': 'ab.storage.userId.481d704d-9677-458e-91bd-0214d596f06b', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'g%3A02a5b1ae-c4f4-4afd-9308-b82c8eee2c1c%7Ce%3Aundefined%7Cc%3A1755822285531%7Cl%3A1769610677842', 'id': 20}, {'domain': '.olx.pt', 'expirationDate': 1769697076, 'hostOnly': False, 'httpOnly': False, 'name': 'access_token', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'eyJraWQiOiJoZlJmeXcxWmlMbkRyZkk3QTBYKyt4SUNxa2JTNExhQVFPazl3djZ5aDhNPSIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiIwMmE1YjFhZS1jNGY0LTRhZmQtOTMwOC1iODJjOGVlZTJjMWMiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tXC9ldS13ZXN0LTFfWHpDMGphUDNGIiwiY29nbml0bzp1c2VybmFtZSI6ImJlYjcxMjRiLWVkYTAtNGZlYy1hMTEzLTZhNjZjNmU4MmExZSIsIm9yaWdpbl9qdGkiOiIxNDgxMTU0YS03ZTI5LTQ3MGMtOWVjNC0zNzI1MjFhOWQwMDgiLCJhdWQiOiIzcTJncjF2YTk4aTdydmQwbDNrZWYyYjZxZyIsImlkZW50aXRpZXMiOlt7InVzZXJJZCI6IjEwMzc0OTI3MzUzODE0MDYxMzU5NyIsInByb3ZpZGVyTmFtZSI6Ikdvb2dsZSIsInByb3ZpZGVyVHlwZSI6Ikdvb2dsZSIsImlzc3VlciI6bnVsbCwicHJpbWFyeSI6ImZhbHNlIiwiZGF0ZUNyZWF0ZWQiOiIxNzEzNDc1NTM3NDY1In1dLCJldmVudF9pZCI6IjI0MGVhNzIzLWU0YzQtNGJiMS04Njk0LTY3MjI3MWE4NmY0OCIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNzY5NjEwNjg2LCJjdXN0b206aWRwX2xhc3RfZW1haWwiOiJqb2FvY2FyZG9zbzAwMjBAZ21haWwuY29tIiwiZXhwIjoxNzY5NjExNTg2LCJpYXQiOjE3Njk2MTA2ODYsImp0aSI6IjVlNmM4OWZmLTkwZGUtNDk5My1hNmM2LTkzZDZhYTVlODY5ZCIsImVtYWlsIjoiam9hb2NhcmRvc28wMDIwQGdtYWlsLmNvbSJ9.IpaySKK9PJ80jTgkKD9gOxnp-CJnBImgW9xt85g-mvHPGWL9Gy3PTcrzWI9al5Q8D08oFZU4y6r0zk7in2pXMDq9wo3dcBfa3c0eQ542YBibyzLerKQXBCfl_PHe59N-Cn2N_YokF0E8mgkw6EOFSbaFkKlUq2dzhXiIIGcqBfKeK0AOPbd6WOXETSArFDA1cIH4ipENPa4zKs5k2t9lOMBsB-lTid83Uk9JUaFBstWmPdt-H2-DMLnEu6G9S9vwt-FaRKEF-oM2QT3sOV4wFHCNEIix-9fP1VjEmDLwfxcxAkDCNtSDXA3-WGhjjwO9cQlmYM-nAburaeBGQ7xQWg', 'id': 21}, {'domain': '.olx.pt', 'expirationDate': 1770168114, 'hostOnly': False, 'httpOnly': False, 'name': 'auth_state', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'eyJzdWIiOiIwMmE1YjFhZS1jNGY0LTRhZmQtOTMwOC1iODJjOGVlZTJjMWMifQ==', 'id': 22}, {'domain': '.olx.pt', 'expirationDate': 1769697076, 'hostOnly': False, 'httpOnly': False, 'name': 'auth0.3q2gr1va98i7rvd0l3kef2b6qg.is.authenticated', 'path': '/', 'sameSite': 'no_restriction', 'secure': True, 'session': False, 'storeId': '0', 'value': 'true', 'id': 23}, {'domain': '.olx.pt', 'expirationDate': 1803306679, 'hostOnly': False, 'httpOnly': False, 'name': 'cto_bidid', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'mRCA-F9POG1KRE1RenB2JTJCa3hEaEpzaWphOEcyN2RpYk9tYURwd0t5clpmZGk1clglMkJrNWY0MW1QWlV4ZmNJb1ZmbFBIWkV4Qkp5SE9nOXhNQUJ6UzJaNkVwbG9GNSUyRlF3TTNFWSUyQkJOOWxWY3JXVXcwJTNE', 'id': 24}, {'domain': '.olx.pt', 'expirationDate': 1803306680, 'hostOnly': False, 'httpOnly': False, 'name': 'cto_bundle', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'io_Bc19TSHN0MTBWdXZ1Y2ZRUDdLaFFxQVpNWndRbVRTdW1QeE5RbU9WeGlETmJUMmdwcDRXVlFDeE9pQ0ZiWFBoekh5UFlpUmVOSXl3N05mbGJpRnJDT3NkelJ2JTJCVVNVbG8wcjl1MGVranQyYkElMkZZbWhOVUtHVFJYTW5iU2V2MWVKd2VJVVRrYU9tMWZhMWxNc2hBa2w5SGh3JTNEJTNE', 'id': 25}, {'domain': '.olx.pt', 'expirationDate': 1803306679, 'hostOnly': False, 'httpOnly': False, 'name': 'cto_dna_bundle', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'hBC0hV9TSHN0MTBWdXZ1Y2ZRUDdLaFFxQVpBckc3SHp3ZnFvekpSM0VWSWNvUEE1QUQ2OWV5a0ozNm1Ea2l2RElTMVl2VGh1T1NSbnglMkZydDhUVUlhZm1LS0tRJTNEJTNE', 'id': 26}, {'domain': '.olx.pt', 'expirationDate': 1800494511.034824, 'hostOnly': False, 'httpOnly': False, 'name': 'datadome', 'path': '/', 'sameSite': 'lax', 'secure': True, 'session': False, 'storeId': '0', 'value': 'CfZSDKzx3NRmjzeckjrrFtiPF3yHj8bOu3pivI5J7~EkYrE5G9lHS6RzwpwcqqcvdJcOSx2aigy6vjsbdWQMhtH4WGfd_BDGyf3wNq1lPclT6akbUz1IpYDhX0J94trg', 'id': 27}, {'domain': '.olx.pt', 'expirationDate': 1786488874.233025, 'hostOnly': False, 'httpOnly': False, 'name': 'deviceGUID', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': '292dd00a-7e04-4d85-ab8b-b6b35d16d122', 'id': 28}, {'domain': '.olx.pt', 'expirationDate': 1783464876, 'hostOnly': False, 'httpOnly': False, 'name': 'eupubconsent-v2', 'path': '/', 'sameSite': 'lax', 'secure': False, 'session': False, 'storeId': '0', 'value': 'CQULf9gQULf9gAcABBENByF8AP_gAAAAAAYgJwtT3G_fbXlj-T51afpkeYxf99hqrsQxBgbJk24FyLvW_JwS32E7NAxapqYKmRIAu3TBIQFlHIDUBUCgKogVrTDMaEyEoTNKJ6BEiBMRY2JYCFxvm4FDeQCY5trtd1d5mR-t7dr83dzyy4hnn3Kp_2S1WJCdAYcgAAAAAAAAAAAAAAAQAAAAFAAAAQAIAAAAAAAAAAAAAAAAAAAAF_YAAACgkD8ABcAFAAVAA4AB4AEEALwA1AB4AEwAKoAbwA_ACEgEMARIAjgBWgDAAGHAMoAywBsgDngHcAd8A9gD4gH2AfoBAACKQEXARgAjQBJYCfgKDAVABVwC5gF6AMUAaIA2gBuADiAHtAQ7Aj0CRAE7AKHAUeApEBTYC2AFyALsAXeAvMBhsDIwMkAZOAy4BmYDOYGrgayA2MBt4DdQHJgOXAhcEALAAOABIAEcAg4BHACaAJWATKAm0BSACwgFiALyAX-AxABiwDIQGjANTAbQA24Bug6CKAAuACgAKgAcABBAC4ANQAeABMACrAFwAXQA3gB-gEMARIAowBWgDAAGGAMoAaIA2QBzwDuAO8Ae0A-wD9gIoAjEBHQElgJ-AoMBUQFXALEAXOAvIC9AGKANoAbgA4gB7QD7AIdARfAj0CRAEyAJ2AUPAo8CkIFNAU2AqwBYoC2AFugLgAXJAuwC7QF3gLzAX0Aw0Bj0DIwMkAZOAyqBlgGXAMzAZyA02Bq4GsANvAbqA4sByYDlxwCaABwAHgAXABIAEcAKAAaABHADkAIBAQcBCACOAE0AKgAdIBCACVgExAJlATaApMBXYCxAFqAL_AYgAxYBkIDJgGjANTAa8A2gBtgDbgG6AOPActA50DnyEBwABYAFAAXAA1ACqAFwAN4AwABzwDuAO8AigBKQCgwFRAVcAuYBigDaAI9AU0AqwBYoC0QFwALkAXYAyMBk4DOSABEAB4AaAByAEcALEAm0BSYCxAF5AM8AaMA1MBtgDbgG6AOWAc-SgPgALAAoABwAHgATAAqgBcgEMARIAjgBRgCtAGAANkAd4A_ICogKuAXMAxQCHQEXwI9AkQBR4CxQFsALsAXnAyMDJAGTgM5AawA28kASAAuAEcAdwBAACDgEcAKgAlYBMQCbQFJgL_AYsAywBngDcgG6AOWKQNwAFwAUABUADgAIAAaAA8ACYAFUAP0AhgCJAFGAK0AYAAygBogDZAHOAO-AfgB-gEWAIxAR0BJQCgwFRAVcAuYBeQDFAG0ANwAe0A-wCHQEXwI9AkQBOwChwFIAKbAVYAsUBbAC4AFyALtAXmAvoBhsDIwMkAZPAywDLgGcwNYA1kBt4DdQHJlADgAFwASAAuABkAEcARwA5AB3AD7AIAAQcAsQBrwDtgH_ATEAm0BUgCuwF5AMWAZMAzwBowDUwGvAN0AcsAAA.f_wAAAAAAAAA', 'id': 29}, {'domain': '.olx.pt', 'expirationDate': 1801146677, 'hostOnly': False, 'httpOnly': False, 'name': 'laquesis', 'path': '/', 'sameSite': 'lax', 'secure': True, 'session': False, 'storeId': '0', 'value': 'ema-249@b#eupp-3842@a#jobs-10436@a#jobs-10612@a#oec-1478@a#oesx-5284@b#oesx-5296@b#olxeu-42958@b#olxmd-1641@b#platf-22095@a#ream-1628@b#ream-1701@b#ream-820@b#search-2392@b', 'id': 30}, {'domain': '.olx.pt', 'expirationDate': 1801146677, 'hostOnly': False, 'httpOnly': False, 'name': 'laquesisff', 'path': '/', 'sameSite': 'lax', 'secure': True, 'session': False, 'storeId': '0', 'value': 'aut-1425#aut-388#buy-2279#buy-2489#carparts-312#de-2724#decision-657#ema-54#euonb-114#eus-1773#f8nrp-1779#kuna-307#mart-1341#oec-1238#oesx-2798#olxeu-32943#pos-1043#pos-2021#posting-1159#posting-1419#posting-1638#srt-1289#srt-1346#srt-1348#srt-1434#srt-1593#srt-1758#srt-651#uacc-529#udp-1535', 'id': 31}, {'domain': '.olx.pt', 'expirationDate': 1801146682, 'hostOnly': False, 'httpOnly': False, 'name': 'lqstatus', 'path': '/', 'sameSite': 'lax', 'secure': True, 'session': False, 'storeId': '0', 'value': '1769611877319|19bde19f57fxa3276ede|platf-22095|||1|1769610677319|0', 'id': 32}, {'domain': '.olx.pt', 'expirationDate': 1801147315, 'hostOnly': False, 'httpOnly': False, 'name': 'onap', 'path': '/', 'sameSite': 'lax', 'secure': True, 'session': False, 'storeId': '0', 'value': '197e7192893x41eda9be-5-19c05040c48xd1295c83-125-1769613115176', 'id': 33}, {'domain': '.olx.pt', 'expirationDate': 1783464876, 'hostOnly': False, 'httpOnly': False, 'name': 'OptanonAlertBoxClosed', 'path': '/', 'sameSite': 'lax', 'secure': False, 'session': False, 'storeId': '0', 'value': '2025-07-07T22:54:36.972Z', 'id': 34}, {'domain': '.olx.pt', 'expirationDate': 1801146679, 'hostOnly': False, 'httpOnly': False, 'name': 'OptanonConsent', 'path': '/', 'sameSite': 'lax', 'secure': False, 'session': False, 'storeId': '0', 'value': 'isGpcEnabled=0&datestamp=Wed+Jan+28+2026+14%3A31%3A19+GMT%2B0000+(Hora+de+Greenwich)&version=202507.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&genVendors=V10%3A0%2C&consentId=208914ca-f508-44c1-a10c-634da5f7dcfc&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1%2Cgad%3A1&geolocation=PT%3B13&AwaitingReconsent=false&isAnonUser=1', 'id': 35}, {'domain': '.olx.pt', 'expirationDate': 1783464876, 'hostOnly': False, 'httpOnly': False, 'name': 'OTAdditionalConsentString', 'path': '/', 'sameSite': 'lax', 'secure': False, 'session': False, 'storeId': '0', 'value': '1~89.318.320.959.1109.1421.1423.1659.1985.1987.2008.2072.2135.2275.2322.2465.2501.2627.2833.2958.2999.3028.3225.3226.3231.3234.3235.3236.3237.3238.3240.3244.3245.3250.3251.3253.3257.3260.3270.3272.3281.3288.3290.3292.3293.3296.3299.3300.3306.3307.3309.3314.3315.3316.3318.3324.3328.3330.3331.3531.3731.3831.4131.4531.4631.4731.4831.5231.6931.7235.7831.7931.8931.9731.10231.10631.10831.11031.11531.12831.13632.13731.14034.14133.14237.14332.15731.16831.16931.21233.23031.25131.25731.25931.26031.26831.27731.27831.28031.28731.28831.29631.32531.34231.34631.36831.39131.39531.40632.41531.43631.43731.43831.45931', 'id': 36}, {'domain': '.olx.pt', 'expirationDate': 1769614892.655509, 'hostOnly': False, 'httpOnly': True, 'name': 'PHPSESSID', 'path': '/', 'sameSite': 'unspecified', 'secure': True, 'session': False, 'storeId': '0', 'value': 'rhl4cdavhp942r8bi7qn4gdttd', 'id': 37}, {'domain': '.olx.pt', 'expirationDate': 1804170680.220039, 'hostOnly': False, 'httpOnly': False, 'name': 'user_business_status', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': 'private', 'id': 38}, {'domain': '.olx.pt', 'expirationDate': 1804170680.219494, 'hostOnly': False, 'httpOnly': False, 'name': 'user_id', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': '391297488', 'id': 39}, {'domain': '.olx.pt', 'expirationDate': 1804170680.219971, 'hostOnly': False, 'httpOnly': False, 'name': 'user_id_recs', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': '391297488', 'id': 40}, {'domain': '.olx.pt', 'expirationDate': 1804170680.219806, 'hostOnly': False, 'httpOnly': False, 'name': 'user_uuid', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': '02a5b1ae-c4f4-4afd-9308-b82c8eee2c1c', 'id': 41}, {'domain': 'www.olx.pt', 'expirationDate': 1801146682, 'hostOnly': True, 'httpOnly': False, 'name': '__rtbh.lid', 'path': '/', 'sameSite': 'no_restriction', 'secure': True, 'session': False, 'storeId': '0', 'value': '%7B%22eventType%22%3A%22lid%22%2C%22id%22%3A%22jEthXW5KW7RtzZimC3El%22%2C%22expiryDate%22%3A%222027-01-28T14%3A31%3A22.261Z%22%7D', 'id': 42}, {'domain': 'www.olx.pt', 'expirationDate': 1801147300, 'hostOnly': True, 'httpOnly': False, 'name': '__rtbh.uid', 'path': '/', 'sameSite': 'no_restriction', 'secure': True, 'session': False, 'storeId': '0', 'value': '%7B%22eventType%22%3A%22uid%22%2C%22id%22%3A%22391297488%22%2C%22hash%22%3A%220AyiUKg8zE91QKwPL364%22%2C%22expiryDate%22%3A%222027-01-28T14%3A41%3A40.794Z%22%7D', 'id': 43}, {'domain': 'www.olx.pt', 'expirationDate': 1804170674.783667, 'hostOnly': True, 'httpOnly': False, 'name': 'session_start_date', 'path': '/', 'sameSite': 'unspecified', 'secure': False, 'session': False, 'storeId': '0', 'value': '1769612474783', 'id': 44}]
+2026-01-30 02:45:31,103 - OlxScraper - INFO - Importados 44 cookies do browser real.
+2026-01-30 02:46:03,758 - OlxScraper - INFO - Iniciando scrape OLX
+2026-01-30 02:46:18,021 - OlxScraper - INFO - Página 1: https://www.olx.pt/imoveis/apartamentos/porto/?priceRange=0,250000...
+2026-01-30 02:46:23,374 - OlxScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 02:46:23,374 - OlxScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 02:46:23,375 - OlxScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 02:46:23,445 - ScraperOrchestrator - INFO - [OK] OLX: 0 listings extraidos
+2026-01-30 02:46:23,445 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 02:46:23,445 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 02:46:23,445 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 02:46:23,446 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: CasaYes
+2026-01-30 02:46:23,446 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 02:46:24,313 - CasaYesScraper - INFO - Iniciando scrape CasaYes
+2026-01-30 02:46:24,313 - CasaYesScraper - INFO - Página 1
+2026-01-30 02:46:33,175 - CasaYesScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 02:46:33,175 - CasaYesScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 02:46:33,175 - CasaYesScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 02:46:33,241 - ScraperOrchestrator - INFO - [OK] CasaYes: 0 listings extraidos
+2026-01-30 02:46:33,241 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 02:46:33,241 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 02:46:33,241 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 02:46:33,242 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: SAPO Casa
+2026-01-30 02:46:33,242 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 02:46:34,090 - SapoCasaScraper - INFO - Iniciando scrape SAPO Casa
+2026-01-30 02:46:34,090 - SapoCasaScraper - INFO - Página 1
+2026-01-30 02:46:45,973 - SapoCasaScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 02:46:45,973 - SapoCasaScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 02:46:45,973 - SapoCasaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 02:46:46,049 - ScraperOrchestrator - INFO - [OK] SAPO Casa: 0 listings extraidos
+2026-01-30 02:46:46,049 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 02:46:46,049 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 02:46:46,049 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 02:46:46,049 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: SuperCasa
+2026-01-30 02:46:46,049 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 02:46:46,907 - SuperCasaScraper - INFO - Iniciando scrape SuperCasa
+2026-01-30 02:46:46,907 - SuperCasaScraper - INFO - Página 1
+2026-01-30 02:46:59,246 - SuperCasaScraper - INFO - Total de items: 0
+2026-01-30 02:46:59,246 - SuperCasaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 02:46:59,310 - ScraperOrchestrator - INFO - [OK] SuperCasa: 0 listings extraidos
+2026-01-30 02:46:59,311 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 02:46:59,311 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 02:46:59,311 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 02:46:59,312 - ScraperOrchestrator - INFO - RESUMO FINAL
+2026-01-30 02:46:59,312 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 02:46:59,312 - ScraperOrchestrator - INFO - Total de listings extraídos: 0
+2026-01-30 02:46:59,312 - ScraperOrchestrator - INFO - Tempo total: 104.34s
+2026-01-30 02:46:59,312 - ScraperOrchestrator - INFO - Scrapers OK: 6
+2026-01-30 02:46:59,312 - ScraperOrchestrator - INFO - Scrapers FALHADOS: 0
+2026-01-30 02:46:59,313 - ScraperOrchestrator - INFO - ================================================================================
+
+2026-01-30 02:46:59,313 - RealEstateBotMain - INFO - [OK] Scraping concluido: 0 anuncios coletados
+2026-01-30 02:46:59,313 - RealEstateBotMain - WARNING - [AVISO] Nenhum dado coletado. Abortando.
+2026-01-30 03:14:40,332 - RealEstateBotMain - INFO - ============================================================
+2026-01-30 03:14:40,332 - RealEstateBotMain - INFO - [BOT] REAL ESTATE BOT - INICIANDO PIPELINE
+2026-01-30 03:14:40,332 - RealEstateBotMain - INFO -    Modo: new
+2026-01-30 03:14:40,332 - RealEstateBotMain - INFO - ============================================================
+2026-01-30 03:14:40,332 - RealEstateBotMain - INFO - 
+[FASE 1] SCRAPING DE PORTAIS
+2026-01-30 03:14:40,332 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:14:40,332 - ScraperOrchestrator - INFO - INICIANDO ORCHESTRADOR DE SCRAPERS
+2026-01-30 03:14:40,332 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:14:40,333 - ScraperOrchestrator - INFO - Executando todos os 6 scrapers
+2026-01-30 03:14:40,333 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 03:14:40,333 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Imovirtual
+2026-01-30 03:14:40,333 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:14:40,947 - ImovirtualScraper - INFO - Total de anúncios extraídos via API: 3
+2026-01-30 03:14:40,949 - ScraperOrchestrator - INFO - [OK] Imovirtual: 3 listings extraidos
+2026-01-30 03:14:40,949 - ScraperOrchestrator - INFO -    Páginas: 0
+2026-01-30 03:14:40,949 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 03:14:40,950 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 03:14:40,950 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Idealista
+2026-01-30 03:14:40,950 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:14:41,970 - IdealistaScraper - INFO - Iniciando scrape Idealista
+2026-01-30 03:14:41,971 - IdealistaScraper - INFO - Página 1: https://www.idealista.pt/comprar/casas/porto-distrito/com-preco-max_250000,t2/?o...
+2026-01-30 03:14:54,587 - IdealistaScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 03:14:54,587 - IdealistaScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 03:14:54,587 - IdealistaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 03:14:54,646 - ScraperOrchestrator - INFO - [OK] Idealista: 0 listings extraidos
+2026-01-30 03:14:54,647 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 03:14:54,647 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 03:14:54,647 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 03:14:54,647 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: OLX
+2026-01-30 03:14:54,647 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:14:55,671 - OlxScraper - ERROR - Fatal scraper error: [WinError 32] O processo não pode aceder ao ficheiro porque este está a ser utilizado por outro processo: 'c:\\Users\\Joaop\\AGENTEV2\\real_estate_bot\\scraper\\..\\tmp_chrome_profile\\Default\\Cache\\No_Vary_Search\\journal.baj'
+Traceback (most recent call last):
+  File "c:\Users\Joaop\AGENTEV2\real_estate_bot\scraper\base.py", line 131, in scrape
+    results = self.run(page)
+  File "c:\Users\Joaop\AGENTEV2\real_estate_bot\scraper\olx.py", line 28, in run
+    shutil.rmtree(TMP_PROFILE)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\shutil.py", line 790, in rmtree
+    return _rmtree_unsafe(path, onexc)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\shutil.py", line 629, in _rmtree_unsafe
+    onexc(os.unlink, fullname, err)
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\shutil.py", line 625, in _rmtree_unsafe
+    os.unlink(fullname)
+    ~~~~~~~~~^^^^^^^^^^
+PermissionError: [WinError 32] O processo não pode aceder ao ficheiro porque este está a ser utilizado por outro processo: 'c:\\Users\\Joaop\\AGENTEV2\\real_estate_bot\\scraper\\..\\tmp_chrome_profile\\Default\\Cache\\No_Vary_Search\\journal.baj'
+2026-01-30 03:14:55,715 - ScraperOrchestrator - INFO - [OK] OLX: 0 listings extraidos
+2026-01-30 03:14:55,716 - ScraperOrchestrator - INFO -    Páginas: 0
+2026-01-30 03:14:55,716 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 03:14:55,716 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 03:14:55,716 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: CasaYes
+2026-01-30 03:14:55,716 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:14:56,625 - CasaYesScraper - INFO - Iniciando scrape CasaYes
+2026-01-30 03:14:56,625 - CasaYesScraper - INFO - Página 1
+2026-01-30 03:15:07,640 - CasaYesScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 03:15:07,641 - CasaYesScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 03:15:07,641 - CasaYesScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 03:15:07,718 - ScraperOrchestrator - INFO - [OK] CasaYes: 0 listings extraidos
+2026-01-30 03:15:07,718 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 03:15:07,718 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 03:15:07,718 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 03:15:07,719 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: SAPO Casa
+2026-01-30 03:15:07,719 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:15:08,587 - SapoCasaScraper - INFO - Iniciando scrape SAPO Casa
+2026-01-30 03:15:08,587 - SapoCasaScraper - INFO - Página 1
+2026-01-30 03:15:14,950 - SapoCasaScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 03:15:14,951 - SapoCasaScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 03:15:14,951 - SapoCasaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 03:15:14,996 - ScraperOrchestrator - INFO - [OK] SAPO Casa: 0 listings extraidos
+2026-01-30 03:15:14,997 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 03:15:14,997 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 03:15:14,997 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 03:15:14,997 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: SuperCasa
+2026-01-30 03:15:14,997 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:15:15,863 - SuperCasaScraper - INFO - Iniciando scrape SuperCasa
+2026-01-30 03:15:15,863 - SuperCasaScraper - INFO - Página 1
+2026-01-30 03:15:27,949 - SuperCasaScraper - INFO - Total de items: 0
+2026-01-30 03:15:27,950 - SuperCasaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 03:15:28,010 - ScraperOrchestrator - INFO - [OK] SuperCasa: 0 listings extraidos
+2026-01-30 03:15:28,010 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 03:15:28,010 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 03:15:28,011 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 03:15:28,011 - ScraperOrchestrator - INFO - RESUMO FINAL
+2026-01-30 03:15:28,011 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:15:28,011 - ScraperOrchestrator - INFO - Total de listings extraídos: 3
+2026-01-30 03:15:28,012 - ScraperOrchestrator - INFO - Tempo total: 47.68s
+2026-01-30 03:15:28,012 - ScraperOrchestrator - INFO - Scrapers OK: 6
+2026-01-30 03:15:28,012 - ScraperOrchestrator - INFO - Scrapers FALHADOS: 0
+2026-01-30 03:15:28,012 - ScraperOrchestrator - INFO - ================================================================================
+
+2026-01-30 03:15:28,012 - RealEstateBotMain - INFO - [OK] Scraping concluido: 3 anuncios coletados
+2026-01-30 03:15:28,012 - RealEstateBotMain - INFO - 
+[FASE 2] FILTRAGEM POR MODO (new)
+2026-01-30 03:15:28,012 - RealEstateBotMain - INFO - [OK] 3/3 anuncios a processar
+2026-01-30 03:15:28,013 - RealEstateBotMain - INFO - 
+[FASE 3] PIPELINE MULTI-AGENTE
+2026-01-30 03:15:28,013 - PipelineOrchestrator - INFO - [PIPELINE] Iniciando pipeline para 3 anuncios
+2026-01-30 03:15:28,013 - PipelineOrchestrator - INFO - [STAGE 1] Normalizando dados brutos...
+2026-01-30 03:15:28,013 - PipelineOrchestrator - INFO -   [OK] 3/3 normalizados
+2026-01-30 03:15:28,013 - PipelineOrchestrator - INFO -     - Taxa extracao preco: 100.0%
+2026-01-30 03:15:28,013 - PipelineOrchestrator - INFO -     - Taxa extração área: 0.0%
+2026-01-30 03:15:28,013 - PipelineOrchestrator - INFO -     - Taxa extração localização: 100.0%
+2026-01-30 03:15:28,014 - PipelineOrchestrator - INFO - [DEDUPLICACAO] Agrupando anúncios semelhantes...
+2026-01-30 03:15:28,017 - PipelineOrchestrator - INFO -   [OK] 3 anúncios únicos após deduplicação (de 3)
+2026-01-30 03:15:28,018 - RealEstateBot - ERROR - Erro crítico: Object of type RawListing is not JSON serializable
+Traceback (most recent call last):
+  File "c:\Users\Joaop\AGENTEV2\real_estate_bot\main.py", line 267, in main
+    bot.run()
+    ~~~~~~~^^
+  File "c:\Users\Joaop\AGENTEV2\real_estate_bot\main.py", line 168, in run
+    pipeline_result = self.pipeline.process(filtered_listings)
+  File "c:\Users\Joaop\AGENTEV2\real_estate_bot\analysis\pipeline.py", line 95, in process
+    json.dump(duplicate_groups, f, ensure_ascii=False, indent=2)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\json\__init__.py", line 179, in dump
+    for chunk in iterable:
+                 ^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 431, in _iterencode
+    yield from _iterencode_list(o, _current_indent_level)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 326, in _iterencode_list
+    yield from chunks
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 326, in _iterencode_list
+    yield from chunks
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 407, in _iterencode_dict
+    yield from chunks
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 440, in _iterencode
+    o = _default(o)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+                    f'is not JSON serializable')
+TypeError: Object of type RawListing is not JSON serializable
+2026-01-30 03:16:45,779 - RealEstateBotMain - INFO - ============================================================
+2026-01-30 03:16:45,779 - RealEstateBotMain - INFO - [BOT] REAL ESTATE BOT - INICIANDO PIPELINE
+2026-01-30 03:16:45,780 - RealEstateBotMain - INFO -    Modo: new
+2026-01-30 03:16:45,780 - RealEstateBotMain - INFO - ============================================================
+2026-01-30 03:16:45,780 - RealEstateBotMain - INFO - 
+[FASE 1] SCRAPING DE PORTAIS
+2026-01-30 03:16:45,780 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:16:45,780 - ScraperOrchestrator - INFO - INICIANDO ORCHESTRADOR DE SCRAPERS
+2026-01-30 03:16:45,780 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:16:45,780 - ScraperOrchestrator - INFO - Executando todos os 6 scrapers
+2026-01-30 03:16:45,781 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 03:16:45,781 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Imovirtual
+2026-01-30 03:16:45,781 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:16:46,373 - ImovirtualScraper - INFO - Total de anúncios extraídos via API: 3
+2026-01-30 03:16:46,374 - ScraperOrchestrator - INFO - [OK] Imovirtual: 3 listings extraidos
+2026-01-30 03:16:46,374 - ScraperOrchestrator - INFO -    Páginas: 0
+2026-01-30 03:16:46,375 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 03:16:46,375 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 03:16:46,375 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Idealista
+2026-01-30 03:16:46,375 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:16:47,261 - IdealistaScraper - INFO - Iniciando scrape Idealista
+2026-01-30 03:16:47,262 - IdealistaScraper - INFO - Página 1: https://www.idealista.pt/comprar/casas/porto-distrito/com-preco-max_250000,t2/?o...
+2026-01-30 03:16:54,855 - IdealistaScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 03:16:54,855 - IdealistaScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 03:16:54,856 - IdealistaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 03:16:54,910 - ScraperOrchestrator - INFO - [OK] Idealista: 0 listings extraidos
+2026-01-30 03:16:54,910 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 03:16:54,911 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 03:16:54,911 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 03:16:54,911 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: OLX
+2026-01-30 03:16:54,911 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:16:58,973 - OlxScraper - ERROR - Fatal scraper error: Message: session not created
+from unknown error: cannot parse internal JSON template: EOF while parsing a value at line 1 column 0; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff679c2a535
+	0x7ff679c2a590
+	0x7ff6799d10bd
+	0x7ff679a16a1d
+	0x7ff679a17076
+	0x7ff679a104b9
+	0x7ff679a0d119
+	0x7ff679a64221
+	0x7ff679a63a86
+	0x7ff679a1cc9c
+	0x7ff679a1dbe3
+	0x7ff679f07b60
+	0x7ff679f01f5d
+	0x7ff679f2311a
+	0x7ff679c460a5
+	0x7ff679c4e73c
+	0x7ff679c33844
+	0x7ff679c339f6
+	0x7ff679c19a07
+	0x7ff8848be8d7
+	0x7ff88534c53c
+Traceback (most recent call last):
+  File "c:\Users\Joaop\AGENTEV2\real_estate_bot\scraper\base.py", line 131, in scrape
+    results = self.run(page)
+  File "c:\Users\Joaop\AGENTEV2\real_estate_bot\scraper\olx.py", line 40, in run
+    driver = webdriver.Chrome(options=chrome_options)
+  File "C:\Users\Joaop\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+    ~~~~~~~~~~~~~~~~^
+        browser_name=DesiredCapabilities.CHROME["browserName"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        keep_alive=keep_alive,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Joaop\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\selenium\webdriver\chromium\webdriver.py", line 66, in __init__
+    super().__init__(command_executor=executor, options=self.options)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joaop\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\selenium\webdriver\common\webdriver.py", line 25, in __init__
+    super().__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joaop\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 257, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\Joaop\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 352, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joaop\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 432, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Joaop\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created
+from unknown error: cannot parse internal JSON template: EOF while parsing a value at line 1 column 0; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff679c2a535
+	0x7ff679c2a590
+	0x7ff6799d10bd
+	0x7ff679a16a1d
+	0x7ff679a17076
+	0x7ff679a104b9
+	0x7ff679a0d119
+	0x7ff679a64221
+	0x7ff679a63a86
+	0x7ff679a1cc9c
+	0x7ff679a1dbe3
+	0x7ff679f07b60
+	0x7ff679f01f5d
+	0x7ff679f2311a
+	0x7ff679c460a5
+	0x7ff679c4e73c
+	0x7ff679c33844
+	0x7ff679c339f6
+	0x7ff679c19a07
+	0x7ff8848be8d7
+	0x7ff88534c53c
+
+2026-01-30 03:16:59,029 - ScraperOrchestrator - INFO - [OK] OLX: 0 listings extraidos
+2026-01-30 03:16:59,029 - ScraperOrchestrator - INFO -    Páginas: 0
+2026-01-30 03:16:59,029 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 03:16:59,030 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 03:16:59,030 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: CasaYes
+2026-01-30 03:16:59,030 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:16:59,931 - CasaYesScraper - INFO - Iniciando scrape CasaYes
+2026-01-30 03:16:59,931 - CasaYesScraper - INFO - Página 1
+2026-01-30 03:17:08,853 - CasaYesScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 03:17:08,853 - CasaYesScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 03:17:08,854 - CasaYesScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 03:17:08,916 - ScraperOrchestrator - INFO - [OK] CasaYes: 0 listings extraidos
+2026-01-30 03:17:08,916 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 03:17:08,916 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 03:17:08,916 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 03:17:08,916 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: SAPO Casa
+2026-01-30 03:17:08,917 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:17:09,774 - SapoCasaScraper - INFO - Iniciando scrape SAPO Casa
+2026-01-30 03:17:09,775 - SapoCasaScraper - INFO - Página 1
+2026-01-30 03:17:20,773 - SapoCasaScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 03:17:20,774 - SapoCasaScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 03:17:20,774 - SapoCasaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 03:17:20,825 - ScraperOrchestrator - INFO - [OK] SAPO Casa: 0 listings extraidos
+2026-01-30 03:17:20,826 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 03:17:20,826 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 03:17:20,826 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 03:17:20,827 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: SuperCasa
+2026-01-30 03:17:20,827 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:17:21,683 - SuperCasaScraper - INFO - Iniciando scrape SuperCasa
+2026-01-30 03:17:21,683 - SuperCasaScraper - INFO - Página 1
+2026-01-30 03:17:33,147 - SuperCasaScraper - INFO - Total de items: 0
+2026-01-30 03:17:33,148 - SuperCasaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 03:17:33,228 - ScraperOrchestrator - INFO - [OK] SuperCasa: 0 listings extraidos
+2026-01-30 03:17:33,228 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 03:17:33,228 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 03:17:33,229 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 03:17:33,229 - ScraperOrchestrator - INFO - RESUMO FINAL
+2026-01-30 03:17:33,229 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:17:33,229 - ScraperOrchestrator - INFO - Total de listings extraídos: 3
+2026-01-30 03:17:33,229 - ScraperOrchestrator - INFO - Tempo total: 47.45s
+2026-01-30 03:17:33,229 - ScraperOrchestrator - INFO - Scrapers OK: 6
+2026-01-30 03:17:33,230 - ScraperOrchestrator - INFO - Scrapers FALHADOS: 0
+2026-01-30 03:17:33,230 - ScraperOrchestrator - INFO - ================================================================================
+
+2026-01-30 03:17:33,230 - RealEstateBotMain - INFO - [OK] Scraping concluido: 3 anuncios coletados
+2026-01-30 03:17:33,230 - RealEstateBotMain - INFO - 
+[FASE 2] FILTRAGEM POR MODO (new)
+2026-01-30 03:17:33,230 - RealEstateBotMain - INFO - [OK] 3/3 anuncios a processar
+2026-01-30 03:17:33,230 - RealEstateBotMain - INFO - 
+[FASE 3] PIPELINE MULTI-AGENTE
+2026-01-30 03:17:33,230 - PipelineOrchestrator - INFO - [PIPELINE] Iniciando pipeline para 3 anuncios
+2026-01-30 03:17:33,230 - PipelineOrchestrator - INFO - [STAGE 1] Normalizando dados brutos...
+2026-01-30 03:17:33,231 - PipelineOrchestrator - INFO -   [OK] 3/3 normalizados
+2026-01-30 03:17:33,231 - PipelineOrchestrator - INFO -     - Taxa extracao preco: 100.0%
+2026-01-30 03:17:33,231 - PipelineOrchestrator - INFO -     - Taxa extração área: 0.0%
+2026-01-30 03:17:33,231 - PipelineOrchestrator - INFO -     - Taxa extração localização: 100.0%
+2026-01-30 03:17:33,231 - PipelineOrchestrator - INFO - [DEDUPLICACAO] Agrupando anúncios semelhantes...
+2026-01-30 03:17:33,232 - PipelineOrchestrator - INFO -   [OK] 3 anúncios únicos após deduplicação (de 3)
+2026-01-30 03:17:33,233 - RealEstateBot - ERROR - Erro crítico: Object of type RawListing is not JSON serializable
+Traceback (most recent call last):
+  File "c:\Users\Joaop\AGENTEV2\real_estate_bot\main.py", line 267, in main
+    bot.run()
+    ~~~~~~~^^
+  File "c:\Users\Joaop\AGENTEV2\real_estate_bot\main.py", line 168, in run
+    pipeline_result = self.pipeline.process(filtered_listings)
+  File "c:\Users\Joaop\AGENTEV2\real_estate_bot\analysis\pipeline.py", line 95, in process
+    json.dump(duplicate_groups, f, ensure_ascii=False, indent=2)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\json\__init__.py", line 179, in dump
+    for chunk in iterable:
+                 ^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 431, in _iterencode
+    yield from _iterencode_list(o, _current_indent_level)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 326, in _iterencode_list
+    yield from chunks
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 326, in _iterencode_list
+    yield from chunks
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 407, in _iterencode_dict
+    yield from chunks
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 440, in _iterencode
+    o = _default(o)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+                    f'is not JSON serializable')
+TypeError: Object of type RawListing is not JSON serializable
+2026-01-30 03:22:40,691 - RealEstateBotMain - INFO - ============================================================
+2026-01-30 03:22:40,691 - RealEstateBotMain - INFO - [BOT] REAL ESTATE BOT - INICIANDO PIPELINE
+2026-01-30 03:22:40,691 - RealEstateBotMain - INFO -    Modo: new
+2026-01-30 03:22:40,691 - RealEstateBotMain - INFO - ============================================================
+2026-01-30 03:22:40,692 - RealEstateBotMain - INFO - 
+[FASE 1] SCRAPING DE PORTAIS
+2026-01-30 03:22:40,692 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:22:40,692 - ScraperOrchestrator - INFO - INICIANDO ORCHESTRADOR DE SCRAPERS
+2026-01-30 03:22:40,692 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:22:40,692 - ScraperOrchestrator - INFO - Executando todos os 6 scrapers
+2026-01-30 03:22:40,693 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 03:22:40,693 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Imovirtual
+2026-01-30 03:22:40,693 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:22:41,231 - ImovirtualScraper - INFO - Total de anúncios extraídos via API: 3
+2026-01-30 03:22:41,232 - ScraperOrchestrator - INFO - [OK] Imovirtual: 3 listings extraidos
+2026-01-30 03:22:41,232 - ScraperOrchestrator - INFO -    Páginas: 0
+2026-01-30 03:22:41,232 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 03:22:41,232 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 03:22:41,233 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Idealista
+2026-01-30 03:22:41,233 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:22:42,118 - IdealistaScraper - INFO - Iniciando scrape Idealista
+2026-01-30 03:22:42,119 - IdealistaScraper - INFO - Página 1: https://www.idealista.pt/comprar/casas/porto-distrito/com-preco-max_250000,t2/?o...
+2026-01-30 03:22:53,620 - IdealistaScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 03:22:53,620 - IdealistaScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 03:22:53,620 - IdealistaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 03:22:53,673 - ScraperOrchestrator - INFO - [OK] Idealista: 0 listings extraidos
+2026-01-30 03:22:53,674 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 03:22:53,674 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 03:22:53,674 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 03:22:53,674 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: OLX
+2026-01-30 03:22:53,675 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:22:57,094 - OlxScraper - ERROR - Fatal scraper error: Message: session not created
+from unknown error: cannot parse internal JSON template: EOF while parsing a value at line 1 column 0; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff679c2a535
+	0x7ff679c2a590
+	0x7ff6799d10bd
+	0x7ff679a16a1d
+	0x7ff679a17076
+	0x7ff679a104b9
+	0x7ff679a0d119
+	0x7ff679a64221
+	0x7ff679a63a86
+	0x7ff679a1cc9c
+	0x7ff679a1dbe3
+	0x7ff679f07b60
+	0x7ff679f01f5d
+	0x7ff679f2311a
+	0x7ff679c460a5
+	0x7ff679c4e73c
+	0x7ff679c33844
+	0x7ff679c339f6
+	0x7ff679c19a07
+	0x7ff8848be8d7
+	0x7ff88534c53c
+Traceback (most recent call last):
+  File "c:\Users\Joaop\AGENTEV2\real_estate_bot\scraper\base.py", line 131, in scrape
+    results = self.run(page)
+  File "c:\Users\Joaop\AGENTEV2\real_estate_bot\scraper\olx.py", line 40, in run
+    driver = webdriver.Chrome(options=chrome_options)
+  File "C:\Users\Joaop\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\selenium\webdriver\chrome\webdriver.py", line 45, in __init__
+    super().__init__(
+    ~~~~~~~~~~~~~~~~^
+        browser_name=DesiredCapabilities.CHROME["browserName"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+        keep_alive=keep_alive,
+        ^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\Joaop\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\selenium\webdriver\chromium\webdriver.py", line 66, in __init__
+    super().__init__(command_executor=executor, options=self.options)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joaop\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\selenium\webdriver\common\webdriver.py", line 25, in __init__
+    super().__init__(*args, **kwargs)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joaop\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 257, in __init__
+    self.start_session(capabilities)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\Joaop\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 352, in start_session
+    response = self.execute(Command.NEW_SESSION, caps)["value"]
+               ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joaop\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 432, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Joaop\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created
+from unknown error: cannot parse internal JSON template: EOF while parsing a value at line 1 column 0; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#sessionnotcreatedexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff679c2a535
+	0x7ff679c2a590
+	0x7ff6799d10bd
+	0x7ff679a16a1d
+	0x7ff679a17076
+	0x7ff679a104b9
+	0x7ff679a0d119
+	0x7ff679a64221
+	0x7ff679a63a86
+	0x7ff679a1cc9c
+	0x7ff679a1dbe3
+	0x7ff679f07b60
+	0x7ff679f01f5d
+	0x7ff679f2311a
+	0x7ff679c460a5
+	0x7ff679c4e73c
+	0x7ff679c33844
+	0x7ff679c339f6
+	0x7ff679c19a07
+	0x7ff8848be8d7
+	0x7ff88534c53c
+
+2026-01-30 03:22:57,140 - ScraperOrchestrator - INFO - [OK] OLX: 0 listings extraidos
+2026-01-30 03:22:57,140 - ScraperOrchestrator - INFO -    Páginas: 0
+2026-01-30 03:22:57,141 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 03:22:57,141 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 03:22:57,141 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: CasaYes
+2026-01-30 03:22:57,141 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:22:58,035 - CasaYesScraper - INFO - Iniciando scrape CasaYes
+2026-01-30 03:22:58,035 - CasaYesScraper - INFO - Página 1
+2026-01-30 03:23:03,933 - CasaYesScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 03:23:03,934 - CasaYesScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 03:23:03,934 - CasaYesScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 03:23:03,990 - ScraperOrchestrator - INFO - [OK] CasaYes: 0 listings extraidos
+2026-01-30 03:23:03,991 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 03:23:03,991 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 03:23:03,991 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 03:23:03,992 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: SAPO Casa
+2026-01-30 03:23:03,992 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:23:04,851 - SapoCasaScraper - INFO - Iniciando scrape SAPO Casa
+2026-01-30 03:23:04,851 - SapoCasaScraper - INFO - Página 1
+2026-01-30 03:23:15,991 - SapoCasaScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 03:23:15,991 - SapoCasaScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 03:23:15,991 - SapoCasaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 03:23:16,038 - ScraperOrchestrator - INFO - [OK] SAPO Casa: 0 listings extraidos
+2026-01-30 03:23:16,039 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 03:23:16,039 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 03:23:16,039 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 03:23:16,039 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: SuperCasa
+2026-01-30 03:23:16,039 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:23:16,947 - SuperCasaScraper - INFO - Iniciando scrape SuperCasa
+2026-01-30 03:23:16,947 - SuperCasaScraper - INFO - Página 1
+2026-01-30 03:23:26,937 - SuperCasaScraper - INFO - Total de items: 0
+2026-01-30 03:23:26,937 - SuperCasaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 03:23:27,010 - ScraperOrchestrator - INFO - [OK] SuperCasa: 0 listings extraidos
+2026-01-30 03:23:27,010 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 03:23:27,010 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 03:23:27,010 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 03:23:27,010 - ScraperOrchestrator - INFO - RESUMO FINAL
+2026-01-30 03:23:27,011 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:23:27,011 - ScraperOrchestrator - INFO - Total de listings extraídos: 3
+2026-01-30 03:23:27,011 - ScraperOrchestrator - INFO - Tempo total: 46.32s
+2026-01-30 03:23:27,011 - ScraperOrchestrator - INFO - Scrapers OK: 6
+2026-01-30 03:23:27,011 - ScraperOrchestrator - INFO - Scrapers FALHADOS: 0
+2026-01-30 03:23:27,011 - ScraperOrchestrator - INFO - ================================================================================
+
+2026-01-30 03:23:27,012 - RealEstateBotMain - INFO - [OK] Scraping concluido: 3 anuncios coletados
+2026-01-30 03:23:27,012 - RealEstateBotMain - INFO - 
+[FASE 2] FILTRAGEM POR MODO (new)
+2026-01-30 03:23:27,012 - RealEstateBotMain - INFO - [OK] 3/3 anuncios a processar
+2026-01-30 03:23:27,012 - RealEstateBotMain - INFO - 
+[FASE 3] PIPELINE MULTI-AGENTE
+2026-01-30 03:23:27,012 - PipelineOrchestrator - INFO - [PIPELINE] Iniciando pipeline para 3 anuncios
+2026-01-30 03:23:27,012 - PipelineOrchestrator - INFO - [STAGE 1] Normalizando dados brutos...
+2026-01-30 03:23:27,013 - PipelineOrchestrator - INFO -   [OK] 3/3 normalizados
+2026-01-30 03:23:27,013 - PipelineOrchestrator - INFO -     - Taxa extracao preco: 100.0%
+2026-01-30 03:23:27,013 - PipelineOrchestrator - INFO -     - Taxa extração área: 0.0%
+2026-01-30 03:23:27,013 - PipelineOrchestrator - INFO -     - Taxa extração localização: 100.0%
+2026-01-30 03:23:27,013 - PipelineOrchestrator - INFO - [DEDUPLICACAO] Agrupando anúncios semelhantes...
+2026-01-30 03:23:27,014 - PipelineOrchestrator - INFO -   [OK] 3 anúncios únicos após deduplicação (de 3)
+2026-01-30 03:23:27,014 - RealEstateBot - ERROR - Erro crítico: Object of type RawListing is not JSON serializable
+Traceback (most recent call last):
+  File "c:\Users\Joaop\AGENTEV2\real_estate_bot\main.py", line 267, in main
+    bot.run()
+    ~~~~~~~^^
+  File "c:\Users\Joaop\AGENTEV2\real_estate_bot\main.py", line 168, in run
+    pipeline_result = self.pipeline.process(filtered_listings)
+  File "c:\Users\Joaop\AGENTEV2\real_estate_bot\analysis\pipeline.py", line 107, in process
+    json.dump(serializable_groups, f, ensure_ascii=False, indent=2)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\json\__init__.py", line 179, in dump
+    for chunk in iterable:
+                 ^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 431, in _iterencode
+    yield from _iterencode_list(o, _current_indent_level)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 326, in _iterencode_list
+    yield from chunks
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 326, in _iterencode_list
+    yield from chunks
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 407, in _iterencode_dict
+    yield from chunks
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 440, in _iterencode
+    o = _default(o)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+                    f'is not JSON serializable')
+TypeError: Object of type RawListing is not JSON serializable
+2026-01-30 03:29:04,358 - RealEstateBotMain - INFO - ============================================================
+2026-01-30 03:29:04,358 - RealEstateBotMain - INFO - [BOT] REAL ESTATE BOT - INICIANDO PIPELINE
+2026-01-30 03:29:04,359 - RealEstateBotMain - INFO -    Modo: new
+2026-01-30 03:29:04,359 - RealEstateBotMain - INFO - ============================================================
+2026-01-30 03:29:04,359 - RealEstateBotMain - INFO - 
+[FASE 1] SCRAPING DE PORTAIS
+2026-01-30 03:29:04,359 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:29:04,359 - ScraperOrchestrator - INFO - INICIANDO ORCHESTRADOR DE SCRAPERS
+2026-01-30 03:29:04,359 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:29:04,359 - ScraperOrchestrator - INFO - Executando todos os 6 scrapers
+2026-01-30 03:29:04,359 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 03:29:04,359 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Imovirtual
+2026-01-30 03:29:04,359 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:29:04,963 - ImovirtualScraper - INFO - Total de anúncios extraídos via API: 3
+2026-01-30 03:29:04,964 - ScraperOrchestrator - INFO - [OK] Imovirtual: 3 listings extraidos
+2026-01-30 03:29:04,965 - ScraperOrchestrator - INFO -    Páginas: 0
+2026-01-30 03:29:04,965 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 03:29:04,965 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 03:29:04,965 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Idealista
+2026-01-30 03:29:04,965 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:29:05,880 - IdealistaScraper - INFO - Iniciando scrape Idealista
+2026-01-30 03:29:05,880 - IdealistaScraper - INFO - Página 1: https://www.idealista.pt/comprar/casas/porto-distrito/com-preco-max_250000,t2/?o...
+2026-01-30 03:29:13,149 - IdealistaScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 03:29:13,149 - IdealistaScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 03:29:13,149 - IdealistaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 03:29:13,201 - ScraperOrchestrator - INFO - [OK] Idealista: 0 listings extraidos
+2026-01-30 03:29:13,202 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 03:29:13,202 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 03:29:13,202 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 03:29:13,202 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: OLX
+2026-01-30 03:29:13,203 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:29:19,343 - OlxScraper - INFO - Extraindo página 1...
+2026-01-30 03:44:28,508 - RealEstateBotMain - INFO - ============================================================
+2026-01-30 03:44:28,509 - RealEstateBotMain - INFO - [BOT] REAL ESTATE BOT - INICIANDO PIPELINE
+2026-01-30 03:44:28,509 - RealEstateBotMain - INFO -    Modo: new
+2026-01-30 03:44:28,509 - RealEstateBotMain - INFO - ============================================================
+2026-01-30 03:44:28,509 - RealEstateBotMain - INFO - 
+[FASE 1] SCRAPING DE PORTAIS
+2026-01-30 03:44:28,509 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:44:28,509 - ScraperOrchestrator - INFO - INICIANDO ORCHESTRADOR DE SCRAPERS
+2026-01-30 03:44:28,510 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:44:28,510 - ScraperOrchestrator - INFO - Executando todos os 6 scrapers
+2026-01-30 03:44:28,510 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 03:44:28,510 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Imovirtual
+2026-01-30 03:44:28,510 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:44:29,871 - ImovirtualScraper - ERROR - Erro ao obter dados da API do Imovirtual: 400 Client Error: Bad Request for url: https://www.imovirtual.com/api/query
+2026-01-30 03:44:29,872 - ImovirtualScraper - INFO - [STATS] Pages: 0, Listings: 0, Errors: 0
+2026-01-30 03:44:29,919 - ScraperOrchestrator - INFO - [OK] Imovirtual: 0 listings extraidos
+2026-01-30 03:44:29,920 - ScraperOrchestrator - INFO -    Páginas: 0
+2026-01-30 03:44:29,920 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 03:44:29,920 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 03:44:29,920 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Idealista
+2026-01-30 03:44:29,920 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:44:30,789 - IdealistaScraper - INFO - Iniciando scrape Idealista
+2026-01-30 03:44:30,789 - IdealistaScraper - INFO - Página 1: https://www.idealista.pt/comprar/casas/porto-distrito/com-preco-max_250000,t2/?o...
+2026-01-30 03:44:40,967 - IdealistaScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 03:44:40,967 - IdealistaScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 03:44:40,968 - IdealistaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 03:44:41,025 - ScraperOrchestrator - INFO - [OK] Idealista: 0 listings extraidos
+2026-01-30 03:44:41,025 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 03:44:41,025 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 03:44:41,026 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 03:44:41,026 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: OLX
+2026-01-30 03:44:41,026 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 03:44:47,537 - OlxScraper - INFO - Extraindo página 1...
+2026-01-30 03:46:25,990 - OlxScraper - INFO - Total acumulado: 44 anúncios.
+2026-01-30 03:46:30,206 - OlxScraper - INFO - Extraindo página 2...
+2026-01-30 03:48:03,909 - OlxScraper - INFO - Total acumulado: 84 anúncios.
+2026-01-30 03:48:07,791 - OlxScraper - INFO - Extraindo página 3...
+2026-01-30 03:49:39,396 - OlxScraper - INFO - Total acumulado: 123 anúncios.
+2026-01-30 03:49:42,654 - OlxScraper - INFO - Extraindo página 4...
+2026-01-30 03:51:12,817 - OlxScraper - INFO - Total acumulado: 163 anúncios.
+2026-01-30 03:51:17,131 - OlxScraper - INFO - Extraindo página 5...
+2026-01-30 03:52:48,807 - OlxScraper - INFO - Total acumulado: 203 anúncios.
+2026-01-30 03:52:51,630 - OlxScraper - INFO - Extraindo página 6...
+2026-01-30 03:54:24,169 - OlxScraper - INFO - Total acumulado: 243 anúncios.
+2026-01-30 03:54:26,939 - OlxScraper - INFO - Extraindo página 7...
+2026-01-30 03:55:55,512 - OlxScraper - INFO - Total acumulado: 283 anúncios.
+2026-01-30 03:55:59,737 - OlxScraper - INFO - Extraindo página 8...
+2026-01-30 03:57:29,629 - OlxScraper - INFO - Total acumulado: 323 anúncios.
+2026-01-30 03:57:32,622 - OlxScraper - INFO - Extraindo página 9...
+2026-01-30 03:59:03,962 - OlxScraper - INFO - Total acumulado: 363 anúncios.
+2026-01-30 03:59:07,688 - OlxScraper - INFO - Extraindo página 10...
+2026-01-30 04:00:39,571 - OlxScraper - INFO - Total acumulado: 402 anúncios.
+2026-01-30 04:00:43,726 - OlxScraper - INFO - Extraindo página 11...
+2026-01-30 04:02:16,730 - OlxScraper - INFO - Total acumulado: 442 anúncios.
+2026-01-30 04:02:21,208 - OlxScraper - INFO - Extraindo página 12...
+2026-01-30 04:03:52,664 - OlxScraper - INFO - Total acumulado: 481 anúncios.
+2026-01-30 04:03:55,529 - OlxScraper - INFO - Extraindo página 13...
+2026-01-30 04:05:22,281 - OlxScraper - INFO - Total acumulado: 520 anúncios.
+2026-01-30 04:05:26,016 - OlxScraper - INFO - Extraindo página 14...
+2026-01-30 04:06:57,856 - OlxScraper - INFO - Total acumulado: 560 anúncios.
+2026-01-30 04:07:02,220 - OlxScraper - INFO - Extraindo página 15...
+2026-01-30 04:08:32,277 - OlxScraper - INFO - Total acumulado: 600 anúncios.
+2026-01-30 04:08:35,278 - OlxScraper - INFO - Extraindo página 16...
+2026-01-30 04:10:10,970 - OlxScraper - INFO - Total acumulado: 639 anúncios.
+2026-01-30 04:10:14,438 - OlxScraper - INFO - Extraindo página 17...
+2026-01-30 04:11:45,753 - OlxScraper - INFO - Total acumulado: 679 anúncios.
+2026-01-30 04:11:48,532 - OlxScraper - INFO - Extraindo página 18...
+2026-01-30 04:13:18,074 - OlxScraper - INFO - Total acumulado: 719 anúncios.
+2026-01-30 04:13:22,431 - OlxScraper - INFO - Extraindo página 19...
+2026-01-30 04:13:50,718 - OlxScraper - INFO - Total acumulado: 728 anúncios.
+2026-01-30 04:13:53,219 - OlxScraper - INFO - [STATS] Pages: 0, Listings: 728, Errors: 0
+2026-01-30 04:13:53,265 - ScraperOrchestrator - INFO - [OK] OLX: 728 listings extraidos
+2026-01-30 04:13:53,266 - ScraperOrchestrator - INFO -    Páginas: 0
+2026-01-30 04:13:53,266 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 04:13:53,266 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:13:53,266 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: CasaYes
+2026-01-30 04:13:53,266 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:13:54,209 - CasaYesScraper - INFO - Iniciando scrape CasaYes
+2026-01-30 04:13:54,210 - CasaYesScraper - INFO - Página 1
+2026-01-30 04:14:05,793 - CasaYesScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 04:14:05,793 - CasaYesScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 04:14:05,793 - CasaYesScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 04:14:05,849 - ScraperOrchestrator - INFO - [OK] CasaYes: 0 listings extraidos
+2026-01-30 04:14:05,849 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 04:14:05,849 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 04:14:05,850 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:14:05,850 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: SAPO Casa
+2026-01-30 04:14:05,850 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:14:06,705 - SapoCasaScraper - INFO - Iniciando scrape SAPO Casa
+2026-01-30 04:14:06,705 - SapoCasaScraper - INFO - Página 1
+2026-01-30 04:14:12,008 - SapoCasaScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 04:14:12,008 - SapoCasaScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 04:14:12,008 - SapoCasaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 04:14:12,061 - ScraperOrchestrator - INFO - [OK] SAPO Casa: 0 listings extraidos
+2026-01-30 04:14:12,062 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 04:14:12,062 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 04:14:12,062 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:14:12,062 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: SuperCasa
+2026-01-30 04:14:12,062 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:14:13,001 - SuperCasaScraper - INFO - Iniciando scrape SuperCasa
+2026-01-30 04:14:13,002 - SuperCasaScraper - INFO - Página 1
+2026-01-30 04:14:25,844 - SuperCasaScraper - INFO - Total de items: 0
+2026-01-30 04:14:25,844 - SuperCasaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 04:14:25,907 - ScraperOrchestrator - INFO - [OK] SuperCasa: 0 listings extraidos
+2026-01-30 04:14:25,907 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 04:14:25,908 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 04:14:25,908 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:14:25,908 - ScraperOrchestrator - INFO - RESUMO FINAL
+2026-01-30 04:14:25,908 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:14:25,908 - ScraperOrchestrator - INFO - Total de listings extraídos: 728
+2026-01-30 04:14:25,909 - ScraperOrchestrator - INFO - Tempo total: 1797.40s
+2026-01-30 04:14:25,909 - ScraperOrchestrator - INFO - Scrapers OK: 6
+2026-01-30 04:14:25,909 - ScraperOrchestrator - INFO - Scrapers FALHADOS: 0
+2026-01-30 04:14:25,909 - ScraperOrchestrator - INFO - ================================================================================
+
+2026-01-30 04:14:25,909 - RealEstateBotMain - INFO - [OK] Scraping concluido: 728 anuncios coletados
+2026-01-30 04:14:25,909 - RealEstateBotMain - INFO - 
+[FASE 2] FILTRAGEM POR MODO (new)
+2026-01-30 04:14:25,910 - RealEstateBotMain - INFO - [OK] 728/728 anuncios a processar
+2026-01-30 04:14:25,910 - RealEstateBotMain - INFO - 
+[FASE 3] PIPELINE MULTI-AGENTE
+2026-01-30 04:14:25,910 - PipelineOrchestrator - INFO - [PIPELINE] Iniciando pipeline para 728 anuncios
+2026-01-30 04:14:25,910 - PipelineOrchestrator - INFO - [STAGE 1] Normalizando dados brutos...
+2026-01-30 04:14:25,914 - PipelineOrchestrator - INFO -   [OK] 728/728 normalizados
+2026-01-30 04:14:25,914 - PipelineOrchestrator - INFO -     - Taxa extracao preco: 100.0%
+2026-01-30 04:14:25,914 - PipelineOrchestrator - INFO -     - Taxa extração área: 0.0%
+2026-01-30 04:14:25,914 - PipelineOrchestrator - INFO -     - Taxa extração localização: 100.0%
+2026-01-30 04:14:25,914 - PipelineOrchestrator - INFO - [DEDUPLICACAO] Agrupando anúncios semelhantes...
+2026-01-30 04:14:34,303 - PipelineOrchestrator - INFO -   [OK] 572 anúncios únicos após deduplicação (de 728)
+2026-01-30 04:14:34,304 - RealEstateBot - ERROR - Erro crítico: Object of type RawListing is not JSON serializable
+Traceback (most recent call last):
+  File "c:\Users\Joaop\AGENTEV2\real_estate_bot\main.py", line 267, in main
+    bot.run()
+    ~~~~~~~^^
+  File "c:\Users\Joaop\AGENTEV2\real_estate_bot\main.py", line 168, in run
+    pipeline_result = self.pipeline.process(filtered_listings)
+  File "c:\Users\Joaop\AGENTEV2\real_estate_bot\analysis\pipeline.py", line 107, in process
+    json.dump(serializable_groups, f, ensure_ascii=False, indent=2)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\json\__init__.py", line 179, in dump
+    for chunk in iterable:
+                 ^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 431, in _iterencode
+    yield from _iterencode_list(o, _current_indent_level)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 326, in _iterencode_list
+    yield from chunks
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 326, in _iterencode_list
+    yield from chunks
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 407, in _iterencode_dict
+    yield from chunks
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 440, in _iterencode
+    o = _default(o)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+                    f'is not JSON serializable')
+TypeError: Object of type RawListing is not JSON serializable
+2026-01-30 04:18:13,847 - RealEstateBotMain - INFO - ============================================================
+2026-01-30 04:18:13,847 - RealEstateBotMain - INFO - [BOT] REAL ESTATE BOT - INICIANDO PIPELINE
+2026-01-30 04:18:13,847 - RealEstateBotMain - INFO -    Modo: new
+2026-01-30 04:18:13,847 - RealEstateBotMain - INFO - ============================================================
+2026-01-30 04:18:13,847 - RealEstateBotMain - INFO - 
+[FASE 1] SCRAPING DE PORTAIS
+2026-01-30 04:18:13,847 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:18:13,847 - ScraperOrchestrator - INFO - INICIANDO ORCHESTRADOR DE SCRAPERS
+2026-01-30 04:18:13,847 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:18:13,848 - ScraperOrchestrator - INFO - Executando todos os 6 scrapers
+2026-01-30 04:18:13,848 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:18:13,848 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Imovirtual
+2026-01-30 04:18:13,848 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:18:15,073 - ImovirtualScraper - ERROR - Erro ao obter dados da API do Imovirtual: 400 Client Error: Bad Request for url: https://www.imovirtual.com/api/query
+2026-01-30 04:18:15,074 - ImovirtualScraper - INFO - [STATS] Pages: 0, Listings: 0, Errors: 0
+2026-01-30 04:18:15,118 - ScraperOrchestrator - INFO - [OK] Imovirtual: 0 listings extraidos
+2026-01-30 04:18:15,119 - ScraperOrchestrator - INFO -    Páginas: 0
+2026-01-30 04:18:15,119 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 04:18:15,119 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:18:15,119 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Idealista
+2026-01-30 04:18:15,119 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:18:15,983 - IdealistaScraper - INFO - Iniciando scrape Idealista
+2026-01-30 04:18:15,984 - IdealistaScraper - INFO - Página 1: https://www.idealista.pt/comprar/casas/porto-distrito/com-preco-max_250000,t2/?o...
+2026-01-30 04:18:24,830 - IdealistaScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 04:18:24,831 - IdealistaScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 04:18:24,831 - IdealistaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 04:18:24,882 - ScraperOrchestrator - INFO - [OK] Idealista: 0 listings extraidos
+2026-01-30 04:18:24,882 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 04:18:24,882 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 04:18:24,882 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:18:24,883 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: OLX
+2026-01-30 04:18:24,883 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:18:33,809 - OlxScraper - INFO - Extraindo página 1...
+2026-01-30 04:19:09,136 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=55386): Failed to establish a new connection: [WinError 10061] Nenhuma ligação pôde ser feita porque o computador de destino\r\nas recusou ativamente")': /session/ff6f811ae88ed3932f0e2902280cc85c
+2026-01-30 04:19:13,190 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=55386): Failed to establish a new connection: [WinError 10061] Nenhuma ligação pôde ser feita porque o computador de destino\r\nas recusou ativamente")': /session/ff6f811ae88ed3932f0e2902280cc85c
+2026-01-30 04:19:17,224 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=55386): Failed to establish a new connection: [WinError 10061] Nenhuma ligação pôde ser feita porque o computador de destino\r\nas recusou ativamente")': /session/ff6f811ae88ed3932f0e2902280cc85c
+2026-01-30 04:19:21,259 - ScraperOrchestrator - ERROR - [ERRO] OLX falhou: Browser.close: Connection closed while reading from the driver
+Traceback (most recent call last):
+  File "c:\Users\Joaop\AGENTEV2\real_estate_bot\scraper\orchestrator.py", line 91, in run
+    listings = scraper.scrape()
+  File "c:\Users\Joaop\AGENTEV2\real_estate_bot\scraper\base.py", line 147, in scrape
+    browser.close()
+    ~~~~~~~~~~~~~^^
+  File "C:\Users\Joaop\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\playwright\sync_api\_generated.py", line 14335, in close
+    return mapping.from_maybe_impl(self._sync(self._impl_obj.close(reason=reason)))
+                                   ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joaop\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\playwright\_impl\_sync_base.py", line 115, in _sync
+    return task.result()
+           ~~~~~~~~~~~^^
+  File "C:\Users\Joaop\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\playwright\_impl\_browser.py", line 241, in close
+    raise e
+  File "C:\Users\Joaop\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\playwright\_impl\_browser.py", line 238, in close
+    await self._channel.send("close", None, {"reason": reason})
+  File "C:\Users\Joaop\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<3 lines>...
+    )
+    ^
+  File "C:\Users\Joaop\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+Exception: Browser.close: Connection closed while reading from the driver
+2026-01-30 04:19:21,261 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:19:21,261 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: CasaYes
+2026-01-30 04:19:21,261 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:19:22,147 - CasaYesScraper - INFO - Iniciando scrape CasaYes
+2026-01-30 04:19:22,148 - CasaYesScraper - INFO - Página 1
+2026-01-30 04:20:08,718 - RealEstateBotMain - INFO - ============================================================
+2026-01-30 04:20:08,719 - RealEstateBotMain - INFO - [BOT] REAL ESTATE BOT - INICIANDO PIPELINE
+2026-01-30 04:20:08,719 - RealEstateBotMain - INFO -    Modo: new
+2026-01-30 04:20:08,719 - RealEstateBotMain - INFO - ============================================================
+2026-01-30 04:20:08,719 - RealEstateBotMain - INFO - 
+[FASE 1] SCRAPING DE PORTAIS
+2026-01-30 04:20:08,719 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:20:08,719 - ScraperOrchestrator - INFO - INICIANDO ORCHESTRADOR DE SCRAPERS
+2026-01-30 04:20:08,720 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:20:08,720 - ScraperOrchestrator - INFO - Executando todos os 6 scrapers
+2026-01-30 04:20:08,720 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:20:08,720 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Imovirtual
+2026-01-30 04:20:08,720 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:20:09,989 - ImovirtualScraper - ERROR - Erro ao obter dados da API do Imovirtual: 400 Client Error: Bad Request for url: https://www.imovirtual.com/api/query
+2026-01-30 04:20:09,991 - ImovirtualScraper - INFO - [STATS] Pages: 0, Listings: 0, Errors: 0
+2026-01-30 04:20:10,037 - ScraperOrchestrator - INFO - [OK] Imovirtual: 0 listings extraidos
+2026-01-30 04:20:10,037 - ScraperOrchestrator - INFO -    Páginas: 0
+2026-01-30 04:20:10,037 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 04:20:10,037 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:20:10,038 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Idealista
+2026-01-30 04:20:10,038 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:20:10,901 - IdealistaScraper - INFO - Iniciando scrape Idealista
+2026-01-30 04:20:10,901 - IdealistaScraper - INFO - Página 1: https://www.idealista.pt/comprar/casas/porto-distrito/com-preco-max_250000,t2/?o...
+2026-01-30 04:20:18,451 - IdealistaScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 04:20:18,451 - IdealistaScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 04:20:18,451 - IdealistaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 04:20:18,506 - ScraperOrchestrator - INFO - [OK] Idealista: 0 listings extraidos
+2026-01-30 04:20:18,506 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 04:20:18,507 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 04:20:18,507 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:20:18,507 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: OLX
+2026-01-30 04:20:18,507 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:20:19,414 - OlxScraper - ERROR - Fatal scraper error: [WinError 32] O processo não pode aceder ao ficheiro porque este está a ser utilizado por outro processo: 'C:/Users/Joaop/AGENTEV2/real_estate_bot/tmp_chrome_profile/Default\\Cache\\No_Vary_Search\\journal.baj'
+Traceback (most recent call last):
+  File "c:\Users\Joaop\AGENTEV2\real_estate_bot\scraper\base.py", line 131, in scrape
+    results = self.run(page)
+  File "c:\Users\Joaop\AGENTEV2\real_estate_bot\scraper\olx.py", line 25, in run
+    shutil.rmtree(TMP_PROFILE)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\shutil.py", line 790, in rmtree
+    return _rmtree_unsafe(path, onexc)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\shutil.py", line 629, in _rmtree_unsafe
+    onexc(os.unlink, fullname, err)
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\shutil.py", line 625, in _rmtree_unsafe
+    os.unlink(fullname)
+    ~~~~~~~~~^^^^^^^^^^
+PermissionError: [WinError 32] O processo não pode aceder ao ficheiro porque este está a ser utilizado por outro processo: 'C:/Users/Joaop/AGENTEV2/real_estate_bot/tmp_chrome_profile/Default\\Cache\\No_Vary_Search\\journal.baj'
+2026-01-30 04:20:19,458 - ScraperOrchestrator - INFO - [OK] OLX: 0 listings extraidos
+2026-01-30 04:20:19,458 - ScraperOrchestrator - INFO -    Páginas: 0
+2026-01-30 04:20:19,458 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 04:20:19,458 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:20:19,458 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: CasaYes
+2026-01-30 04:20:19,459 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:20:20,350 - CasaYesScraper - INFO - Iniciando scrape CasaYes
+2026-01-30 04:20:20,351 - CasaYesScraper - INFO - Página 1
+2026-01-30 04:20:28,070 - CasaYesScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 04:20:28,071 - CasaYesScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 04:20:28,071 - CasaYesScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 04:20:28,132 - ScraperOrchestrator - INFO - [OK] CasaYes: 0 listings extraidos
+2026-01-30 04:20:28,132 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 04:20:28,132 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 04:20:28,132 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:20:28,132 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: SAPO Casa
+2026-01-30 04:20:28,133 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:20:28,996 - SapoCasaScraper - INFO - Iniciando scrape SAPO Casa
+2026-01-30 04:20:28,997 - SapoCasaScraper - INFO - Página 1
+2026-01-30 04:20:37,337 - SapoCasaScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 04:20:37,338 - SapoCasaScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 04:20:37,338 - SapoCasaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 04:20:37,386 - ScraperOrchestrator - INFO - [OK] SAPO Casa: 0 listings extraidos
+2026-01-30 04:20:37,387 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 04:20:37,387 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 04:20:37,387 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:20:37,387 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: SuperCasa
+2026-01-30 04:20:37,387 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:20:38,249 - SuperCasaScraper - INFO - Iniciando scrape SuperCasa
+2026-01-30 04:20:38,250 - SuperCasaScraper - INFO - Página 1
+2026-01-30 04:20:47,503 - SuperCasaScraper - INFO - Total de items: 0
+2026-01-30 04:20:47,504 - SuperCasaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 04:20:47,558 - ScraperOrchestrator - INFO - [OK] SuperCasa: 0 listings extraidos
+2026-01-30 04:20:47,558 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 04:20:47,558 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 04:20:47,559 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:20:47,559 - ScraperOrchestrator - INFO - RESUMO FINAL
+2026-01-30 04:20:47,559 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:20:47,559 - ScraperOrchestrator - INFO - Total de listings extraídos: 0
+2026-01-30 04:20:47,559 - ScraperOrchestrator - INFO - Tempo total: 38.84s
+2026-01-30 04:20:47,559 - ScraperOrchestrator - INFO - Scrapers OK: 6
+2026-01-30 04:20:47,560 - ScraperOrchestrator - INFO - Scrapers FALHADOS: 0
+2026-01-30 04:20:47,560 - ScraperOrchestrator - INFO - ================================================================================
+
+2026-01-30 04:20:47,560 - RealEstateBotMain - INFO - [OK] Scraping concluido: 0 anuncios coletados
+2026-01-30 04:20:47,560 - RealEstateBotMain - WARNING - [AVISO] Nenhum dado coletado. Abortando.
+2026-01-30 04:21:02,847 - RealEstateBotMain - INFO - ============================================================
+2026-01-30 04:21:02,847 - RealEstateBotMain - INFO - [BOT] REAL ESTATE BOT - INICIANDO PIPELINE
+2026-01-30 04:21:02,847 - RealEstateBotMain - INFO -    Modo: new
+2026-01-30 04:21:02,847 - RealEstateBotMain - INFO - ============================================================
+2026-01-30 04:21:02,847 - RealEstateBotMain - INFO - 
+[FASE 1] SCRAPING DE PORTAIS
+2026-01-30 04:21:02,847 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:21:02,847 - ScraperOrchestrator - INFO - INICIANDO ORCHESTRADOR DE SCRAPERS
+2026-01-30 04:21:02,847 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:21:02,848 - ScraperOrchestrator - INFO - Executando todos os 6 scrapers
+2026-01-30 04:21:02,848 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:21:02,848 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Imovirtual
+2026-01-30 04:21:02,848 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:21:04,023 - ImovirtualScraper - ERROR - Erro ao obter dados da API do Imovirtual: 400 Client Error: Bad Request for url: https://www.imovirtual.com/api/query
+2026-01-30 04:21:04,024 - ImovirtualScraper - INFO - [STATS] Pages: 0, Listings: 0, Errors: 0
+2026-01-30 04:21:04,070 - ScraperOrchestrator - INFO - [OK] Imovirtual: 0 listings extraidos
+2026-01-30 04:21:04,071 - ScraperOrchestrator - INFO -    Páginas: 0
+2026-01-30 04:21:04,071 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 04:21:04,071 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:21:04,071 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Idealista
+2026-01-30 04:21:04,071 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:21:04,928 - IdealistaScraper - INFO - Iniciando scrape Idealista
+2026-01-30 04:21:04,928 - IdealistaScraper - INFO - Página 1: https://www.idealista.pt/comprar/casas/porto-distrito/com-preco-max_250000,t2/?o...
+2026-01-30 04:21:11,354 - IdealistaScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 04:21:11,354 - IdealistaScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 04:21:11,355 - IdealistaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 04:21:11,405 - ScraperOrchestrator - INFO - [OK] Idealista: 0 listings extraidos
+2026-01-30 04:21:11,405 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 04:21:11,405 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 04:21:11,405 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:21:11,406 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: OLX
+2026-01-30 04:21:11,406 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:21:17,594 - OlxScraper - INFO - Extraindo página 1...
+2026-01-30 04:21:41,869 - OlxScraper - ERROR - Fatal scraper error: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff679c2a535
+	0x7ff679c2a590
+	0x7ff6799d0ea6
+	0x7ff679a1bca6
+	0x7ff679a55942
+	0x7ff679a4fd66
+	0x7ff679a4ecc1
+	0x7ff6799999e5
+	0x7ff679f07b60
+	0x7ff679f01f5d
+	0x7ff679f2311a
+	0x7ff679c460a5
+	0x7ff679c4e73c
+	0x7ff6799987aa
+	0x7ff67a06f448
+	0x7ff8848be8d7
+	0x7ff88534c53c
+Traceback (most recent call last):
+  File "c:\Users\Joaop\AGENTEV2\real_estate_bot\scraper\base.py", line 131, in scrape
+    results = self.run(page)
+  File "c:\Users\Joaop\AGENTEV2\real_estate_bot\scraper\olx.py", line 153, in run
+    ads = extract_ads(driver)
+  File "c:\Users\Joaop\AGENTEV2\real_estate_bot\scraper\olx.py", line 122, in extract_ads
+    main_handle = driver.window_handles[0]
+                  ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joaop\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 570, in window_handles
+    return self.execute(Command.W3C_GET_WINDOW_HANDLES)["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joaop\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 432, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Joaop\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff679c2a535
+	0x7ff679c2a590
+	0x7ff6799d0ea6
+	0x7ff679a1bca6
+	0x7ff679a55942
+	0x7ff679a4fd66
+	0x7ff679a4ecc1
+	0x7ff6799999e5
+	0x7ff679f07b60
+	0x7ff679f01f5d
+	0x7ff679f2311a
+	0x7ff679c460a5
+	0x7ff679c4e73c
+	0x7ff6799987aa
+	0x7ff67a06f448
+	0x7ff8848be8d7
+	0x7ff88534c53c
+
+2026-01-30 04:21:41,910 - ScraperOrchestrator - INFO - [OK] OLX: 0 listings extraidos
+2026-01-30 04:21:41,910 - ScraperOrchestrator - INFO -    Páginas: 0
+2026-01-30 04:21:41,910 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 04:21:41,910 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:21:41,911 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: CasaYes
+2026-01-30 04:21:41,911 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:21:42,779 - CasaYesScraper - INFO - Iniciando scrape CasaYes
+2026-01-30 04:21:42,780 - CasaYesScraper - INFO - Página 1
+2026-01-30 04:23:36,323 - RealEstateBotMain - INFO - ============================================================
+2026-01-30 04:23:36,323 - RealEstateBotMain - INFO - [BOT] REAL ESTATE BOT - INICIANDO PIPELINE
+2026-01-30 04:23:36,324 - RealEstateBotMain - INFO -    Modo: new
+2026-01-30 04:23:36,324 - RealEstateBotMain - INFO - ============================================================
+2026-01-30 04:23:36,324 - RealEstateBotMain - INFO - 
+[FASE 1] SCRAPING DE PORTAIS
+2026-01-30 04:23:36,324 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:23:36,324 - ScraperOrchestrator - INFO - INICIANDO ORCHESTRADOR DE SCRAPERS
+2026-01-30 04:23:36,324 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:23:36,324 - ScraperOrchestrator - INFO - Executando todos os 6 scrapers
+2026-01-30 04:23:36,325 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:23:36,325 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Imovirtual
+2026-01-30 04:23:36,325 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:23:37,546 - ImovirtualScraper - ERROR - Erro ao obter dados da API do Imovirtual: 400 Client Error: Bad Request for url: https://www.imovirtual.com/api/query
+2026-01-30 04:23:37,547 - ImovirtualScraper - INFO - [STATS] Pages: 0, Listings: 0, Errors: 0
+2026-01-30 04:23:37,591 - ScraperOrchestrator - INFO - [OK] Imovirtual: 0 listings extraidos
+2026-01-30 04:23:37,592 - ScraperOrchestrator - INFO -    Páginas: 0
+2026-01-30 04:23:37,592 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 04:23:37,592 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:23:37,592 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Idealista
+2026-01-30 04:23:37,592 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:23:38,490 - IdealistaScraper - INFO - Iniciando scrape Idealista
+2026-01-30 04:23:38,490 - IdealistaScraper - INFO - Página 1: https://www.idealista.pt/comprar/casas/porto-distrito/com-preco-max_250000,t2/?o...
+2026-01-30 04:23:48,534 - IdealistaScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 04:23:48,534 - IdealistaScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 04:23:48,535 - IdealistaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 04:23:48,588 - ScraperOrchestrator - INFO - [OK] Idealista: 0 listings extraidos
+2026-01-30 04:23:48,589 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 04:23:48,589 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 04:23:48,589 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:23:48,589 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: OLX
+2026-01-30 04:23:48,589 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:23:53,758 - OlxScraper - ERROR - Fatal scraper error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=144.0.7559.98)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff679c2a535
+	0x7ff679c2a590
+	0x7ff6799d10bd
+	0x7ff6799a7c22
+	0x7ff679a5d436
+	0x7ff679a79822
+	0x7ff679a1cc9c
+	0x7ff679a1dbe3
+	0x7ff679f07b60
+	0x7ff679f01f5d
+	0x7ff679f2311a
+	0x7ff679c460a5
+	0x7ff679c4e73c
+	0x7ff679c33844
+	0x7ff679c339f6
+	0x7ff679c19a07
+	0x7ff8848be8d7
+	0x7ff88534c53c
+Traceback (most recent call last):
+  File "c:\Users\Joaop\AGENTEV2\real_estate_bot\scraper\base.py", line 131, in scrape
+    results = self.run(page)
+  File "c:\Users\Joaop\AGENTEV2\real_estate_bot\scraper\olx.py", line 143, in run
+    if not wait_for_cloudflare(driver, timeout=40):
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\Joaop\AGENTEV2\real_estate_bot\scraper\olx.py", line 39, in wait_for_cloudflare
+    if "Checking your browser" not in driver.page_source and "Cloudflare" not in driver.page_source:
+                                      ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joaop\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 547, in page_source
+    return self.execute(Command.GET_PAGE_SOURCE)["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joaop\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 432, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Joaop\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=144.0.7559.98)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff679c2a535
+	0x7ff679c2a590
+	0x7ff6799d10bd
+	0x7ff6799a7c22
+	0x7ff679a5d436
+	0x7ff679a79822
+	0x7ff679a1cc9c
+	0x7ff679a1dbe3
+	0x7ff679f07b60
+	0x7ff679f01f5d
+	0x7ff679f2311a
+	0x7ff679c460a5
+	0x7ff679c4e73c
+	0x7ff679c33844
+	0x7ff679c339f6
+	0x7ff679c19a07
+	0x7ff8848be8d7
+	0x7ff88534c53c
+
+2026-01-30 04:23:53,801 - ScraperOrchestrator - INFO - [OK] OLX: 0 listings extraidos
+2026-01-30 04:23:53,802 - ScraperOrchestrator - INFO -    Páginas: 0
+2026-01-30 04:23:53,802 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 04:23:53,802 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:23:53,802 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: CasaYes
+2026-01-30 04:23:53,802 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:23:54,667 - CasaYesScraper - INFO - Iniciando scrape CasaYes
+2026-01-30 04:23:54,667 - CasaYesScraper - INFO - Página 1
+2026-01-30 04:24:06,339 - CasaYesScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 04:24:06,339 - CasaYesScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 04:24:06,339 - CasaYesScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 04:24:06,398 - ScraperOrchestrator - INFO - [OK] CasaYes: 0 listings extraidos
+2026-01-30 04:24:06,398 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 04:24:06,399 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 04:24:06,399 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:24:06,399 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: SAPO Casa
+2026-01-30 04:24:06,399 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:24:07,263 - SapoCasaScraper - INFO - Iniciando scrape SAPO Casa
+2026-01-30 04:24:07,264 - SapoCasaScraper - INFO - Página 1
+2026-01-30 04:24:13,917 - SapoCasaScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 04:24:13,917 - SapoCasaScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 04:24:13,918 - SapoCasaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 04:24:13,967 - ScraperOrchestrator - INFO - [OK] SAPO Casa: 0 listings extraidos
+2026-01-30 04:24:13,967 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 04:24:13,967 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 04:24:13,968 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:24:13,968 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: SuperCasa
+2026-01-30 04:24:13,968 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:24:14,854 - SuperCasaScraper - INFO - Iniciando scrape SuperCasa
+2026-01-30 04:24:14,855 - SuperCasaScraper - INFO - Página 1
+2026-01-30 04:24:22,424 - SuperCasaScraper - INFO - Total de items: 0
+2026-01-30 04:24:22,425 - SuperCasaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 04:24:22,480 - ScraperOrchestrator - INFO - [OK] SuperCasa: 0 listings extraidos
+2026-01-30 04:24:22,480 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 04:24:22,480 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 04:24:22,481 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:24:22,481 - ScraperOrchestrator - INFO - RESUMO FINAL
+2026-01-30 04:24:22,481 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:24:22,481 - ScraperOrchestrator - INFO - Total de listings extraídos: 0
+2026-01-30 04:24:22,481 - ScraperOrchestrator - INFO - Tempo total: 46.16s
+2026-01-30 04:24:22,481 - ScraperOrchestrator - INFO - Scrapers OK: 6
+2026-01-30 04:24:22,481 - ScraperOrchestrator - INFO - Scrapers FALHADOS: 0
+2026-01-30 04:24:22,481 - ScraperOrchestrator - INFO - ================================================================================
+
+2026-01-30 04:24:22,482 - RealEstateBotMain - INFO - [OK] Scraping concluido: 0 anuncios coletados
+2026-01-30 04:24:22,482 - RealEstateBotMain - WARNING - [AVISO] Nenhum dado coletado. Abortando.
+2026-01-30 04:25:10,294 - RealEstateBotMain - INFO - ============================================================
+2026-01-30 04:25:10,294 - RealEstateBotMain - INFO - [BOT] REAL ESTATE BOT - INICIANDO PIPELINE
+2026-01-30 04:25:10,294 - RealEstateBotMain - INFO -    Modo: new
+2026-01-30 04:25:10,294 - RealEstateBotMain - INFO - ============================================================
+2026-01-30 04:25:10,294 - RealEstateBotMain - INFO - 
+[FASE 1] SCRAPING DE PORTAIS
+2026-01-30 04:25:10,295 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:25:10,295 - ScraperOrchestrator - INFO - INICIANDO ORCHESTRADOR DE SCRAPERS
+2026-01-30 04:25:10,295 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:25:10,295 - ScraperOrchestrator - INFO - Executando todos os 6 scrapers
+2026-01-30 04:25:10,296 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:25:10,296 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Imovirtual
+2026-01-30 04:25:10,296 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:25:11,565 - ImovirtualScraper - ERROR - Erro ao obter dados da API do Imovirtual: 400 Client Error: Bad Request for url: https://www.imovirtual.com/api/query
+2026-01-30 04:25:11,566 - ImovirtualScraper - INFO - [STATS] Pages: 0, Listings: 0, Errors: 0
+2026-01-30 04:25:11,613 - ScraperOrchestrator - INFO - [OK] Imovirtual: 0 listings extraidos
+2026-01-30 04:25:11,613 - ScraperOrchestrator - INFO -    Páginas: 0
+2026-01-30 04:25:11,613 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 04:25:11,613 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:25:11,614 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Idealista
+2026-01-30 04:25:11,614 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:25:12,476 - IdealistaScraper - INFO - Iniciando scrape Idealista
+2026-01-30 04:25:12,476 - IdealistaScraper - INFO - Página 1: https://www.idealista.pt/comprar/casas/porto-distrito/com-preco-max_250000,t2/?o...
+2026-01-30 04:25:23,408 - IdealistaScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 04:25:23,409 - IdealistaScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 04:25:23,409 - IdealistaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 04:25:23,457 - ScraperOrchestrator - INFO - [OK] Idealista: 0 listings extraidos
+2026-01-30 04:25:23,458 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 04:25:23,458 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 04:25:23,458 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:25:23,458 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: OLX
+2026-01-30 04:25:23,458 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:26:05,570 - RealEstateBotMain - INFO - ============================================================
+2026-01-30 04:26:05,570 - RealEstateBotMain - INFO - [BOT] REAL ESTATE BOT - INICIANDO PIPELINE
+2026-01-30 04:26:05,570 - RealEstateBotMain - INFO -    Modo: new
+2026-01-30 04:26:05,570 - RealEstateBotMain - INFO - ============================================================
+2026-01-30 04:26:05,571 - RealEstateBotMain - INFO - 
+[FASE 1] SCRAPING DE PORTAIS
+2026-01-30 04:26:05,571 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:26:05,571 - ScraperOrchestrator - INFO - INICIANDO ORCHESTRADOR DE SCRAPERS
+2026-01-30 04:26:05,571 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:26:05,571 - ScraperOrchestrator - INFO - Executando todos os 6 scrapers
+2026-01-30 04:26:05,572 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:26:05,572 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Imovirtual
+2026-01-30 04:26:05,572 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:26:06,819 - ImovirtualScraper - ERROR - Erro ao obter dados da API do Imovirtual: 400 Client Error: Bad Request for url: https://www.imovirtual.com/api/query
+2026-01-30 04:26:06,820 - ImovirtualScraper - INFO - [STATS] Pages: 0, Listings: 0, Errors: 0
+2026-01-30 04:26:06,856 - ScraperOrchestrator - INFO - [OK] Imovirtual: 0 listings extraidos
+2026-01-30 04:26:06,856 - ScraperOrchestrator - INFO -    Páginas: 0
+2026-01-30 04:26:06,856 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 04:26:06,857 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:26:06,857 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Idealista
+2026-01-30 04:26:06,857 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:26:07,713 - IdealistaScraper - INFO - Iniciando scrape Idealista
+2026-01-30 04:26:07,713 - IdealistaScraper - INFO - Página 1: https://www.idealista.pt/comprar/casas/porto-distrito/com-preco-max_250000,t2/?o...
+2026-01-30 04:26:16,785 - IdealistaScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 04:26:16,785 - IdealistaScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 04:26:16,786 - IdealistaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 04:26:16,830 - ScraperOrchestrator - INFO - [OK] Idealista: 0 listings extraidos
+2026-01-30 04:26:16,830 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 04:26:16,831 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 04:26:16,831 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:26:16,831 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: OLX
+2026-01-30 04:26:16,831 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:26:17,715 - OlxScraper - ERROR - Fatal scraper error: [WinError 32] O processo não pode aceder ao ficheiro porque este está a ser utilizado por outro processo: 'C:/Users/Joaop/AGENTEV2/real_estate_bot/tmp_chrome_profile/Default\\Cache\\No_Vary_Search\\journal.baj'
+Traceback (most recent call last):
+  File "c:\Users\Joaop\AGENTEV2\real_estate_bot\scraper\base.py", line 131, in scrape
+    results = self.run(page)
+  File "c:\Users\Joaop\AGENTEV2\real_estate_bot\scraper\olx.py", line 25, in run
+    shutil.rmtree(TMP_PROFILE)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\shutil.py", line 790, in rmtree
+    return _rmtree_unsafe(path, onexc)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\shutil.py", line 629, in _rmtree_unsafe
+    onexc(os.unlink, fullname, err)
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\shutil.py", line 625, in _rmtree_unsafe
+    os.unlink(fullname)
+    ~~~~~~~~~^^^^^^^^^^
+PermissionError: [WinError 32] O processo não pode aceder ao ficheiro porque este está a ser utilizado por outro processo: 'C:/Users/Joaop/AGENTEV2/real_estate_bot/tmp_chrome_profile/Default\\Cache\\No_Vary_Search\\journal.baj'
+2026-01-30 04:26:17,755 - ScraperOrchestrator - INFO - [OK] OLX: 0 listings extraidos
+2026-01-30 04:26:17,755 - ScraperOrchestrator - INFO -    Páginas: 0
+2026-01-30 04:26:17,755 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 04:26:17,755 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:26:17,755 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: CasaYes
+2026-01-30 04:26:17,756 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:26:18,605 - CasaYesScraper - INFO - Iniciando scrape CasaYes
+2026-01-30 04:26:18,605 - CasaYesScraper - INFO - Página 1
+2026-01-30 04:26:26,276 - CasaYesScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 04:26:26,276 - CasaYesScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 04:26:26,277 - CasaYesScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 04:26:26,333 - ScraperOrchestrator - INFO - [OK] CasaYes: 0 listings extraidos
+2026-01-30 04:26:26,334 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 04:26:26,334 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 04:26:26,334 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:26:26,334 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: SAPO Casa
+2026-01-30 04:26:26,334 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:26:27,190 - SapoCasaScraper - INFO - Iniciando scrape SAPO Casa
+2026-01-30 04:26:27,191 - SapoCasaScraper - INFO - Página 1
+2026-01-30 04:26:34,386 - SapoCasaScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 04:26:34,387 - SapoCasaScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 04:26:34,387 - SapoCasaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 04:26:34,445 - ScraperOrchestrator - INFO - [OK] SAPO Casa: 0 listings extraidos
+2026-01-30 04:26:34,445 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 04:26:34,445 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 04:26:34,445 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:26:34,446 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: SuperCasa
+2026-01-30 04:26:34,446 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:26:35,303 - SuperCasaScraper - INFO - Iniciando scrape SuperCasa
+2026-01-30 04:26:35,304 - SuperCasaScraper - INFO - Página 1
+2026-01-30 04:26:44,665 - SuperCasaScraper - INFO - Total de items: 0
+2026-01-30 04:26:44,665 - SuperCasaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 04:26:44,719 - ScraperOrchestrator - INFO - [OK] SuperCasa: 0 listings extraidos
+2026-01-30 04:26:44,719 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 04:26:44,719 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 04:26:44,719 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:26:44,720 - ScraperOrchestrator - INFO - RESUMO FINAL
+2026-01-30 04:26:44,720 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:26:44,720 - ScraperOrchestrator - INFO - Total de listings extraídos: 0
+2026-01-30 04:26:44,720 - ScraperOrchestrator - INFO - Tempo total: 39.15s
+2026-01-30 04:26:44,720 - ScraperOrchestrator - INFO - Scrapers OK: 6
+2026-01-30 04:26:44,720 - ScraperOrchestrator - INFO - Scrapers FALHADOS: 0
+2026-01-30 04:26:44,720 - ScraperOrchestrator - INFO - ================================================================================
+
+2026-01-30 04:26:44,721 - RealEstateBotMain - INFO - [OK] Scraping concluido: 0 anuncios coletados
+2026-01-30 04:26:44,721 - RealEstateBotMain - WARNING - [AVISO] Nenhum dado coletado. Abortando.
+2026-01-30 04:32:06,578 - RealEstateBotMain - INFO - ============================================================
+2026-01-30 04:32:06,579 - RealEstateBotMain - INFO - [BOT] REAL ESTATE BOT - INICIANDO PIPELINE
+2026-01-30 04:32:06,579 - RealEstateBotMain - INFO -    Modo: new
+2026-01-30 04:32:06,579 - RealEstateBotMain - INFO - ============================================================
+2026-01-30 04:32:06,579 - RealEstateBotMain - INFO - 
+[FASE 1] SCRAPING DE PORTAIS
+2026-01-30 04:32:06,579 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:32:06,579 - ScraperOrchestrator - INFO - INICIANDO ORCHESTRADOR DE SCRAPERS
+2026-01-30 04:32:06,580 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:32:06,580 - ScraperOrchestrator - INFO - Executando todos os 6 scrapers
+2026-01-30 04:32:06,580 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:32:06,580 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Imovirtual
+2026-01-30 04:32:06,580 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:32:07,860 - ImovirtualScraper - ERROR - Erro ao obter dados da API do Imovirtual: 400 Client Error: Bad Request for url: https://www.imovirtual.com/api/query
+2026-01-30 04:32:07,861 - ImovirtualScraper - INFO - [STATS] Pages: 0, Listings: 0, Errors: 0
+2026-01-30 04:32:07,910 - ScraperOrchestrator - INFO - [OK] Imovirtual: 0 listings extraidos
+2026-01-30 04:32:07,910 - ScraperOrchestrator - INFO -    Páginas: 0
+2026-01-30 04:32:07,910 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 04:32:07,910 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:32:07,910 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: Idealista
+2026-01-30 04:32:07,910 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:32:08,787 - IdealistaScraper - INFO - Iniciando scrape Idealista
+2026-01-30 04:32:08,787 - IdealistaScraper - INFO - Página 1: https://www.idealista.pt/comprar/casas/porto-distrito/com-preco-max_250000,t2/?o...
+2026-01-30 04:32:18,872 - IdealistaScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 04:32:18,873 - IdealistaScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 04:32:18,873 - IdealistaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 04:32:18,927 - ScraperOrchestrator - INFO - [OK] Idealista: 0 listings extraidos
+2026-01-30 04:32:18,928 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 04:32:18,928 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 04:32:18,928 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:32:18,928 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: OLX
+2026-01-30 04:32:18,929 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:32:19,789 - OlxScraper - ERROR - Fatal scraper error: [WinError 32] O processo não pode aceder ao ficheiro porque este está a ser utilizado por outro processo: 'C:/Users/Joaop/AGENTEV2/real_estate_bot/tmp_chrome_profile/Default\\Cache\\No_Vary_Search\\journal.baj'
+Traceback (most recent call last):
+  File "c:\Users\Joaop\AGENTEV2\real_estate_bot\scraper\base.py", line 131, in scrape
+    results = self.run(page)
+  File "c:\Users\Joaop\AGENTEV2\real_estate_bot\scraper\olx.py", line 25, in run
+    shutil.rmtree(TMP_PROFILE)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\shutil.py", line 790, in rmtree
+    return _rmtree_unsafe(path, onexc)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\shutil.py", line 629, in _rmtree_unsafe
+    onexc(os.unlink, fullname, err)
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\Lib\shutil.py", line 625, in _rmtree_unsafe
+    os.unlink(fullname)
+    ~~~~~~~~~^^^^^^^^^^
+PermissionError: [WinError 32] O processo não pode aceder ao ficheiro porque este está a ser utilizado por outro processo: 'C:/Users/Joaop/AGENTEV2/real_estate_bot/tmp_chrome_profile/Default\\Cache\\No_Vary_Search\\journal.baj'
+2026-01-30 04:32:19,829 - ScraperOrchestrator - INFO - [OK] OLX: 0 listings extraidos
+2026-01-30 04:32:19,829 - ScraperOrchestrator - INFO -    Páginas: 0
+2026-01-30 04:32:19,830 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 04:32:19,830 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:32:19,830 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: CasaYes
+2026-01-30 04:32:19,830 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:32:20,700 - CasaYesScraper - INFO - Iniciando scrape CasaYes
+2026-01-30 04:32:20,700 - CasaYesScraper - INFO - Página 1
+2026-01-30 04:32:29,065 - CasaYesScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 04:32:29,066 - CasaYesScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 04:32:29,066 - CasaYesScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 04:32:29,124 - ScraperOrchestrator - INFO - [OK] CasaYes: 0 listings extraidos
+2026-01-30 04:32:29,124 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 04:32:29,124 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 04:32:29,125 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:32:29,125 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: SAPO Casa
+2026-01-30 04:32:29,125 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:32:29,979 - SapoCasaScraper - INFO - Iniciando scrape SAPO Casa
+2026-01-30 04:32:29,979 - SapoCasaScraper - INFO - Página 1
+2026-01-30 04:32:39,701 - SapoCasaScraper - WARNING - Possível bloqueio anti-bot detectado!
+2026-01-30 04:32:39,701 - SapoCasaScraper - WARNING - Abortando página devido a bloqueio anti-bot.
+2026-01-30 04:32:39,702 - SapoCasaScraper - INFO - [STATS] Pages: 1, Listings: 0, Errors: 0
+2026-01-30 04:32:39,748 - ScraperOrchestrator - INFO - [OK] SAPO Casa: 0 listings extraidos
+2026-01-30 04:32:39,748 - ScraperOrchestrator - INFO -    Páginas: 1
+2026-01-30 04:32:39,748 - ScraperOrchestrator - INFO -    Erros: 0
+2026-01-30 04:32:39,748 - ScraperOrchestrator - INFO - 
+================================================================================
+2026-01-30 04:32:39,748 - ScraperOrchestrator - INFO - [SCRAPING] Iniciando scraper: SuperCasa
+2026-01-30 04:32:39,749 - ScraperOrchestrator - INFO - ================================================================================
+2026-01-30 04:32:40,698 - SuperCasaScraper - INFO - Iniciando scrape SuperCasa
+2026-01-30 04:32:40,698 - SuperCasaScraper - INFO - Página 1
