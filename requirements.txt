@@ -5,3 +5,4 @@ pandas
 playwright-stealth
 fake-useragent
 requests
+selenium==4.18.1
